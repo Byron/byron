@@ -5,7 +5,7 @@ Probably that's why I am maintaining [GitPython][gitpython] and making [gitoxide
 
 You can take a look at [my timesheets][timesheets] or support me [via GitHub Sponsors][sponsoring].
 
-[gitoxide]: https://github.com/gitpython-developers/GitPython
-[gitpython]: https://github.com/Byron/gitoxide
+[gitoxide]: https://github.com/Byron/gitoxide
+[gitpython]: https://github.com/gitpython-developers/GitPython
 [sponsoring]: https://github.com/sponsors/Byron
 [timesheets]: https://github.com/Byron/byron/tree/main/timesheets
