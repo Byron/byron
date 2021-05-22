@@ -1,4 +1,104 @@
 Group,Task,Date,Start,Finish,Minutes,Duration,Billing Rate,Gain,Notes
+Open Source,Google APIs,2021/04/01,8:28 AM,9:20 AM,52,00:52:00,¥0.00/h,-,Fix compile errors 
+Open Source,Google APIs,2021/04/01,9:55 AM,10:37 AM,42,00:42:00,¥0.00/h,-,All libs build with async 
+Open Source,Google APIs,2021/04/01,3:21 PM,7:15 PM,234,03:54:00,¥0.00/h,-,
+Open Source,Google APIs,2021/04/01,8:47 PM,9:15 PM,28,00:28:00,¥0.00/h,-,
+Open Source,Google APIs,2021/04/01,9:48 PM,11:30 PM,102,01:42:00,¥0.00/h,-,Fix everything there is in https://github.com/Byron/google-apis-rs/pull/264 and merge it
+Open Source,Google APIs,2021/04/01,11:37 PM,11:59 PM,23,00:23:00,¥0.00/h,-,"publish crates, communicate EOD"
+Open Source,Google APIs,2021/04/02,12:00 AM,12:28 AM,28,00:28:00,¥0.00/h,-,"publish crates, communicate EOD"
+Open Source,Google APIs,2021/04/02,8:06 AM,8:41 AM,35,00:35:00,¥0.00/h,-,"Fix doc publishing , publish more crates, ask for limit increase "
+Open Source,Google APIs,2021/04/02,8:11 PM,9:11 PM,60,01:00:00,¥0.00/h,-,Merge fix and publish crates in the background 
+Open Source,Google APIs,2021/04/03,9:44 AM,10:23 AM,39,00:39:00,¥0.00/h,-,Finish publishing google API crates and marketing; reconnect to new generator project.
+Open Source,Google APIs,2021/04/03,10:30 PM,10:57 PM,27,00:27:00,¥0.00/h,-,Cleanup 
+Open Source,Google APIs,2021/04/06,9:02 PM,9:28 PM,26,00:26:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/266
+Open Source,Google APIs,2021/04/09,12:31 PM,12:39 PM,8,00:08:00,¥0.00/h,-,
+Open Source,Google APIs,2021/04/12,9:52 AM,10:16 AM,24,00:24:00,¥0.00/h,-,
+Open Source,Google APIs,2021/04/13,7:02 PM,7:21 PM,19,00:19:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/discussions/271?converting=1
+Open Source,Google APIs,2021/04/14,9:10 AM,10:36 AM,86,01:26:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/discussions/271; republish throughout the day
+Open Source,Google APIs,2021/04/14,4:03 PM,4:38 PM,35,00:35:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/discussions/271#discussioncomment-608367
+Open Source,Google APIs,2021/04/15,9:51 AM,11:02 AM,71,01:11:00,¥0.00/h,-,Set project to maintenance mode
+Open Source,Google APIs,2021/04/16,9:44 AM,9:54 AM,10,00:10:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/278
+Open Source,Google APIs,2021/04/16,3:51 PM,3:55 PM,4,00:04:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/173#issuecomment-820964911
+Open Source,Google APIs,2021/04/19,7:00 PM,7:08 PM,8,00:08:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/discussions/279#discussioncomment-629661
+Open Source,Google APIs,2021/04/20,9:18 AM,9:20 AM,2,00:02:00,¥0.00/h,-,
+Open Source,Google APIs,2021/04/21,4:18 PM,4:21 PM,3,00:03:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/discussions/279#discussioncomment-638614
+Open Source,Google APIs,2021/04/22,9:42 AM,9:53 AM,11,00:11:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/pull/280
+Open Source,Google APIs,2021/04/26,9:29 AM,9:39 AM,10,00:10:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/281
+Open Source,Google APIs,2021/05/15,9:33 AM,9:36 AM,3,00:03:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/discussions/283
+Open Source,GitPython,2021/03/31,10:36 PM,10:40 PM,4,00:04:00,¥0.00/h,-,Issue 1209
+Open Source,GitPython,2021/04/12,10:16 AM,10:18 AM,2,00:02:00,¥0.00/h,-,
+Open Source,GitPython,2021/04/13,6:51 PM,7:01 PM,10,00:10:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1210
+Open Source,GitPython,2021/04/13,7:22 PM,7:29 PM,7,00:07:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1210
+Open Source,GitPython,2021/04/14,10:59 AM,11:00 AM,1,00:01:00,¥0.00/h,-,
+Open Source,GitPython,2021/04/14,1:21 PM,2:03 PM,42,00:42:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1210
+Open Source,GitPython,2021/04/16,9:08 AM,9:14 AM,6,00:06:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/discussions/1212
+Open Source,GitPython,2021/04/16,9:15 AM,9:22 AM,7,00:07:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/discussions/1212
+Open Source,GitPython,2021/04/16,9:42 AM,9:44 AM,2,00:02:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1189
+Open Source,GitPython,2021/04/18,8:43 AM,8:50 AM,7,00:07:00,¥0.00/h,-,https://github.com/gitpython-developers/gitdb/issues/70
+Open Source,GitPython,2021/04/20,9:23 AM,9:29 AM,6,00:06:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/892
+Open Source,GitPython,2021/04/20,1:24 PM,1:45 PM,21,00:21:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1216
+Open Source,GitPython,2021/04/21,1:30 PM,1:33 PM,3,00:03:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1215
+Open Source,GitPython,2021/04/21,1:34 PM,1:40 PM,6,00:06:00,¥0.00/h,-,
+Open Source,GitPython,2021/04/21,4:11 PM,4:17 PM,6,00:06:00,¥0.00/h,-,"https://github.com/gitpython-developers/GitPython/pull/1217, https://github.com/gitpython-developers/GitPython/pull/1218"
+Open Source,GitPython,2021/04/21,4:38 PM,4:46 PM,8,00:08:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1219
+Open Source,GitPython,2021/04/22,9:25 AM,9:42 AM,17,00:17:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1223
+Open Source,GitPython,2021/04/22,4:29 PM,4:31 PM,2,00:02:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/pull/1224
+Open Source,GitPython,2021/04/22,4:37 PM,4:55 PM,18,00:18:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/pull/1224
+Open Source,GitPython,2021/04/23,7:20 AM,7:46 AM,26,00:26:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1223
+Open Source,GitPython,2021/04/23,8:18 PM,8:28 PM,10,00:10:00,¥0.00/h,-,
+Open Source,GitPython,2021/04/23,8:36 PM,8:56 PM,20,00:20:00,¥0.00/h,-,
+Open Source,GitPython,2021/04/23,9:09 PM,9:10 PM,1,00:01:00,¥0.00/h,-,
+Open Source,GitPython,2021/04/23,9:16 PM,9:44 PM,28,00:28:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1223
+Open Source,GitPython,2021/04/24,9:35 AM,10:05 AM,30,00:30:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1223#issuecomment-826017612
+Open Source,GitPython,2021/04/24,7:12 PM,7:23 PM,11,00:11:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/pull/1227#issuecomment-826077900
+Open Source,GitPython,2021/04/24,7:23 PM,8:45 PM,82,01:22:00,¥0.00/h,-,Research Pyo3’s viability for bringing gitoxide to gitpython as the next generation.
+Open Source,GitPython,2021/04/26,9:07 AM,9:09 AM,2,00:02:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1228
+Open Source,GitPython,2021/05/05,9:59 AM,10:14 AM,15,00:15:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/pull/1229
+Open Source,GitPython,2021/05/07,11:55 AM,12:04 PM,9,00:09:00,¥0.00/h,-,https://github.com/Byron/gitoxide/issues/11#issuecomment-834047623
+Open Source,GitPython,2021/05/07,12:05 PM,12:21 PM,16,00:16:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/pull/1229
+Open Source,GitPython,2021/05/09,8:30 AM,8:35 AM,5,00:05:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/pull/1232#pullrequestreview-655030531
+Open Source,GitPython,2021/05/12,9:37 AM,9:50 AM,13,00:13:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1233
+Open Source,GitPython,2021/05/12,9:50 AM,9:54 AM,4,00:04:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/pull/1232
+Open Source,GitPython,2021/05/13,9:48 AM,10:00 AM,12,00:12:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1235
+Open Source,GitPython,2021/05/13,10:00 AM,10:26 AM,26,00:26:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/pull/1234
+Open Source,GitPython,2021/05/13,11:35 AM,11:45 AM,10,00:10:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1223; https://github.com/gitpython-developers/GitPython/discussions/1237
+Open Source,GitPython,2021/05/14,6:40 AM,6:44 AM,4,00:04:00,¥0.00/h,-,Yank release
+Open Source,GitPython,2021/05/14,9:18 AM,9:22 AM,4,00:04:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1238
+Open Source,GitPython,2021/05/14,9:22 AM,9:34 AM,12,00:12:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/discussions/1241
+Open Source,GitPython,2021/05/14,10:39 AM,10:45 AM,6,00:06:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1238
+Open Source,GitPython,2021/05/15,9:13 AM,9:19 AM,6,00:06:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1242
+Open Source,GitPython,2021/05/15,9:20 AM,9:28 AM,8,00:08:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/discussions/1241#discussioncomment-739580
+Open Source,GitPython,2021/05/15,9:29 AM,9:33 AM,4,00:04:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1243
+Open Source,GitPython,2021/05/16,9:48 AM,9:58 AM,10,00:10:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/pull/1244 - check permissions
+Open Source,GitPython,2021/05/17,9:33 AM,9:45 AM,12,00:12:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/pull/1244
+Open Source,GitPython,2021/05/18,8:28 AM,8:30 AM,2,00:02:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/pull/1244
+Open Source,GitPython,2021/05/20,7:55 AM,8:03 AM,8,00:08:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/discussions/1246#discussioncomment-760120
+Open Source,GitPython,2021/05/21,7:27 AM,7:43 AM,16,00:16:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1247
+Open Source,GitPython,2021/05/21,7:43 AM,7:47 AM,4,00:04:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1233
+Open Source,GitPython,2021/05/22,8:44 AM,8:57 AM,13,00:13:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1247
+Open Source,GitPython,2021/05/22,8:57 AM,9:05 AM,8,00:08:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/pull/1248
+Open Source,GitPython,2021/05/22,9:05 AM,9:11 AM,6,00:06:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/discussions/1250
+Open Source,Maintenance,2021/03/31,12:11 PM,12:24 PM,13,00:13:00,¥0.00/h,-,https://github.com/Byron/pulldown-cmark-to-cmark/issues/23
+Open Source,Maintenance,2021/04/02,8:42 AM,9:51 AM,69,01:09:00,¥0.00/h,-,Setup GPG key and sidecar for more ergonomic working; try to get sidecar and VPN working through cable - FAIL;  try NORDVPN - fail
+Open Source,Maintenance,2021/04/04,9:06 PM,9:16 PM,10,00:10:00,¥0.00/h,-,dua-cli issues
+Open Source,Maintenance,2021/04/12,10:18 AM,10:24 AM,6,00:06:00,¥0.00/h,-,Dua-cli pr 86
+Open Source,Maintenance,2021/04/15,4:36 PM,4:43 PM,7,00:07:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/87
+Open Source,Maintenance,2021/04/16,9:01 AM,9:08 AM,7,00:07:00,¥0.00/h,-,
+Open Source,Maintenance,2021/04/18,8:51 AM,8:52 AM,1,00:01:00,¥0.00/h,-,https://github.com/Byron/open-rs/issues/30
+Open Source,Maintenance,2021/04/18,5:19 PM,5:41 PM,22,00:22:00,¥0.00/h,-,https://github.com/Byron/open-rs/issues/30
+Open Source,Maintenance,2021/04/22,9:54 AM,10:02 AM,8,00:08:00,¥0.00/h,-,https://github.com/zellij-org/zellij/pull/293#issuecomment-824065277
+Open Source,Maintenance,2021/04/25,1:42 PM,1:58 PM,16,00:16:00,¥0.00/h,-,https://github.com/aome510/hackernews-TUI/pull/29
+Open Source,Maintenance,2021/04/25,6:37 PM,6:47 PM,10,00:10:00,¥0.00/h,-,https://github.com/aome510/hackernews-TUI/pull/29#issuecomment-826302259
+Open Source,Maintenance,2021/04/28,5:39 AM,5:55 AM,16,00:16:00,¥0.00/h,-,Clear out unused files for 70GB of disk space :D
+Open Source,Maintenance,2021/05/02,1:02 PM,1:26 PM,24,00:24:00,¥0.00/h,-,https://github.com/Byron/pulldown-cmark-to-cmark/pull/24
+Open Source,Maintenance,2021/05/03,6:51 AM,7:17 AM,26,00:26:00,¥0.00/h,-,upgrade to Tui 0.15
+Open Source,Maintenance,2021/05/03,7:17 AM,9:23 AM,126,02:06:00,¥0.00/h,-,get dua-release to work again; gitoxide experiment in the off-time
+Open Source,Maintenance,2021/05/05,7:20 AM,7:35 AM,15,00:15:00,¥0.00/h,-,Start using external microphone
+Open Source,Maintenance,2021/05/07,7:17 AM,7:23 AM,6,00:06:00,¥0.00/h,-,upgrade Rust	
+Open Source,Maintenance,2021/05/07,7:35 AM,7:49 AM,14,00:14:00,¥0.00/h,-,
+Open Source,Maintenance,2021/05/08,1:00 PM,1:01 PM,1,00:01:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/89
+Open Source,Maintenance,2021/05/08,1:44 PM,4:00 PM,136,02:16:00,¥0.00/h,-,Fix prodash bug and make it easier to configure.
+Open Source,Maintenance,2021/05/15,9:12 AM,9:13 AM,1,00:01:00,¥0.00/h,-,
 Open Source,Gitoxide,2021/03/31,12:41 PM,12:44 PM,3,00:03:00,¥0.00/h,-,std-arch PR preps
 Open Source,Gitoxide,2021/03/31,9:19 PM,10:35 PM,76,01:16:00,¥0.00/h,-,Stakeholder communication
 Open Source,Gitoxide,2021/04/01,10:37 AM,10:44 AM,7,00:07:00,¥0.00/h,-,Std arch pr
@@ -66,45 +166,127 @@ Open Source,Gitoxide,2021/04/19,7:09 PM,7:16 PM,7,00:07:00,¥0.00/h,-,
 Open Source,Gitoxide,2021/04/20,10:55 AM,12:15 PM,80,01:20:00,¥0.00/h,-,
 Open Source,Gitoxide,2021/04/20,1:45 PM,5:52 PM,247,04:07:00,¥0.00/h,-,various object refactorings to allow traits to be consistent.
 Open Source,Gitoxide,2021/04/20,6:32 PM,7:37 PM,65,01:05:00,¥0.00/h,-,refactoring
-Open Source,GitPython,2021/03/31,10:36 PM,10:40 PM,4,00:04:00,¥0.00/h,-,Issue 1209
-Open Source,GitPython,2021/04/12,10:16 AM,10:18 AM,2,00:02:00,¥0.00/h,-,
-Open Source,GitPython,2021/04/13,6:51 PM,7:01 PM,10,00:10:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1210
-Open Source,GitPython,2021/04/13,7:22 PM,7:29 PM,7,00:07:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1210
-Open Source,GitPython,2021/04/14,10:59 AM,11:00 AM,1,00:01:00,¥0.00/h,-,
-Open Source,GitPython,2021/04/14,1:21 PM,2:03 PM,42,00:42:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1210
-Open Source,GitPython,2021/04/16,9:08 AM,9:14 AM,6,00:06:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/discussions/1212
-Open Source,GitPython,2021/04/16,9:15 AM,9:22 AM,7,00:07:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/discussions/1212
-Open Source,GitPython,2021/04/16,9:42 AM,9:44 AM,2,00:02:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1189
-Open Source,GitPython,2021/04/18,8:43 AM,8:50 AM,7,00:07:00,¥0.00/h,-,https://github.com/gitpython-developers/gitdb/issues/70
-Open Source,GitPython,2021/04/20,9:23 AM,9:29 AM,6,00:06:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/892
-Open Source,GitPython,2021/04/20,1:24 PM,1:45 PM,21,00:21:00,¥0.00/h,-,
-Open Source,Google APIs,2021/04/01,8:28 AM,9:20 AM,52,00:52:00,¥0.00/h,-,Fix compile errors 
-Open Source,Google APIs,2021/04/01,9:55 AM,10:37 AM,42,00:42:00,¥0.00/h,-,All libs build with async 
-Open Source,Google APIs,2021/04/01,3:21 PM,7:15 PM,234,03:54:00,¥0.00/h,-,
-Open Source,Google APIs,2021/04/01,8:47 PM,9:15 PM,28,00:28:00,¥0.00/h,-,
-Open Source,Google APIs,2021/04/01,9:48 PM,11:30 PM,102,01:42:00,¥0.00/h,-,Fix everything there is in https://github.com/Byron/google-apis-rs/pull/264 and merge it
-Open Source,Google APIs,2021/04/01,11:37 PM,11:59 PM,23,00:23:00,¥0.00/h,-,"publish crates, communicate EOD"
-Open Source,Google APIs,2021/04/02,12:00 AM,12:28 AM,28,00:28:00,¥0.00/h,-,"publish crates, communicate EOD"
-Open Source,Google APIs,2021/04/02,8:06 AM,8:41 AM,35,00:35:00,¥0.00/h,-,"Fix doc publishing , publish more crates, ask for limit increase "
-Open Source,Google APIs,2021/04/02,8:11 PM,9:11 PM,60,01:00:00,¥0.00/h,-,Merge fix and publish crates in the background 
-Open Source,Google APIs,2021/04/03,9:44 AM,10:23 AM,39,00:39:00,¥0.00/h,-,Finish publishing google API crates and marketing; reconnect to new generator project.
-Open Source,Google APIs,2021/04/03,10:30 PM,10:57 PM,27,00:27:00,¥0.00/h,-,Cleanup 
-Open Source,Google APIs,2021/04/06,9:02 PM,9:28 PM,26,00:26:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/266
-Open Source,Google APIs,2021/04/09,12:31 PM,12:39 PM,8,00:08:00,¥0.00/h,-,
-Open Source,Google APIs,2021/04/12,9:52 AM,10:16 AM,24,00:24:00,¥0.00/h,-,
-Open Source,Google APIs,2021/04/13,7:02 PM,7:21 PM,19,00:19:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/discussions/271?converting=1
-Open Source,Google APIs,2021/04/14,9:10 AM,10:36 AM,86,01:26:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/discussions/271; republish throughout the day
-Open Source,Google APIs,2021/04/14,4:03 PM,4:38 PM,35,00:35:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/discussions/271#discussioncomment-608367
-Open Source,Google APIs,2021/04/15,9:51 AM,11:02 AM,71,01:11:00,¥0.00/h,-,Set project to maintenance mode
-Open Source,Google APIs,2021/04/16,9:44 AM,9:54 AM,10,00:10:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/278
-Open Source,Google APIs,2021/04/16,3:51 PM,3:55 PM,4,00:04:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/173#issuecomment-820964911
-Open Source,Google APIs,2021/04/19,7:00 PM,7:08 PM,8,00:08:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/discussions/279#discussioncomment-629661
-Open Source,Google APIs,2021/04/20,9:18 AM,9:20 AM,2,00:02:00,¥0.00/h,-,
-Open Source,Maintenance,2021/03/31,12:11 PM,12:24 PM,13,00:13:00,¥0.00/h,-,https://github.com/Byron/pulldown-cmark-to-cmark/issues/23
-Open Source,Maintenance,2021/04/02,8:42 AM,9:51 AM,69,01:09:00,¥0.00/h,-,Setup GPG key and sidecar for more ergonomic working; try to get sidecar and VPN working through cable - FAIL;  try NORDVPN - fail
-Open Source,Maintenance,2021/04/04,9:06 PM,9:16 PM,10,00:10:00,¥0.00/h,-,dua-cli issues
-Open Source,Maintenance,2021/04/12,10:18 AM,10:24 AM,6,00:06:00,¥0.00/h,-,Dua-cli pr 86
-Open Source,Maintenance,2021/04/15,4:36 PM,4:43 PM,7,00:07:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/87
-Open Source,Maintenance,2021/04/16,9:01 AM,9:08 AM,7,00:07:00,¥0.00/h,-,
-Open Source,Maintenance,2021/04/18,8:51 AM,8:52 AM,1,00:01:00,¥0.00/h,-,https://github.com/Byron/open-rs/issues/30
-Open Source,Maintenance,2021/04/18,5:19 PM,5:41 PM,22,00:22:00,¥0.00/h,-,https://github.com/Byron/open-rs/issues/30
+Open Source,Gitoxide,2021/04/20,8:44 PM,9:40 PM,56,00:56:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/20,10:06 PM,10:29 PM,23,00:23:00,¥0.00/h,-,Sponsor update
+Open Source,Gitoxide,2021/04/20,10:30 PM,10:35 PM,5,00:05:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/21,9:30 AM,11:30 AM,120,02:00:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/21,1:55 PM,2:59 PM,64,01:04:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/21,3:11 PM,3:20 PM,9,00:09:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/21,4:01 PM,4:09 PM,8,00:08:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/21,4:46 PM,5:40 PM,54,00:54:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/21,6:50 PM,8:21 PM,91,01:31:00,¥0.00/h,-,https://github.com/Byron/gitoxide/discussions/62#discussioncomment-639683
+Open Source,Gitoxide,2021/04/22,10:38 AM,10:54 AM,16,00:16:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/22,1:04 PM,2:12 PM,68,01:08:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/22,2:30 PM,2:49 PM,19,00:19:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/22,3:21 PM,4:28 PM,67,01:07:00,¥0.00/h,-,pack entry access
+Open Source,Gitoxide,2021/04/22,4:55 PM,5:30 PM,35,00:35:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/22,6:02 PM,6:17 PM,15,00:15:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/22,9:17 PM,10:18 PM,61,01:01:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/23,3:30 PM,4:19 PM,49,00:49:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/24,10:06 AM,10:16 AM,10,00:10:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/24,11:31 AM,12:15 PM,44,00:44:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/24,1:31 PM,3:15 PM,104,01:44:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/24,5:31 PM,6:01 PM,30,00:30:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/24,7:00 PM,7:12 PM,12,00:12:00,¥0.00/h,-,https://github.com/RustCrypto/hashes/issues/251
+Open Source,Gitoxide,2021/04/25,8:39 AM,8:55 AM,16,00:16:00,¥0.00/h,-,Status update
+Open Source,Gitoxide,2021/04/25,8:56 AM,9:27 AM,31,00:31:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/25,10:22 AM,10:42 AM,20,00:20:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/25,11:04 AM,12:10 PM,66,01:06:00,¥0.00/h,-,The first version of pack data writing (in a streaming fashion)
+Open Source,Gitoxide,2021/04/25,1:23 PM,1:42 PM,19,00:19:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/25,2:27 PM,3:07 PM,40,00:40:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/25,3:35 PM,4:23 PM,48,00:48:00,¥0.00/h,-,first working version of pack writing
+Open Source,Gitoxide,2021/04/25,4:42 PM,5:23 PM,41,00:41:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/25,6:47 PM,8:28 PM,101,01:41:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/25,8:36 PM,9:30 PM,54,00:54:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/26,9:05 AM,9:07 AM,2,00:02:00,¥0.00/h,-,https://github.com/RustCrypto/hashes/issues/257
+Open Source,Gitoxide,2021/04/26,9:39 AM,10:22 AM,43,00:43:00,¥0.00/h,-,prep git-diff
+Open Source,Gitoxide,2021/04/26,10:37 AM,11:35 AM,58,00:58:00,¥0.00/h,-,research tree diff
+Open Source,Gitoxide,2021/04/26,1:33 PM,1:53 PM,20,00:20:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/26,3:27 PM,3:50 PM,23,00:23:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/26,8:49 PM,10:23 PM,94,01:34:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/27,6:42 AM,7:10 AM,28,00:28:00,¥0.00/h,-,Pack v3 conversation; System update; diff API improvements 
+Open Source,Gitoxide,2021/04/27,8:20 AM,10:28 AM,128,02:08:00,¥0.00/h,-,tree diff api
+Open Source,Gitoxide,2021/04/27,11:00 AM,12:07 PM,67,01:07:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/27,2:00 PM,2:57 PM,57,00:57:00,¥0.00/h,-,First succeeding test
+Open Source,Gitoxide,2021/04/27,3:30 PM,4:53 PM,83,01:23:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/27,5:00 PM,9:00 PM,240,04:00:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/28,5:56 AM,6:23 AM,27,00:27:00,¥0.00/h,-,https://github.com/tailhook/quick-error/pull/56
+Open Source,Gitoxide,2021/04/28,6:23 AM,6:24 AM,1,00:01:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/28,6:28 AM,8:14 AM,106,01:46:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/28,8:50 AM,11:07 AM,137,02:17:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/28,11:21 AM,11:51 AM,30,00:30:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/28,1:30 PM,3:44 PM,134,02:14:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/28,4:01 PM,5:17 PM,76,01:16:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/28,9:20 PM,10:33 PM,73,01:13:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/29,6:45 AM,8:05 AM,80,01:20:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/29,8:42 AM,11:55 AM,193,03:13:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/29,4:02 PM,5:53 PM,111,01:51:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/30,9:58 AM,10:08 AM,10,00:10:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/30,10:54 AM,11:34 AM,40,00:40:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/30,12:44 PM,1:49 PM,65,01:05:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/04/30,2:20 PM,2:47 PM,27,00:27:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/05/01,10:33 PM,11:10 PM,37,00:37:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/05/02,7:46 PM,9:19 PM,93,01:33:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/05/02,9:19 PM,10:33 PM,74,01:14:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/05/03,11:40 AM,11:47 AM,7,00:07:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/05/05,10:45 AM,12:13 PM,88,01:28:00,¥0.00/h,-,Wrapup git-traverse for trees
+Open Source,Gitoxide,2021/05/05,12:49 PM,2:53 PM,124,02:04:00,¥0.00/h,-,Convenience methods for object iteration
+Open Source,Gitoxide,2021/05/06,8:01 AM,8:04 AM,3,00:03:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/05/06,9:23 AM,10:41 AM,78,01:18:00,¥0.00/h,-,"Wrapup convenience API, improve experiments with it."
+Open Source,Gitoxide,2021/05/06,2:56 PM,3:11 PM,15,00:15:00,¥0.00/h,-,Finish transition to convenience API 
+Open Source,Gitoxide,2021/05/06,5:45 PM,7:03 PM,78,01:18:00,¥0.00/h,-,git-hours clone part 1
+Open Source,Gitoxide,2021/05/06,9:30 PM,10:55 PM,85,01:25:00,¥0.00/h,-,git-hours clone is working (linux costs 185 years)
+Open Source,Gitoxide,2021/05/07,7:23 AM,7:35 AM,12,00:12:00,¥0.00/h,-,refactoring
+Open Source,Gitoxide,2021/05/07,7:50 AM,8:09 AM,19,00:19:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/05/07,9:12 AM,9:27 AM,15,00:15:00,¥0.00/h,-,git-hours with clap and —omit-pii flag
+Open Source,Gitoxide,2021/05/07,10:42 AM,11:31 AM,49,00:49:00,¥0.00/h,-,Really make git-hours pretty
+Open Source,Gitoxide,2021/05/07,11:36 AM,11:54 AM,18,00:18:00,¥0.00/h,-,git-hours discussion with more performance comparisions.
+Open Source,Gitoxide,2021/05/07,3:03 PM,3:08 PM,5,00:05:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/05/07,3:13 PM,3:20 PM,7,00:07:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/05/07,3:54 PM,4:17 PM,23,00:23:00,¥0.00/h,-,Better contributor count for git-hours
+Open Source,Gitoxide,2021/05/07,9:47 PM,9:58 PM,11,00:11:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/05/08,9:01 AM,10:46 AM,105,01:45:00,¥0.00/h,-,"git-hours and refactoring, prepping to make it a gix tool"
+Open Source,Gitoxide,2021/05/08,11:03 AM,11:47 AM,44,00:44:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/05/08,11:51 AM,12:13 PM,22,00:22:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/05/08,1:01 PM,1:06 PM,5,00:05:00,¥0.00/h,-,https://github.com/Byron/gitoxide/issues/72
+Open Source,Gitoxide,2021/05/08,1:15 PM,1:44 PM,29,00:29:00,¥0.00/h,-,Make ‘hours’ a proper ‘gix’ tool
+Open Source,Gitoxide,2021/05/08,4:06 PM,4:56 PM,50,00:50:00,¥0.00/h,-,Integrate latest prodash so that ‘hours’ tool can be happy
+Open Source,Gitoxide,2021/05/08,5:08 PM,5:23 PM,15,00:15:00,¥0.00/h,-,https://github.com/Byron/gitoxide/issues/79
+Open Source,Gitoxide,2021/05/08,5:28 PM,5:43 PM,15,00:15:00,¥0.00/h,-,https://github.com/Byron/gitoxide/pull/80
+Open Source,Gitoxide,2021/05/08,5:43 PM,6:19 PM,36,00:36:00,¥0.00/h,-,Start on https://github.com/Byron/gitoxide/pull/81
+Open Source,Gitoxide,2021/05/08,9:16 PM,10:02 PM,46,00:46:00,¥0.00/h,-,review and merge https://github.com/Byron/gitoxide/pull/81
+Open Source,Gitoxide,2021/05/08,10:02 PM,10:38 PM,36,00:36:00,¥0.00/h,-,Prepare auto-release capability - many crates come with a lot of work when releasing ;)
+Open Source,Gitoxide,2021/05/09,8:35 AM,9:25 AM,50,00:50:00,¥0.00/h,-,release automation; more perf tests and seek some help from community: https://github.com/Byron/gitoxide/pull/81
+Open Source,Gitoxide,2021/05/09,9:25 AM,10:19 AM,54,00:54:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/05/09,1:56 PM,2:40 PM,44,00:44:00,¥0.00/h,-,release build works again
+Open Source,Gitoxide,2021/05/09,2:40 PM,3:33 PM,53,00:53:00,¥0.00/h,-,release 0.7
+Open Source,Gitoxide,2021/05/09,4:49 PM,5:36 PM,47,00:47:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/05/10,3:46 PM,4:05 PM,19,00:19:00,¥0.00/h,-,Reply reddit
+Open Source,Gitoxide,2021/05/12,9:54 AM,11:17 AM,83,01:23:00,¥0.00/h,-,https://github.com/Byron/gitoxide/issues/83
+Open Source,Gitoxide,2021/05/12,11:17 AM,11:21 AM,4,00:04:00,¥0.00/h,-,https://github.com/Byron/gitoxide/issues/84
+Open Source,Gitoxide,2021/05/12,11:46 AM,12:07 PM,21,00:21:00,¥0.00/h,-,fix CI
+Open Source,Gitoxide,2021/05/12,12:34 PM,12:56 PM,22,00:22:00,¥0.00/h,-,https://github.com/Byron/gitoxide/issues/85
+Open Source,Gitoxide,2021/05/12,12:56 PM,1:02 PM,6,00:06:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/05/12,6:53 PM,6:59 PM,6,00:06:00,¥0.00/h,-,https://github.com/Byron/gitoxide/issues/84
+Open Source,Gitoxide,2021/05/13,9:40 AM,9:48 AM,8,00:08:00,¥0.00/h,-,https://github.com/Byron/gitoxide/discussions/82#discussioncomment-730193
+Open Source,Gitoxide,2021/05/14,9:35 AM,10:03 AM,28,00:28:00,¥0.00/h,-,Update pack gen story and task list; think about how the moving parts can deliver value faster
+Open Source,Gitoxide,2021/05/16,9:34 AM,9:48 AM,14,00:14:00,¥0.00/h,-,https://github.com/fMeow/maybe-async-rs/issues/8#issuecomment-841752210
+Open Source,Gitoxide,2021/05/17,9:21 AM,9:32 AM,11,00:11:00,¥0.00/h,-,https://github.com/fMeow/maybe-async-rs/issues/8#issuecomment-841918978
+Open Source,Gitoxide,2021/05/19,8:38 AM,9:05 AM,27,00:27:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/05/19,9:14 AM,10:13 AM,59,00:59:00,¥0.00/h,-,a test to validate new traversal modes
+Open Source,Gitoxide,2021/05/19,11:01 AM,12:16 PM,75,01:15:00,¥0.00/h,-,tree traversal for pack-gen
+Open Source,Gitoxide,2021/05/19,1:17 PM,1:59 PM,42,00:42:00,¥0.00/h,-,Remind myself that object-caches don’t do anything for properly implemented additive tree traversals
+Open Source,Gitoxide,2021/05/20,8:11 AM,8:54 AM,43,00:43:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/05/20,8:58 AM,9:57 AM,59,00:59:00,¥0.00/h,-,changes based pack-gen
+Open Source,Gitoxide,2021/05/20,9:57 AM,11:28 AM,91,01:31:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/05/20,11:40 AM,12:07 PM,27,00:27:00,¥0.00/h,-,Everything works in pack-gen land. I wonder if multiple traversal modes make sense even.
+Open Source,Gitoxide,2021/05/20,1:18 PM,2:32 PM,74,01:14:00,¥0.00/h,-,prepare support for Tag handling
+Open Source,Gitoxide,2021/05/20,2:57 PM,3:26 PM,29,00:29:00,¥0.00/h,-,TagIteration along with tag resolution in pack-gen
+Open Source,Gitoxide,2021/05/20,3:46 PM,5:17 PM,91,01:31:00,¥0.00/h,-,start on pack-gen command just to see that a refactoring really will be required.
+Open Source,Gitoxide,2021/05/21,7:48 AM,8:00 AM,12,00:12:00,¥0.00/h,-,try cargo-deny
+Open Source,Gitoxide,2021/05/21,8:58 AM,9:46 AM,48,00:48:00,¥0.00/h,-,"research option to not include amount of objects in pack, but there is not way really."
+Open Source,Gitoxide,2021/05/21,10:40 AM,11:31 AM,51,00:51:00,¥0.00/h,-,first version of the counting stage. The following stage will need some refactoring.
+Open Source,Gitoxide,2021/05/21,12:05 PM,2:10 PM,125,02:05:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/05/21,2:31 PM,4:54 PM,143,02:23:00,¥0.00/h,-,Actually the first humble version of a pack generator
+Open Source,Gitoxide,2021/05/21,10:00 PM,11:22 PM,82,01:22:00,¥0.00/h,-,perf tests and pretty tui support
+Open Source,Gitoxide,2021/05/22,9:11 AM,9:55 AM,44,00:44:00,¥0.00/h,-,sponsor newsletter
