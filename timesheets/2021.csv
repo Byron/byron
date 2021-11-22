@@ -1,145 +1,61 @@
 Group,Task,Date,Start,Finish,Minutes,Duration,Billing Rate,Gain,Notes
-Open Source,Maintenance,2021/04/04,9:06 PM,9:16 PM,10,00:10:00,¥0.00/h,-,dua-cli issues
-Open Source,Maintenance,2021/04/12,10:18 AM,10:24 AM,6,00:06:00,¥0.00/h,-,Dua-cli pr 86
-Open Source,Maintenance,2021/04/15,4:36 PM,4:43 PM,7,00:07:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/87
-Open Source,Maintenance,2021/04/18,8:51 AM,8:52 AM,1,00:01:00,¥0.00/h,-,https://github.com/Byron/open-rs/issues/30
-Open Source,Maintenance,2021/04/18,5:19 PM,5:41 PM,22,00:22:00,¥0.00/h,-,https://github.com/Byron/open-rs/issues/30
-Open Source,Maintenance,2021/04/22,9:54 AM,10:02 AM,8,00:08:00,¥0.00/h,-,https://github.com/zellij-org/zellij/pull/293#issuecomment-824065277
-Open Source,Maintenance,2021/04/25,1:42 PM,1:58 PM,16,00:16:00,¥0.00/h,-,https://github.com/aome510/hackernews-TUI/pull/29
-Open Source,Maintenance,2021/04/25,6:37 PM,6:47 PM,10,00:10:00,¥0.00/h,-,https://github.com/aome510/hackernews-TUI/pull/29#issuecomment-826302259
-Open Source,Maintenance,2021/04/28,5:39 AM,5:55 AM,16,00:16:00,¥0.00/h,-,Clear out unused files for 70GB of disk space :D
-Open Source,Maintenance,2021/05/02,1:02 PM,1:26 PM,24,00:24:00,¥0.00/h,-,https://github.com/Byron/pulldown-cmark-to-cmark/pull/24
-Open Source,Maintenance,2021/05/03,6:51 AM,7:17 AM,26,00:26:00,¥0.00/h,-,upgrade to Tui 0.15
-Open Source,Maintenance,2021/05/03,7:17 AM,9:23 AM,126,02:06:00,¥0.00/h,-,get dua-release to work again; gitoxide experiment in the off-time
-Open Source,Maintenance,2021/05/05,7:20 AM,7:35 AM,15,00:15:00,¥0.00/h,-,Start using external microphone
-Open Source,Maintenance,2021/05/07,7:17 AM,7:23 AM,6,00:06:00,¥0.00/h,-,upgrade Rust	
-Open Source,Maintenance,2021/05/07,7:35 AM,7:49 AM,14,00:14:00,¥0.00/h,-,
-Open Source,Maintenance,2021/05/08,1:00 PM,1:01 PM,1,00:01:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/89
-Open Source,Maintenance,2021/05/08,1:44 PM,4:00 PM,136,02:16:00,¥0.00/h,-,Fix prodash bug and make it easier to configure.
-Open Source,Maintenance,2021/05/15,9:12 AM,9:13 AM,1,00:01:00,¥0.00/h,-,
-Open Source,Maintenance,2021/05/22,9:55 AM,10:10 AM,15,00:15:00,¥0.00/h,-,open source timesheets
-Open Source,Maintenance,2021/05/26,4:07 PM,4:20 PM,13,00:13:00,¥0.00/h,-,
-Open Source,Maintenance,2021/05/29,10:09 AM,10:12 AM,3,00:03:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/discussions/285?converting=1
-Open Source,Maintenance,2021/05/29,10:15 AM,10:24 AM,9,00:09:00,¥0.00/h,-,https://github.com/KSXGitHub/parallel-disk-usage/pull/14
-Open Source,Maintenance,2021/05/29,11:20 AM,11:34 AM,14,00:14:00,¥0.00/h,-,https://github.com/KSXGitHub/parallel-disk-usage/pull/14#issuecomment-850761519
-Open Source,Maintenance,2021/05/29,11:34 AM,12:42 PM,68,01:08:00,¥0.00/h,-,dua: enumeration count 
-Open Source,Maintenance,2021/05/29,1:04 PM,2:17 PM,73,01:13:00,¥0.00/h,-,dua performance testing; definitely not a good way to spend time
-Open Source,Maintenance,2021/05/29,2:31 PM,2:55 PM,24,00:24:00,¥0.00/h,-,https://github.com/jessegrosjean/jwalk/issues/30
-Open Source,Maintenance,2021/05/30,10:46 AM,11:27 AM,41,00:41:00,¥0.00/h,-,Dua cli
-Open Source,Maintenance,2021/05/30,4:29 PM,7:40 PM,191,03:11:00,¥0.00/h,-,https://github.com/jessegrosjean/jwalk/issues/30
-Open Source,Maintenance,2021/05/31,7:23 AM,7:56 AM,33,00:33:00,¥0.00/h,-,dua + criner
-Open Source,Maintenance,2021/06/01,9:31 AM,11:16 AM,105,01:45:00,¥0.00/h,-,Solve the `dua` M1/pdu performance puzzle
-Open Source,Maintenance,2021/06/03,8:43 AM,8:58 AM,15,00:15:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/92
-Open Source,Maintenance,2021/06/04,8:29 AM,8:38 AM,9,00:09:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/93
-Open Source,Maintenance,2021/06/04,9:30 AM,10:22 AM,52,00:52:00,¥0.00/h,-,https://github.com/Byron/pulldown-cmark-to-cmark/issues/25
-Open Source,Maintenance,2021/06/04,1:06 PM,1:13 PM,7,00:07:00,¥0.00/h,-,"check pdu benchmark results, README seems stale but it also doesn’t matter as dua is unreasonably slow in these for some reason."
-Open Source,Maintenance,2021/06/04,1:14 PM,1:43 PM,29,00:29:00,¥0.00/h,-,https://github.com/KSXGitHub/parallel-disk-usage/pull/14#issuecomment-854375371
-Open Source,Maintenance,2021/06/05,9:10 AM,9:22 AM,12,00:12:00,¥0.00/h,-,criner waste report gc and branch change to main. Don’t push from other machines is the lesson learned here.
-Open Source,Maintenance,2021/06/05,9:29 AM,9:40 AM,11,00:11:00,¥0.00/h,-,https://github.com/KSXGitHub/parallel-disk-usage/pull/14#issuecomment-855163789
-Open Source,Maintenance,2021/06/05,9:40 AM,9:57 AM,17,00:17:00,¥0.00/h,-,https://github.com/KSXGitHub/parallel-disk-usage/pull/14#issuecomment-855165681
-Open Source,Maintenance,2021/06/05,10:47 AM,11:22 AM,35,00:35:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/93
-Open Source,Maintenance,2021/06/06,7:34 AM,7:45 AM,11,00:11:00,¥0.00/h,-,criner
-Open Source,Maintenance,2021/06/06,8:01 AM,8:52 AM,51,00:51:00,¥0.00/h,-,https://github.com/the-lean-crate/criner/issues/6
-Open Source,Maintenance,2021/06/07,7:52 AM,8:04 AM,12,00:12:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/pull/286
-Open Source,Maintenance,2021/06/07,8:04 AM,8:24 AM,20,00:20:00,¥0.00/h,-,research how M1 can be distinguished
-Open Source,Maintenance,2021/06/07,9:21 AM,9:43 AM,22,00:22:00,¥0.00/h,-,teach dua-cli to be specific when guessing the amount of default threads on apple silicon
-Open Source,Maintenance,2021/06/07,9:43 AM,10:04 AM,21,00:21:00,¥0.00/h,-,"See if there are (now) ways to easily determine the amount of fast cores (no), and once again compare dua with du, making it appears inefficient (6x power for 2x speedup), 1.5x slower than du when used with a single thread."
-Open Source,Maintenance,2021/06/08,8:57 AM,10:00 AM,63,01:03:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/87; plenty of distractions though
-Open Source,Maintenance,2021/06/09,4:41 PM,4:50 PM,9,00:09:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/87#issuecomment-857512152
-Open Source,Maintenance,2021/06/14,9:09 AM,9:16 AM,7,00:07:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/287
-Open Source,Maintenance,2021/06/14,10:22 PM,10:39 PM,17,00:17:00,¥0.00/h,-,Configure OBS
-Open Source,Maintenance,2021/06/17,8:45 AM,8:55 AM,10,00:10:00,¥0.00/h,-,criner waste report repo maintenance
-Open Source,Maintenance,2021/06/20,8:12 AM,8:19 AM,7,00:07:00,¥0.00/h,-,https://github.com/Byron/tui-crates/issues/1
-Open Source,Maintenance,2021/06/22,7:34 AM,7:47 AM,13,00:13:00,¥0.00/h,-,https://github.com/Byron/tui-crates/issues/1#issuecomment-865419172
-Open Source,Maintenance,2021/06/22,7:47 AM,7:51 AM,4,00:04:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/discussions/289
-Open Source,Maintenance,2021/06/23,7:51 PM,8:02 PM,11,00:11:00,¥0.00/h,-,https://github.com/Byron/pulldown-cmark-to-cmark/pull/26
-Open Source,Maintenance,2021/06/23,8:02 PM,8:15 PM,13,00:13:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1235
-Open Source,Maintenance,2021/06/24,7:36 AM,7:43 AM,7,00:07:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/94
-Open Source,Maintenance,2021/06/24,7:43 AM,7:56 AM,13,00:13:00,¥0.00/h,-,https://github.com/KSXGitHub/parallel-disk-usage/tree/1ce3a77cb94c13be87f3bc9213e016fa5259ed13#benchmark
-Open Source,Maintenance,2021/06/24,8:17 PM,8:25 PM,8,00:08:00,¥0.00/h,-,
-Open Source,Maintenance,2021/06/26,9:19 AM,9:22 AM,3,00:03:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/30
-Open Source,Maintenance,2021/06/26,9:49 AM,9:54 AM,5,00:05:00,¥0.00/h,-,"get git back
-"
-Open Source,Maintenance,2021/06/28,8:25 AM,8:29 AM,4,00:04:00,¥0.00/h,-,https://github.com/Byron/dua-cli/pull/95#pullrequestreview-693471190
-Open Source,Maintenance,2021/06/28,8:29 AM,8:35 AM,6,00:06:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/96
-Open Source,Maintenance,2021/06/30,7:08 AM,7:45 AM,37,00:37:00,¥0.00/h,-,https://github.com/Byron/dua-cli/pull/95
-Open Source,Maintenance,2021/07/07,10:20 AM,10:24 AM,4,00:04:00,¥0.00/h,-,
-Open Source,Maintenance,2021/07/11,4:53 PM,4:57 PM,4,00:04:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/pull/1285
-Open Source,Maintenance,2021/07/11,9:55 PM,10:02 PM,7,00:07:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/290
-Open Source,Maintenance,2021/07/14,8:05 AM,8:43 AM,38,00:38:00,¥0.00/h,-,https://github.com/Byron/dua-cli/pull/98
-Open Source,Maintenance,2021/07/15,11:00 AM,11:47 AM,47,00:47:00,¥0.00/h,-,prepare to ditch homebrew for nix
-Open Source,Maintenance,2021/07/15,11:47 AM,12:05 PM,18,00:18:00,¥0.00/h,-,https://github.com/Byron/gitoxide/discussions/122
-Open Source,Maintenance,2021/07/16,2:43 PM,3:04 PM,21,00:21:00,¥0.00/h,-,https://github.com/Byron/open-rs/pull/33#pullrequestreview-708054695
-Open Source,Maintenance,2021/07/16,3:04 PM,3:20 PM,16,00:16:00,¥0.00/h,-,https://github.com/Byron/open-rs/pull/32
-Open Source,Maintenance,2021/07/17,10:26 AM,10:43 AM,17,00:17:00,¥0.00/h,-,https://github.com/Byron/open-rs/pull/33
-Open Source,Maintenance,2021/07/24,8:54 AM,8:58 AM,4,00:04:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/99#issuecomment-885978149
-Open Source,Maintenance,2021/07/24,8:58 AM,9:00 AM,2,00:02:00,¥0.00/h,-,https://github.com/Byron/open-rs/issues/10#issuecomment-885978373
-Open Source,Maintenance,2021/07/25,10:23 AM,10:43 AM,20,00:20:00,¥0.00/h,-,https://github.com/Byron/open-rs/pull/35
-Open Source,Maintenance,2021/07/25,10:44 AM,10:47 AM,3,00:03:00,¥0.00/h,-,release patch of dua-cli for using open v2
-Open Source,Maintenance,2021/07/26,1:34 PM,1:36 PM,2,00:02:00,¥0.00/h,-,https://github.com/Byron/open-rs/pull/35#issuecomment-886391302
-Open Source,Maintenance,2021/07/30,8:44 AM,8:52 AM,8,00:08:00,¥0.00/h,-,criner updates
-Open Source,Maintenance,2021/07/30,8:53 AM,9:00 AM,7,00:07:00,¥0.00/h,-,update dua-cli
-Open Source,Maintenance,2021/07/31,9:34 AM,9:54 AM,20,00:20:00,¥0.00/h,-,https://github.com/Byron/crates-index-diff-rs/pull/11
-Open Source,Maintenance,2021/08/04,3:55 PM,4:08 PM,13,00:13:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/291#issuecomment-892456820
-Open Source,Maintenance,2021/08/04,5:00 PM,5:26 PM,26,00:26:00,¥0.00/h,-,tui upgrade
-Open Source,Maintenance,2021/08/05,5:18 PM,6:00 PM,42,00:42:00,¥0.00/h,-,tui-upgrade; dua-cli release
-Open Source,Maintenance,2021/08/08,10:27 AM,10:36 AM,9,00:09:00,¥0.00/h,-,upgrade to tui 16
-Open Source,Maintenance,2021/08/08,10:45 AM,10:54 AM,9,00:09:00,¥0.00/h,-,Catch up on emails
-Open Source,Maintenance,2021/08/10,8:40 AM,8:42 AM,2,00:02:00,¥0.00/h,-, https://github.com/Byron/dua-cli/issues/100
-Open Source,Maintenance,2021/08/11,9:36 AM,9:48 AM,12,00:12:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/293
-Open Source,Maintenance,2021/08/13,8:58 PM,9:12 PM,14,00:14:00,¥0.00/h,-,https://github.com/orhun/git-cliff/issues/1
-Open Source,Maintenance,2021/08/14,9:29 AM,9:44 AM,15,00:15:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/101
-Open Source,Maintenance,2021/08/14,9:46 AM,9:51 AM,5,00:05:00,¥0.00/h,-,https://github.com/orhun/git-cliff/issues/1
-Open Source,Maintenance,2021/08/15,10:26 AM,10:37 AM,11,00:11:00,¥0.00/h,-,https://github.com/Byron/gitoxide/issues/157; fix build and installation
-Open Source,Maintenance,2021/08/15,3:14 PM,3:45 PM,31,00:31:00,¥0.00/h,-,https://github.com/Byron/gitoxide/issues/159
-Open Source,Maintenance,2021/08/16,7:50 AM,8:02 AM,12,00:12:00,¥0.00/h,-,https://github.com/the-lean-crate/cargo-diet/issues/7
-Open Source,Maintenance,2021/08/16,8:03 AM,8:08 AM,5,00:05:00,¥0.00/h,-,https://github.com/Byron/open-rs/pull/36
-Open Source,Maintenance,2021/08/16,7:26 PM,7:29 PM,3,00:03:00,¥0.00/h,-,https://github.com/proycon/analiticcl/pull/12
-Open Source,Maintenance,2021/08/16,7:46 PM,7:59 PM,13,00:13:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/102
-Open Source,Maintenance,2021/08/16,8:24 PM,8:50 PM,26,00:26:00,¥0.00/h,-,https://github.com/the-lean-crate/cargo-diet/issues/7
-Open Source,Maintenance,2021/08/16,9:10 PM,9:20 PM,10,00:10:00,¥0.00/h,-,Bring back cargo-diet binary relesaes
-Open Source,Maintenance,2021/08/18,9:03 AM,9:05 AM,2,00:02:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/discussions/1321
-Open Source,Maintenance,2021/08/20,7:40 AM,7:48 AM,8,00:08:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/101#issuecomment-902325919
-Open Source,Maintenance,2021/08/20,9:45 PM,9:47 PM,2,00:02:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/96#issuecomment-902373386
-Open Source,Maintenance,2021/08/22,3:18 PM,3:26 PM,8,00:08:00,¥0.00/h,-,https://github.com/Byron/dua-cli/pull/105
-Open Source,Maintenance,2021/08/22,3:26 PM,3:35 PM,9,00:09:00,¥0.00/h,-,https://github.com/Byron/dua-cli/pull/106
-Open Source,Maintenance,2021/08/25,7:45 AM,8:08 AM,23,00:23:00,¥0.00/h,-,"https://github.com/Byron/google-apis-rs/issues/294#issuecomment-904956751 , https://github.com/Byron/google-apis-rs/issues/295"
-Open Source,Maintenance,2021/08/26,8:58 AM,9:10 AM,12,00:12:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/296
-Open Source,Maintenance,2021/08/27,7:44 AM,7:52 AM,8,00:08:00,¥0.00/h,-,https://github.com/Byron/open-rs/issues/37
-Open Source,Maintenance,2021/08/28,9:31 AM,9:33 AM,2,00:02:00,¥0.00/h,-,https://github.com/the-lean-crate/cargo-diet/issues/8
-Open Source,Maintenance,2021/08/28,9:04 PM,9:06 PM,2,00:02:00,¥0.00/h,-,https://github.com/Byron/open-rs/issues/37
-Open Source,Maintenance,2021/08/28,9:06 PM,9:09 PM,3,00:03:00,¥0.00/h,-,https://github.com/the-lean-crate/cargo-diet/issues/8
-Open Source,Maintenance,2021/08/29,10:27 AM,10:35 AM,8,00:08:00,¥0.00/h,-,https://github.com/Byron/open-rs/issues/37#issuecomment-907719070
-Open Source,Maintenance,2021/08/31,7:32 AM,8:09 AM,37,00:37:00,¥0.00/h,-,google-apis-rs re-release
-Open Source,Maintenance,2021/09/02,9:42 PM,9:52 PM,10,00:10:00,¥0.00/h,-,https://youtrack.jetbrains.com/issue/JBR-3715
-Open Source,Maintenance,2021/09/03,5:39 PM,5:41 PM,2,00:02:00,¥0.00/h,-,intelij idea issue catchup
-Open Source,Maintenance,2021/09/06,8:31 AM,8:45 AM,14,00:14:00,¥0.00/h,-,cargo diet dependency update
-Open Source,Maintenance,2021/09/07,3:40 PM,3:47 PM,7,00:07:00,¥0.00/h,-,https://github.com/Byron/pulldown-cmark-to-cmark/pull/27
-Open Source,Maintenance,2021/09/08,7:42 AM,7:49 AM,7,00:07:00,¥0.00/h,-,https://github.com/ArturKovacs/trash-rs/issues/39#issuecomment-914704415
-Open Source,Maintenance,2021/09/09,8:52 AM,8:58 AM,6,00:06:00,¥0.00/h,-,Prepare to remove homebrew in favor of nix
-Open Source,Maintenance,2021/09/10,10:27 AM,11:44 AM,77,01:17:00,¥0.00/h,-,Get back in the saddle after Rust 1.55 hit
-Open Source,Maintenance,2021/09/13,7:27 AM,7:30 AM,3,00:03:00,¥0.00/h,-,https://github.com/afajl/mob/pull/6
-Open Source,Maintenance,2021/09/15,7:30 AM,7:35 AM,5,00:05:00,¥0.00/h,-,configure nix to build various cargo programs
-Open Source,Maintenance,2021/09/15,7:53 AM,7:59 AM,6,00:06:00,¥0.00/h,-,Criner progress bar stability
-Open Source,Maintenance,2021/09/18,9:20 AM,9:38 AM,18,00:18:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1345 gitpython release; https://github.com/Byron/dua-cli/pull/107
-Open Source,Maintenance,2021/09/19,8:15 AM,8:23 AM,8,00:08:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/297; https://github.com/gitpython-developers/GitPython/issues/491#issuecomment-922381391
-Open Source,Maintenance,2021/09/19,8:58 AM,9:02 AM,4,00:04:00,¥0.00/h,-,https://github.com/subamanis/mezura/issues/1#issuecomment-922396307
-Open Source,Maintenance,2021/09/25,10:34 AM,10:45 AM,11,00:11:00,¥0.00/h,-,https://github.com/Byron/pulldown-cmark-to-cmark/pull/29
-Open Source,Maintenance,2021/09/28,7:01 AM,7:18 AM,17,00:17:00,¥0.00/h,-,"Fix criner, they squashed history into one commit."
-Open Source,Maintenance,2021/09/29,8:12 AM,8:18 AM,6,00:06:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/298#issuecomment-929716847
-Open Source,Maintenance,2021/09/30,10:17 AM,10:20 AM,3,00:03:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/pull/299#pullrequestreview-767336606
-Open Source,Maintenance,2021/10/01,10:17 PM,10:23 PM,6,00:06:00,¥0.00/h,-,https://github.com/Byron/dua-cli/discussions/109?converting=1
-Open Source,Maintenance,2021/10/03,7:47 PM,8:00 PM,13,00:13:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/300
-Open Source,Maintenance,2021/10/04,8:38 PM,8:47 PM,9,00:09:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/pull/299#issuecomment-933448830
-Open Source,Maintenance,2021/10/05,8:15 PM,8:21 PM,6,00:06:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/pull/299
-Open Source,Maintenance,2021/10/05,8:29 PM,8:30 PM,1,00:01:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/pull/299
-Open Source,Maintenance,2021/10/07,8:49 PM,8:59 PM,10,00:10:00,¥0.00/h,-,"https://github.com/Byron/treediff-rs/pull/8 - also try changelog generation which worked a little, but still has a few issues for instance with the version being duplicated… and missing the date."
-Open Source,Maintenance,2021/10/07,9:00 PM,9:08 PM,8,00:08:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/pull/299#issuecomment-937775284
-Open Source,Maintenance,2021/10/08,11:25 AM,11:31 AM,6,00:06:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/300#issuecomment-938309826
-Open Source,Maintenance,2021/10/10,8:05 AM,8:18 AM,13,00:13:00,¥0.00/h,-,Recreate access tokens for counting github stars and star-track
-Open Source,Maintenance,2021/10/21,4:43 PM,5:19 PM,36,00:36:00,¥0.00/h,-,https://github.com/rust-lang/cargo/pull/9991
-Open Source,Maintenance,2021/10/22,8:02 AM,8:09 AM,7,00:07:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/pull/301
-Open Source,Maintenance,2021/10/22,8:09 AM,8:22 AM,13,00:13:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/discussions/303
+Business,GitHub Sponsors,2021/06/10,9:53 AM,11:46 AM,113,01:53:00,¥0.00/h,-,Prepare pack statistics (just for counting for now) 
+Business,GitHub Sponsors,2021/06/10,11:59 AM,12:19 PM,20,00:20:00,¥0.00/h,-,count statistics 
+Business,GitHub Sponsors,2021/06/10,3:16 PM,3:55 PM,39,00:39:00,¥0.00/h,-,pack-create program with more sane options. Shows that object ordering is off even in single-threaded mode. Odd… the pack hash isn’t ever consistent and that’s quite surprising. 
+Business,GitHub Sponsors,2021/06/11,8:13 AM,8:57 AM,44,00:44:00,¥0.00/h,-,pack create —statistics
+Business,GitHub Sponsors,2021/06/12,10:35 AM,11:39 AM,64,01:04:00,¥0.00/h,-,Finish statistics for pack-creation. It’s still unclear why packs aren’t giving reproducible hashes.
+Business,GitHub Sponsors,2021/06/12,11:39 AM,12:03 PM,24,00:24:00,¥0.00/h,-,Reproducible pack hashes for single-threaded operation. Needs chunk ordering for multi-threaded ones
+Business,GitHub Sponsors,2021/06/12,6:00 PM,6:53 PM,53,00:53:00,¥0.00/h,-,Hopefully fix tests on CI; test stable packs in single-threaded mode
+Business,GitHub Sponsors,2021/06/13,10:17 AM,12:26 PM,129,02:09:00,¥0.00/h,-,"Try to get stable packs in parallel mode as well; even though it should work now it still doesn’t ,most of the time. "
+Business,GitHub Sponsors,2021/06/13,5:36 PM,6:57 PM,81,01:21:00,¥0.00/h,-,Add proper determinism; improve progress reporting; it’s ready for the next step.
+Business,GitHub Sponsors,2021/06/14,11:49 AM,11:53 AM,4,00:04:00,¥0.00/h,-,"update releases, inform Josh"
+Business,GitHub Sponsors,2021/06/14,1:59 PM,2:05 PM,6,00:06:00,¥0.00/h,-,Update JT regarding velocity
+Business,GitHub Sponsors,2021/06/22,9:41 AM,11:47 AM,126,02:06:00,¥0.00/h,-,Monthly update
+Business,GitHub Sponsors,2021/07/21,10:40 AM,11:49 AM,69,01:09:00,¥0.00/h,-,Study what to do; mild refactors; figure out how to do deltas
+Business,GitHub Sponsors,2021/07/21,1:37 PM,2:40 PM,63,01:03:00,¥0.00/h,-,Prepare for a ‘the new and old’ pack mode to be implemented.
+Business,GitHub Sponsors,2021/07/21,2:59 PM,5:00 PM,121,02:01:00,¥0.00/h,-,"a lot of progress building deltas into packs, even though it’s still quite some work left here."
+Business,GitHub Sponsors,2021/07/21,8:22 PM,9:37 PM,75,01:15:00,¥0.00/h,-,
+Business,GitHub Sponsors,2021/07/21,9:43 PM,10:52 PM,69,01:09:00,¥0.00/h,-,thin pack support for pack generator
+Business,GitHub Sponsors,2021/07/22,8:55 AM,9:07 AM,12,00:12:00,¥0.00/h,-,start making output entry serialization delta aware
+Business,GitHub Sponsors,2021/07/22,10:17 AM,12:06 PM,109,01:49:00,¥0.00/h,-,Try to figure out why the linux pack isn’t working; test performance to realize git is much faster with a single thread.
+Business,GitHub Sponsors,2021/07/22,12:58 PM,3:02 PM,124,02:04:00,¥0.00/h,-,"Nearly fixed the issue of the bad-objects in some repositories, but it’s still racy even though I thought that was solved now."
+Business,GitHub Sponsors,2021/07/22,3:07 PM,3:47 PM,40,00:40:00,¥0.00/h,-,Wrap up this pack generation session
+Business,GitHub Sponsors,2021/07/22,10:06 PM,10:15 PM,9,00:09:00,¥0.00/h,-,timesheets
+Business,GitHub Sponsors,2021/07/22,10:22 PM,11:29 PM,67,01:07:00,¥0.00/h,-,sponsor update
+Business,GitHub Sponsors,2021/08/21,7:42 PM,8:54 PM,72,01:12:00,¥0.00/h,-,Most of the sponsor email
+Business,GitHub Sponsors,2021/08/22,9:04 AM,9:22 AM,18,00:18:00,¥0.00/h,-,"finish sponsor update, minus ‘count objects’ refactoring"
+Business,GitHub Sponsors,2021/08/22,9:32 AM,10:44 AM,72,01:12:00,¥0.00/h,-,first sketch of a non-iterator parallel version of count objects
+Business,GitHub Sponsors,2021/08/22,11:22 AM,12:26 PM,64,01:04:00,¥0.00/h,-,All there except for optimized single-threaded operation
+Business,GitHub Sponsors,2021/08/22,1:06 PM,3:07 PM,121,02:01:00,¥0.00/h,-,"Implement single-threaded version and do some profiling to understand why it’s not actually super-fast now that dashmap is not involved anymore.
+
+Turns out that the LRU caches do a lot of allocations, and so does ZLIb, but that’s probably only half the problem. Maybe it’s possible to avoid more object lookups by having better caches?"
+Business,GitHub Sponsors,2021/08/22,3:47 PM,4:54 PM,67,01:07:00,¥0.00/h,-,"Keep staring at profiles and try to see what can be done, but to no avail. It’s amazing how fast git ends up being."
+Business,GitHub Sponsors,2021/08/22,5:20 PM,5:57 PM,37,00:37:00,¥0.00/h,-,prepare easy mode for pack-create and get the PR merged
+Business,GitHub Sponsors,2021/08/22,6:56 PM,7:32 PM,36,00:36:00,¥0.00/h,-,top-level docs for git-repository
+Business,GitHub Sponsors,2021/08/22,8:04 PM,8:56 PM,52,00:52:00,¥0.00/h,-,Finish git-repository Easy PR and send sponsor email
+Business,GitHub Sponsors,2021/08/22,9:01 PM,9:12 PM,11,00:11:00,¥0.00/h,-,Finish sponsor update
+Business,GitHub Sponsors,2021/08/23,7:28 AM,8:37 AM,69,01:09:00,¥0.00/h,-,Add cache debugging capabilities to git-features just to learn that the pack cache is pretty efficient already
+Business,GitHub Sponsors,2021/09/20,7:41 AM,8:58 AM,77,01:17:00,¥0.00/h,-,Write most of the sponsor email
+Business,GitHub Sponsors,2021/09/20,9:25 PM,9:35 PM,10,00:10:00,¥0.00/h,-,Finish first draft of the sponsor email
+Business,GitHub Sponsors,2021/09/21,8:29 AM,8:54 AM,25,00:25:00,¥0.00/h,-,
+Business,GitHub Sponsors,2021/09/21,11:02 AM,11:58 AM,56,00:56:00,¥0.00/h,-,“Easy” for pack-create well in progress
+Business,GitHub Sponsors,2021/09/21,1:31 PM,2:17 PM,46,00:46:00,¥0.00/h,-,"Use easy as much as possible in pack-create, learning that the pack creation API is a little low-level for that. In fact, that code would have to move to git-repository for easy to be more usable."
+Business,GitHub Sponsors,2021/09/21,3:12 PM,3:46 PM,34,00:34:00,¥0.00/h,-,study whats there to get back in
+Business,GitHub Sponsors,2021/09/21,4:16 PM,6:33 PM,137,02:17:00,¥0.00/h,-,
+Business,GitHub Sponsors,2021/09/21,7:45 PM,8:02 PM,17,00:17:00,¥0.00/h,-,update sponsor email; add trait for Object cache
+Business,GitHub Sponsors,2021/09/21,8:24 PM,9:00 PM,36,00:36:00,¥0.00/h,-,"refactoring to make cache::Object official with its own trait, which helps API clarity and should help git-repository in future (which uses the same)"
+Business,GitHub Sponsors,2021/09/22,2:57 PM,5:09 PM,132,02:12:00,¥0.00/h,-,pack-create research and improvements
+Business,GitHub Sponsors,2021/09/22,5:17 PM,6:38 PM,81,01:21:00,¥0.00/h,-,Try to further enhance counting performance with custom hasher
+Business,GitHub Sponsors,2021/09/22,7:00 PM,8:08 PM,68,01:08:00,¥0.00/h,-,Finish newsletter for sponsors
+Business,GitHub Sponsors,2021/09/22,8:12 PM,9:46 PM,94,01:34:00,¥0.00/h,-,"Search for more performance improvements in gits code, found one at least."
+Business,GitHub Sponsors,2021/09/22,10:01 PM,10:15 PM,14,00:14:00,¥0.00/h,-,"perf tests with linux pack, it looks quite promising after all"
+Business,GitHub Sponsors,2021/09/28,7:42 AM,8:00 AM,18,00:18:00,¥0.00/h,-,Talk to/update Josh Triplett
+Business,GitHub Sponsors,2021/09/28,8:00 AM,8:26 AM,26,00:26:00,¥0.00/h,-,Improve pack access performance when LRU caches are used.
+Business,GitHub Sponsors,2021/10/22,8:24 AM,9:04 AM,40,00:40:00,¥0.00/h,-,Write most of the sponsor update
+Business,GitHub Sponsors,2021/10/22,3:37 PM,3:51 PM,14,00:14:00,¥0.00/h,-,finish sponsor email 
+Business,GitHub Sponsors,2021/10/22,3:51 PM,4:14 PM,23,00:23:00,¥0.00/h,-,finish wrapping up the sponsor email + reddit post
+Business,GitHub Sponsors,2021/11/22,6:48 PM,7:02 PM,14,00:14:00,¥0.00/h,-,First part of sponsor updates on Reddit
+Business,GitHub Sponsors,2021/11/22,9:32 PM,10:19 PM,47,00:47:00,¥0.00/h,-,sponsor email
 Open Source,GitPython,2021/04/12,10:16 AM,10:18 AM,2,00:02:00,¥0.00/h,-,
 Open Source,GitPython,2021/04/13,6:51 PM,7:01 PM,10,00:10:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1210
 Open Source,GitPython,2021/04/14,10:59 AM,11:00 AM,1,00:01:00,¥0.00/h,-,
@@ -298,10 +214,31 @@ Open Source,GitPython,2021/10/15,9:10 PM,9:21 PM,11,00:11:00,¥0.00/h,-,https://
 Open Source,GitPython,2021/10/20,8:32 AM,8:37 AM,5,00:05:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1362
 Open Source,GitPython,2021/10/21,7:14 AM,7:23 AM,9,00:09:00,¥0.00/h,-,https://github.com/gitpython-developers/gitdb/issues/76#issuecomment-948107555; https://github.com/gitpython-developers/GitPython/discussions/1364
 Open Source,GitPython,2021/10/22,7:58 AM,8:01 AM,3,00:03:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/discussions/1364
+Open Source,GitPython,2021/10/23,8:25 AM,8:42 AM,17,00:17:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/discussions/1364#discussioncomment-1523845; https://github.com/gitpython-developers/gitdb/issues/76
+Open Source,GitPython,2021/10/24,9:09 PM,9:14 PM,5,00:05:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/discussions/1369?converting=1
+Open Source,GitPython,2021/10/24,9:15 PM,9:30 PM,15,00:15:00,¥0.00/h,-,https://github.com/gitpython-developers/gitdb/issues/77 - re-release
+Open Source,GitPython,2021/10/26,8:42 PM,9:03 PM,21,00:21:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/discussions/1371?converting=1; https://github.com/gitpython-developers/gitdb/issues/77
+Open Source,GitPython,2021/10/28,11:58 AM,12:00 PM,2,00:02:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/discussions/1371#discussioncomment-1549987
+Open Source,GitPython,2021/10/28,2:01 PM,2:03 PM,2,00:02:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/discussions/1371#discussioncomment-1550291
+Open Source,GitPython,2021/10/28,11:05 PM,11:12 PM,7,00:07:00,¥0.00/h,-,https://github.com/Byron/gitoxide/discussions/242#discussioncomment-1553438
+Open Source,GitPython,2021/10/30,8:52 AM,9:01 AM,9,00:09:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1372#issuecomment-955118085
+Open Source,GitPython,2021/11/04,8:37 AM,8:53 AM,16,00:16:00,¥0.00/h,-,https://github.com/gitpython-developers/gitdb/issues/77#issuecomment-960344487
+Open Source,GitPython,2021/11/05,2:46 PM,2:55 PM,9,00:09:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/discussions/1374#discussioncomment-1593117
+Open Source,GitPython,2021/11/05,3:02 PM,3:08 PM,6,00:06:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/discussions/1374#discussioncomment-1593162
+Open Source,GitPython,2021/11/06,8:59 AM,9:01 AM,2,00:02:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/discussions/1374
+Open Source,GitPython,2021/11/08,7:37 AM,7:51 AM,14,00:14:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/pull/1360#issuecomment-962705170
+Open Source,GitPython,2021/11/09,7:36 AM,7:40 AM,4,00:04:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/pull/1360#issuecomment-963675635
+Open Source,GitPython,2021/11/10,8:04 AM,8:09 AM,5,00:05:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/pull/1375#pullrequestreview-802019522
+Open Source,GitPython,2021/11/10,8:21 AM,8:27 AM,6,00:06:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/pull/1360#pullrequestreview-802026373
+Open Source,GitPython,2021/11/11,7:37 AM,7:49 AM,12,00:12:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/pull/1360#pullrequestreview-803259514
+Open Source,GitPython,2021/11/11,7:51 AM,7:58 AM,7,00:07:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/pull/1376
+Open Source,GitPython,2021/11/12,8:01 AM,8:04 AM,3,00:03:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/pull/1360#issuecomment-966711866
+Open Source,GitPython,2021/11/13,3:17 PM,3:20 PM,3,00:03:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/pull/1360
+Open Source,GitPython,2021/11/13,3:20 PM,3:24 PM,4,00:04:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1377
+Open Source,GitPython,2021/11/21,8:26 AM,8:33 AM,7,00:07:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/580#issuecomment-974732604
 Open Source,Gitoxide,2021/04/03,1:51 PM,2:21 PM,30,00:30:00,¥0.00/h,-,Merge https://github.com/Byron/gitoxide/pull/60
 Open Source,Gitoxide,2021/04/04,2:14 PM,2:35 PM,21,00:21:00,¥0.00/h,-,Experiment with Result<Option<O>> - looks good
 Open Source,Gitoxide,2021/04/04,5:49 PM,6:30 PM,41,00:41:00,¥0.00/h,-,https://github.com/users/Byron/projects/1#card-57932960
-Open Source,Gitoxide,2021/04/04,6:45 PM,7:30 PM,45,00:45:00,¥0.00/h,-,stdarch
 Open Source,Gitoxide,2021/04/04,8:37 PM,9:06 PM,29,00:29:00,¥0.00/h,-,Finish std-arch for the day
 Open Source,Gitoxide,2021/04/05,9:20 AM,9:46 AM,26,00:26:00,¥0.00/h,-,Parallel libgit2 object lookup
 Open Source,Gitoxide,2021/04/05,9:47 AM,10:10 AM,23,00:23:00,¥0.00/h,-,More object access testing: libgit2 can only read the object size.
@@ -310,7 +247,6 @@ Open Source,Gitoxide,2021/04/07,2:42 PM,3:16 PM,34,00:34:00,¥0.00/h,-,https://g
 Open Source,Gitoxide,2021/04/07,7:44 PM,9:24 PM,100,01:40:00,¥0.00/h,-,More of #63
 Open Source,Gitoxide,2021/04/08,7:42 PM,8:05 PM,23,00:23:00,¥0.00/h,-,#63
 Open Source,Gitoxide,2021/04/09,3:45 PM,5:43 PM,118,01:58:00,¥0.00/h,-,make stdarch build again
-Open Source,Gitoxide,2021/04/10,7:13 PM,7:35 PM,22,00:22:00,¥0.00/h,-,Start pack gen
 Open Source,Gitoxide,2021/04/11,11:48 AM,12:16 PM,28,00:28:00,¥0.00/h,-,Pack gen research 
 Open Source,Gitoxide,2021/04/11,10:13 PM,11:01 PM,48,00:48:00,¥0.00/h,-,Cache perf tests
 Open Source,Gitoxide,2021/04/12,10:25 AM,10:34 AM,9,00:09:00,¥0.00/h,-,Try stdarch with latest nightly. https://github.com/rust-lang/stdarch/pull/1104#issuecomment-817437987
@@ -327,7 +263,6 @@ Open Source,Gitoxide,2021/04/18,11:01 AM,11:15 AM,14,00:14:00,¥0.00/h,-,
 Open Source,Gitoxide,2021/04/18,12:57 PM,4:07 PM,190,03:10:00,¥0.00/h,-,#67 - parallel iterator
 Open Source,Gitoxide,2021/04/18,5:11 PM,5:19 PM,8,00:08:00,¥0.00/h,-,
 Open Source,Gitoxide,2021/04/18,8:51 PM,9:32 PM,41,00:41:00,¥0.00/h,-,"Learn more about deltification, window size and depth to get an idea how objects are usually iterated."
-Open Source,Gitoxide,2021/04/19,8:19 AM,9:15 AM,56,00:56:00,¥0.00/h,-,
 Open Source,Gitoxide,2021/04/19,9:35 AM,10:34 AM,59,00:59:00,¥0.00/h,-,
 Open Source,Gitoxide,2021/04/19,12:59 PM,1:40 PM,41,00:41:00,¥0.00/h,-,
 Open Source,Gitoxide,2021/04/19,7:09 PM,7:16 PM,7,00:07:00,¥0.00/h,-,
@@ -548,57 +483,191 @@ Open Source,Gitoxide,2021/10/20,8:21 AM,8:32 AM,11,00:11:00,¥0.00/h,-,https://g
 Open Source,Gitoxide,2021/10/20,5:54 PM,6:23 PM,29,00:29:00,¥0.00/h,-,spread changelogs
 Open Source,Gitoxide,2021/10/21,7:50 AM,9:10 AM,80,01:20:00,¥0.00/h,-,"https://github.com/Byron/gitoxide/issues/234 (failed approach): learning is that if things refer to the FS, just create another handle to it instead of dealing with lifetimes."
 Open Source,Gitoxide,2021/10/22,7:15 AM,7:53 AM,38,00:38:00,¥0.00/h,-,finish uploading video; try upgrade to latest Rust version; abort upgrade to edition 2021 due to lack of support in downstream. Will retry another time.
-Business,GitHub Sponsors,2021/06/10,9:53 AM,11:46 AM,113,01:53:00,¥0.00/h,-,Prepare pack statistics (just for counting for now) 
-Business,GitHub Sponsors,2021/06/10,11:59 AM,12:19 PM,20,00:20:00,¥0.00/h,-,count statistics 
-Business,GitHub Sponsors,2021/06/10,3:16 PM,3:55 PM,39,00:39:00,¥0.00/h,-,pack-create program with more sane options. Shows that object ordering is off even in single-threaded mode. Odd… the pack hash isn’t ever consistent and that’s quite surprising. 
-Business,GitHub Sponsors,2021/06/11,8:13 AM,8:57 AM,44,00:44:00,¥0.00/h,-,pack create —statistics
-Business,GitHub Sponsors,2021/06/12,10:35 AM,11:39 AM,64,01:04:00,¥0.00/h,-,Finish statistics for pack-creation. It’s still unclear why packs aren’t giving reproducible hashes.
-Business,GitHub Sponsors,2021/06/12,11:39 AM,12:03 PM,24,00:24:00,¥0.00/h,-,Reproducible pack hashes for single-threaded operation. Needs chunk ordering for multi-threaded ones
-Business,GitHub Sponsors,2021/06/12,6:00 PM,6:53 PM,53,00:53:00,¥0.00/h,-,Hopefully fix tests on CI; test stable packs in single-threaded mode
-Business,GitHub Sponsors,2021/06/13,10:17 AM,12:26 PM,129,02:09:00,¥0.00/h,-,"Try to get stable packs in parallel mode as well; even though it should work now it still doesn’t ,most of the time. "
-Business,GitHub Sponsors,2021/06/13,5:36 PM,6:57 PM,81,01:21:00,¥0.00/h,-,Add proper determinism; improve progress reporting; it’s ready for the next step.
-Business,GitHub Sponsors,2021/06/14,11:49 AM,11:53 AM,4,00:04:00,¥0.00/h,-,"update releases, inform Josh"
-Business,GitHub Sponsors,2021/06/14,1:59 PM,2:05 PM,6,00:06:00,¥0.00/h,-,Update JT regarding velocity
-Business,GitHub Sponsors,2021/06/22,9:41 AM,11:47 AM,126,02:06:00,¥0.00/h,-,Monthly update
-Business,GitHub Sponsors,2021/07/21,10:40 AM,11:49 AM,69,01:09:00,¥0.00/h,-,Study what to do; mild refactors; figure out how to do deltas
-Business,GitHub Sponsors,2021/07/21,1:37 PM,2:40 PM,63,01:03:00,¥0.00/h,-,Prepare for a ‘the new and old’ pack mode to be implemented.
-Business,GitHub Sponsors,2021/07/21,2:59 PM,5:00 PM,121,02:01:00,¥0.00/h,-,"a lot of progress building deltas into packs, even though it’s still quite some work left here."
-Business,GitHub Sponsors,2021/07/21,8:22 PM,9:37 PM,75,01:15:00,¥0.00/h,-,
-Business,GitHub Sponsors,2021/07/21,9:43 PM,10:52 PM,69,01:09:00,¥0.00/h,-,thin pack support for pack generator
-Business,GitHub Sponsors,2021/07/22,8:55 AM,9:07 AM,12,00:12:00,¥0.00/h,-,start making output entry serialization delta aware
-Business,GitHub Sponsors,2021/07/22,10:17 AM,12:06 PM,109,01:49:00,¥0.00/h,-,Try to figure out why the linux pack isn’t working; test performance to realize git is much faster with a single thread.
-Business,GitHub Sponsors,2021/07/22,12:58 PM,3:02 PM,124,02:04:00,¥0.00/h,-,"Nearly fixed the issue of the bad-objects in some repositories, but it’s still racy even though I thought that was solved now."
-Business,GitHub Sponsors,2021/07/22,3:07 PM,3:47 PM,40,00:40:00,¥0.00/h,-,Wrap up this pack generation session
-Business,GitHub Sponsors,2021/07/22,10:06 PM,10:15 PM,9,00:09:00,¥0.00/h,-,timesheets
-Business,GitHub Sponsors,2021/07/22,10:22 PM,11:29 PM,67,01:07:00,¥0.00/h,-,sponsor update
-Business,GitHub Sponsors,2021/08/21,7:42 PM,8:54 PM,72,01:12:00,¥0.00/h,-,Most of the sponsor email
-Business,GitHub Sponsors,2021/08/22,9:04 AM,9:22 AM,18,00:18:00,¥0.00/h,-,"finish sponsor update, minus ‘count objects’ refactoring"
-Business,GitHub Sponsors,2021/08/22,9:32 AM,10:44 AM,72,01:12:00,¥0.00/h,-,first sketch of a non-iterator parallel version of count objects
-Business,GitHub Sponsors,2021/08/22,11:22 AM,12:26 PM,64,01:04:00,¥0.00/h,-,All there except for optimized single-threaded operation
-Business,GitHub Sponsors,2021/08/22,1:06 PM,3:07 PM,121,02:01:00,¥0.00/h,-,"Implement single-threaded version and do some profiling to understand why it’s not actually super-fast now that dashmap is not involved anymore.
-
-Turns out that the LRU caches do a lot of allocations, and so does ZLIb, but that’s probably only half the problem. Maybe it’s possible to avoid more object lookups by having better caches?"
-Business,GitHub Sponsors,2021/08/22,3:47 PM,4:54 PM,67,01:07:00,¥0.00/h,-,"Keep staring at profiles and try to see what can be done, but to no avail. It’s amazing how fast git ends up being."
-Business,GitHub Sponsors,2021/08/22,5:20 PM,5:57 PM,37,00:37:00,¥0.00/h,-,prepare easy mode for pack-create and get the PR merged
-Business,GitHub Sponsors,2021/08/22,6:56 PM,7:32 PM,36,00:36:00,¥0.00/h,-,top-level docs for git-repository
-Business,GitHub Sponsors,2021/08/22,8:04 PM,8:56 PM,52,00:52:00,¥0.00/h,-,Finish git-repository Easy PR and send sponsor email
-Business,GitHub Sponsors,2021/08/22,9:01 PM,9:12 PM,11,00:11:00,¥0.00/h,-,Finish sponsor update
-Business,GitHub Sponsors,2021/08/23,7:28 AM,8:37 AM,69,01:09:00,¥0.00/h,-,Add cache debugging capabilities to git-features just to learn that the pack cache is pretty efficient already
-Business,GitHub Sponsors,2021/09/20,7:41 AM,8:58 AM,77,01:17:00,¥0.00/h,-,Write most of the sponsor email
-Business,GitHub Sponsors,2021/09/20,9:25 PM,9:35 PM,10,00:10:00,¥0.00/h,-,Finish first draft of the sponsor email
-Business,GitHub Sponsors,2021/09/21,8:29 AM,8:54 AM,25,00:25:00,¥0.00/h,-,
-Business,GitHub Sponsors,2021/09/21,11:02 AM,11:58 AM,56,00:56:00,¥0.00/h,-,“Easy” for pack-create well in progress
-Business,GitHub Sponsors,2021/09/21,1:31 PM,2:17 PM,46,00:46:00,¥0.00/h,-,"Use easy as much as possible in pack-create, learning that the pack creation API is a little low-level for that. In fact, that code would have to move to git-repository for easy to be more usable."
-Business,GitHub Sponsors,2021/09/21,3:12 PM,3:46 PM,34,00:34:00,¥0.00/h,-,study whats there to get back in
-Business,GitHub Sponsors,2021/09/21,4:16 PM,6:33 PM,137,02:17:00,¥0.00/h,-,
-Business,GitHub Sponsors,2021/09/21,7:45 PM,8:02 PM,17,00:17:00,¥0.00/h,-,update sponsor email; add trait for Object cache
-Business,GitHub Sponsors,2021/09/21,8:24 PM,9:00 PM,36,00:36:00,¥0.00/h,-,"refactoring to make cache::Object official with its own trait, which helps API clarity and should help git-repository in future (which uses the same)"
-Business,GitHub Sponsors,2021/09/22,2:57 PM,5:09 PM,132,02:12:00,¥0.00/h,-,pack-create research and improvements
-Business,GitHub Sponsors,2021/09/22,5:17 PM,6:38 PM,81,01:21:00,¥0.00/h,-,Try to further enhance counting performance with custom hasher
-Business,GitHub Sponsors,2021/09/22,7:00 PM,8:08 PM,68,01:08:00,¥0.00/h,-,Finish newsletter for sponsors
-Business,GitHub Sponsors,2021/09/22,8:12 PM,9:46 PM,94,01:34:00,¥0.00/h,-,"Search for more performance improvements in gits code, found one at least."
-Business,GitHub Sponsors,2021/09/22,10:01 PM,10:15 PM,14,00:14:00,¥0.00/h,-,"perf tests with linux pack, it looks quite promising after all"
-Business,GitHub Sponsors,2021/09/28,7:42 AM,8:00 AM,18,00:18:00,¥0.00/h,-,Talk to/update Josh Triplett
-Business,GitHub Sponsors,2021/09/28,8:00 AM,8:26 AM,26,00:26:00,¥0.00/h,-,Improve pack access performance when LRU caches are used.
-Business,GitHub Sponsors,2021/10/22,8:24 AM,9:04 AM,40,00:40:00,¥0.00/h,-,Write most of the sponsor update
-Business,GitHub Sponsors,2021/10/22,3:37 PM,3:51 PM,14,00:14:00,¥0.00/h,-,finish sponsor email
+Open Source,Gitoxide,2021/10/25,7:34 AM,7:37 AM,3,00:03:00,¥0.00/h,-,Lookup XDG_CONFIG_HOME and where it belongs in the call chain.
+Open Source,Gitoxide,2021/10/27,7:42 AM,9:07 AM,85,01:25:00,¥0.00/h,-,https://github.com/Byron/gitoxide/issues/241; figure out linker issue and solve it with ZLD. Try to build ZLD
+Open Source,Gitoxide,2021/10/27,5:08 PM,5:23 PM,15,00:15:00,¥0.00/h,-,https://github.com/Byron/gitoxide/discussions/242#discussioncomment-1544012
+Open Source,Gitoxide,2021/10/28,11:34 AM,11:44 AM,10,00:10:00,¥0.00/h,-,https://github.com/Byron/gitoxide/discussions/242#discussioncomment-1549942
+Open Source,Gitoxide,2021/10/28,2:03 PM,2:09 PM,6,00:06:00,¥0.00/h,-,https://github.com/Byron/gitoxide/discussions/242#discussioncomment-1550312
+Open Source,Gitoxide,2021/10/28,3:24 PM,3:29 PM,5,00:05:00,¥0.00/h,-,https://github.com/Byron/gitoxide/discussions/242#discussioncomment-1550667
+Open Source,Gitoxide,2021/10/29,7:44 AM,8:01 AM,17,00:17:00,¥0.00/h,-,https://github.com/Byron/gitoxide/discussions/93#discussioncomment-1556018
+Open Source,Gitoxide,2021/10/29,8:01 AM,8:08 AM,7,00:07:00,¥0.00/h,-,https://github.com/Byron/gitoxide/discussions/93#discussioncomment-1556018
+Open Source,Gitoxide,2021/10/29,8:08 AM,8:31 AM,23,00:23:00,¥0.00/h,-,"https://github.com/Byron/gitoxide/issues/247; and some performance tests for pack creation. M1Pro is faster even on a single core for this workload, amazing. `git` gets faster as well though :D."
+Open Source,Gitoxide,2021/10/29,8:31 AM,8:47 AM,16,00:16:00,¥0.00/h,-,perf testing
+Open Source,Gitoxide,2021/10/30,8:46 AM,8:52 AM,6,00:06:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/11/01,7:39 AM,8:13 AM,34,00:34:00,¥0.00/h,-,https://github.com/Byron/gitoxide/pull/248 - along with performance measurements
+Open Source,Gitoxide,2021/11/01,8:26 AM,8:36 AM,10,00:10:00,¥0.00/h,-,https://github.com/Byron/gitoxide/discussions/242#discussioncomment-1567330
+Open Source,Gitoxide,2021/11/01,3:41 PM,3:43 PM,2,00:02:00,¥0.00/h,-,install-test cargo-smart-release
+Open Source,Gitoxide,2021/11/03,4:02 PM,4:12 PM,10,00:10:00,¥0.00/h,-,https://github.com/Byron/gitoxide/discussions/249
+Open Source,Gitoxide,2021/11/03,4:12 PM,4:15 PM,3,00:03:00,¥0.00/h,-,https://github.com/Byron/gitoxide/discussions/242#discussioncomment-1580508
+Open Source,Gitoxide,2021/11/04,12:58 PM,1:59 PM,61,01:01:00,¥0.00/h,-,https://github.com/Byron/gitoxide/pull/250#pullrequestreview-797354200
+Open Source,Gitoxide,2021/11/04,1:59 PM,2:19 PM,20,00:20:00,¥0.00/h,-,https://github.com/Byron/gitoxide/discussions/249#discussioncomment-1580845
+Open Source,Gitoxide,2021/11/05,7:33 AM,8:56 AM,83,01:23:00,¥0.00/h,-,https://github.com/Byron/gitoxide/issues/251
+Open Source,Gitoxide,2021/11/05,1:56 PM,2:03 PM,7,00:07:00,¥0.00/h,-,https://github.com/Byron/gitoxide/pull/250#issuecomment-961647819
+Open Source,Gitoxide,2021/11/09,5:20 PM,5:23 PM,3,00:03:00,¥0.00/h,-,https://github.com/Byron/gitoxide/issues/251#issuecomment-963963398
+Open Source,Gitoxide,2021/11/09,5:30 PM,6:16 PM,46,00:46:00,¥0.00/h,-,https://github.com/Byron/gitoxide/discussions/253?converting=1
+Open Source,Gitoxide,2021/11/10,8:09 AM,8:21 AM,12,00:12:00,¥0.00/h,-,https://github.com/Byron/gitoxide/discussions/253#discussioncomment-1616073
+Open Source,Gitoxide,2021/11/16,9:39 AM,9:44 AM,5,00:05:00,¥0.00/h,-,cleanup issues; block troll
+Open Source,Gitoxide,2021/11/16,9:44 AM,12:37 PM,173,02:53:00,¥0.00/h,-,"Look into https://github.com/Byron/gitoxide/issues/254 and try to fix it. Intermediate fix applied, but I have a feeling it’s not yet perfect."
+Open Source,Gitoxide,2021/11/16,1:03 PM,1:29 PM,26,00:26:00,¥0.00/h,-,More research for #254
+Open Source,Gitoxide,2021/11/16,1:40 PM,2:52 PM,72,01:12:00,¥0.00/h,-,Finish #254 with re-release of git-pack that contains a fix
+Open Source,Gitoxide,2021/11/18,7:54 AM,8:10 AM,16,00:16:00,¥0.00/h,-,start finishing https://github.com/Byron/gitoxide/pull/250 
+Open Source,Gitoxide,2021/11/18,12:13 PM,12:23 PM,10,00:10:00,¥0.00/h,-,
+Open Source,Gitoxide,2021/11/18,3:53 PM,5:14 PM,81,01:21:00,¥0.00/h,-,https://github.com/Byron/gitoxide/pull/250
+Open Source,Gitoxide,2021/11/19,2:26 PM,2:29 PM,3,00:03:00,¥0.00/h,-,https://github.com/Byron/gitoxide/pull/240
+Open Source,Gitoxide,2021/11/19,2:29 PM,2:39 PM,10,00:10:00,¥0.00/h,-,some cleanup of FIXMEs
+Open Source,Maintenance,2021/04/04,9:06 PM,9:16 PM,10,00:10:00,¥0.00/h,-,dua-cli issues
+Open Source,Maintenance,2021/04/12,10:18 AM,10:24 AM,6,00:06:00,¥0.00/h,-,Dua-cli pr 86
+Open Source,Maintenance,2021/04/15,4:36 PM,4:43 PM,7,00:07:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/87
+Open Source,Maintenance,2021/04/18,8:51 AM,8:52 AM,1,00:01:00,¥0.00/h,-,https://github.com/Byron/open-rs/issues/30
+Open Source,Maintenance,2021/04/18,5:19 PM,5:41 PM,22,00:22:00,¥0.00/h,-,https://github.com/Byron/open-rs/issues/30
+Open Source,Maintenance,2021/04/22,9:54 AM,10:02 AM,8,00:08:00,¥0.00/h,-,https://github.com/zellij-org/zellij/pull/293#issuecomment-824065277
+Open Source,Maintenance,2021/04/25,1:42 PM,1:58 PM,16,00:16:00,¥0.00/h,-,https://github.com/aome510/hackernews-TUI/pull/29
+Open Source,Maintenance,2021/04/25,6:37 PM,6:47 PM,10,00:10:00,¥0.00/h,-,https://github.com/aome510/hackernews-TUI/pull/29#issuecomment-826302259
+Open Source,Maintenance,2021/04/28,5:39 AM,5:55 AM,16,00:16:00,¥0.00/h,-,Clear out unused files for 70GB of disk space :D
+Open Source,Maintenance,2021/05/02,1:02 PM,1:26 PM,24,00:24:00,¥0.00/h,-,https://github.com/Byron/pulldown-cmark-to-cmark/pull/24
+Open Source,Maintenance,2021/05/03,6:51 AM,7:17 AM,26,00:26:00,¥0.00/h,-,upgrade to Tui 0.15
+Open Source,Maintenance,2021/05/03,7:17 AM,9:23 AM,126,02:06:00,¥0.00/h,-,get dua-release to work again; gitoxide experiment in the off-time
+Open Source,Maintenance,2021/05/05,7:20 AM,7:35 AM,15,00:15:00,¥0.00/h,-,Start using external microphone
+Open Source,Maintenance,2021/05/07,7:17 AM,7:23 AM,6,00:06:00,¥0.00/h,-,upgrade Rust	
+Open Source,Maintenance,2021/05/07,7:35 AM,7:49 AM,14,00:14:00,¥0.00/h,-,
+Open Source,Maintenance,2021/05/08,1:00 PM,1:01 PM,1,00:01:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/89
+Open Source,Maintenance,2021/05/08,1:44 PM,4:00 PM,136,02:16:00,¥0.00/h,-,Fix prodash bug and make it easier to configure.
+Open Source,Maintenance,2021/05/15,9:12 AM,9:13 AM,1,00:01:00,¥0.00/h,-,
+Open Source,Maintenance,2021/05/22,9:55 AM,10:10 AM,15,00:15:00,¥0.00/h,-,open source timesheets
+Open Source,Maintenance,2021/05/26,4:07 PM,4:20 PM,13,00:13:00,¥0.00/h,-,
+Open Source,Maintenance,2021/05/29,10:09 AM,10:12 AM,3,00:03:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/discussions/285?converting=1
+Open Source,Maintenance,2021/05/29,10:15 AM,10:24 AM,9,00:09:00,¥0.00/h,-,https://github.com/KSXGitHub/parallel-disk-usage/pull/14
+Open Source,Maintenance,2021/05/29,11:20 AM,11:34 AM,14,00:14:00,¥0.00/h,-,https://github.com/KSXGitHub/parallel-disk-usage/pull/14#issuecomment-850761519
+Open Source,Maintenance,2021/05/29,11:34 AM,12:42 PM,68,01:08:00,¥0.00/h,-,dua: enumeration count 
+Open Source,Maintenance,2021/05/29,1:04 PM,2:17 PM,73,01:13:00,¥0.00/h,-,dua performance testing; definitely not a good way to spend time
+Open Source,Maintenance,2021/05/29,2:31 PM,2:55 PM,24,00:24:00,¥0.00/h,-,https://github.com/jessegrosjean/jwalk/issues/30
+Open Source,Maintenance,2021/05/30,10:46 AM,11:27 AM,41,00:41:00,¥0.00/h,-,Dua cli
+Open Source,Maintenance,2021/05/30,4:29 PM,7:40 PM,191,03:11:00,¥0.00/h,-,https://github.com/jessegrosjean/jwalk/issues/30
+Open Source,Maintenance,2021/05/31,7:23 AM,7:56 AM,33,00:33:00,¥0.00/h,-,dua + criner
+Open Source,Maintenance,2021/06/01,9:31 AM,11:16 AM,105,01:45:00,¥0.00/h,-,Solve the `dua` M1/pdu performance puzzle
+Open Source,Maintenance,2021/06/03,8:43 AM,8:58 AM,15,00:15:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/92
+Open Source,Maintenance,2021/06/04,8:29 AM,8:38 AM,9,00:09:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/93
+Open Source,Maintenance,2021/06/04,9:30 AM,10:22 AM,52,00:52:00,¥0.00/h,-,https://github.com/Byron/pulldown-cmark-to-cmark/issues/25
+Open Source,Maintenance,2021/06/04,1:06 PM,1:13 PM,7,00:07:00,¥0.00/h,-,"check pdu benchmark results, README seems stale but it also doesn’t matter as dua is unreasonably slow in these for some reason."
+Open Source,Maintenance,2021/06/04,1:14 PM,1:43 PM,29,00:29:00,¥0.00/h,-,https://github.com/KSXGitHub/parallel-disk-usage/pull/14#issuecomment-854375371
+Open Source,Maintenance,2021/06/05,9:10 AM,9:22 AM,12,00:12:00,¥0.00/h,-,criner waste report gc and branch change to main. Don’t push from other machines is the lesson learned here.
+Open Source,Maintenance,2021/06/05,9:29 AM,9:40 AM,11,00:11:00,¥0.00/h,-,https://github.com/KSXGitHub/parallel-disk-usage/pull/14#issuecomment-855163789
+Open Source,Maintenance,2021/06/05,9:40 AM,9:57 AM,17,00:17:00,¥0.00/h,-,https://github.com/KSXGitHub/parallel-disk-usage/pull/14#issuecomment-855165681
+Open Source,Maintenance,2021/06/05,10:47 AM,11:22 AM,35,00:35:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/93
+Open Source,Maintenance,2021/06/06,7:34 AM,7:45 AM,11,00:11:00,¥0.00/h,-,criner
+Open Source,Maintenance,2021/06/06,8:01 AM,8:52 AM,51,00:51:00,¥0.00/h,-,https://github.com/the-lean-crate/criner/issues/6
+Open Source,Maintenance,2021/06/07,7:52 AM,8:04 AM,12,00:12:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/pull/286
+Open Source,Maintenance,2021/06/07,8:04 AM,8:24 AM,20,00:20:00,¥0.00/h,-,research how M1 can be distinguished
+Open Source,Maintenance,2021/06/07,9:21 AM,9:43 AM,22,00:22:00,¥0.00/h,-,teach dua-cli to be specific when guessing the amount of default threads on apple silicon
+Open Source,Maintenance,2021/06/07,9:43 AM,10:04 AM,21,00:21:00,¥0.00/h,-,"See if there are (now) ways to easily determine the amount of fast cores (no), and once again compare dua with du, making it appears inefficient (6x power for 2x speedup), 1.5x slower than du when used with a single thread."
+Open Source,Maintenance,2021/06/08,8:57 AM,10:00 AM,63,01:03:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/87; plenty of distractions though
+Open Source,Maintenance,2021/06/09,4:41 PM,4:50 PM,9,00:09:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/87#issuecomment-857512152
+Open Source,Maintenance,2021/06/14,9:09 AM,9:16 AM,7,00:07:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/287
+Open Source,Maintenance,2021/06/14,10:22 PM,10:39 PM,17,00:17:00,¥0.00/h,-,Configure OBS
+Open Source,Maintenance,2021/06/17,8:45 AM,8:55 AM,10,00:10:00,¥0.00/h,-,criner waste report repo maintenance
+Open Source,Maintenance,2021/06/20,8:12 AM,8:19 AM,7,00:07:00,¥0.00/h,-,https://github.com/Byron/tui-crates/issues/1
+Open Source,Maintenance,2021/06/22,7:34 AM,7:47 AM,13,00:13:00,¥0.00/h,-,https://github.com/Byron/tui-crates/issues/1#issuecomment-865419172
+Open Source,Maintenance,2021/06/22,7:47 AM,7:51 AM,4,00:04:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/discussions/289
+Open Source,Maintenance,2021/06/23,7:51 PM,8:02 PM,11,00:11:00,¥0.00/h,-,https://github.com/Byron/pulldown-cmark-to-cmark/pull/26
+Open Source,Maintenance,2021/06/23,8:02 PM,8:15 PM,13,00:13:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1235
+Open Source,Maintenance,2021/06/24,7:36 AM,7:43 AM,7,00:07:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/94
+Open Source,Maintenance,2021/06/24,7:43 AM,7:56 AM,13,00:13:00,¥0.00/h,-,https://github.com/KSXGitHub/parallel-disk-usage/tree/1ce3a77cb94c13be87f3bc9213e016fa5259ed13#benchmark
+Open Source,Maintenance,2021/06/24,8:17 PM,8:25 PM,8,00:08:00,¥0.00/h,-,
+Open Source,Maintenance,2021/06/26,9:19 AM,9:22 AM,3,00:03:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/30
+Open Source,Maintenance,2021/06/26,9:49 AM,9:54 AM,5,00:05:00,¥0.00/h,-,"get git back
+"
+Open Source,Maintenance,2021/06/28,8:25 AM,8:29 AM,4,00:04:00,¥0.00/h,-,https://github.com/Byron/dua-cli/pull/95#pullrequestreview-693471190
+Open Source,Maintenance,2021/06/28,8:29 AM,8:35 AM,6,00:06:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/96
+Open Source,Maintenance,2021/06/30,7:08 AM,7:45 AM,37,00:37:00,¥0.00/h,-,https://github.com/Byron/dua-cli/pull/95
+Open Source,Maintenance,2021/07/07,10:20 AM,10:24 AM,4,00:04:00,¥0.00/h,-,
+Open Source,Maintenance,2021/07/11,4:53 PM,4:57 PM,4,00:04:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/pull/1285
+Open Source,Maintenance,2021/07/11,9:55 PM,10:02 PM,7,00:07:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/290
+Open Source,Maintenance,2021/07/14,8:05 AM,8:43 AM,38,00:38:00,¥0.00/h,-,https://github.com/Byron/dua-cli/pull/98
+Open Source,Maintenance,2021/07/15,11:00 AM,11:47 AM,47,00:47:00,¥0.00/h,-,prepare to ditch homebrew for nix
+Open Source,Maintenance,2021/07/15,11:47 AM,12:05 PM,18,00:18:00,¥0.00/h,-,https://github.com/Byron/gitoxide/discussions/122
+Open Source,Maintenance,2021/07/16,2:43 PM,3:04 PM,21,00:21:00,¥0.00/h,-,https://github.com/Byron/open-rs/pull/33#pullrequestreview-708054695
+Open Source,Maintenance,2021/07/16,3:04 PM,3:20 PM,16,00:16:00,¥0.00/h,-,https://github.com/Byron/open-rs/pull/32
+Open Source,Maintenance,2021/07/17,10:26 AM,10:43 AM,17,00:17:00,¥0.00/h,-,https://github.com/Byron/open-rs/pull/33
+Open Source,Maintenance,2021/07/24,8:54 AM,8:58 AM,4,00:04:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/99#issuecomment-885978149
+Open Source,Maintenance,2021/07/24,8:58 AM,9:00 AM,2,00:02:00,¥0.00/h,-,https://github.com/Byron/open-rs/issues/10#issuecomment-885978373
+Open Source,Maintenance,2021/07/25,10:23 AM,10:43 AM,20,00:20:00,¥0.00/h,-,https://github.com/Byron/open-rs/pull/35
+Open Source,Maintenance,2021/07/25,10:44 AM,10:47 AM,3,00:03:00,¥0.00/h,-,release patch of dua-cli for using open v2
+Open Source,Maintenance,2021/07/26,1:34 PM,1:36 PM,2,00:02:00,¥0.00/h,-,https://github.com/Byron/open-rs/pull/35#issuecomment-886391302
+Open Source,Maintenance,2021/07/30,8:44 AM,8:52 AM,8,00:08:00,¥0.00/h,-,criner updates
+Open Source,Maintenance,2021/07/30,8:53 AM,9:00 AM,7,00:07:00,¥0.00/h,-,update dua-cli
+Open Source,Maintenance,2021/07/31,9:34 AM,9:54 AM,20,00:20:00,¥0.00/h,-,https://github.com/Byron/crates-index-diff-rs/pull/11
+Open Source,Maintenance,2021/08/04,3:55 PM,4:08 PM,13,00:13:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/291#issuecomment-892456820
+Open Source,Maintenance,2021/08/04,5:00 PM,5:26 PM,26,00:26:00,¥0.00/h,-,tui upgrade
+Open Source,Maintenance,2021/08/05,5:18 PM,6:00 PM,42,00:42:00,¥0.00/h,-,tui-upgrade; dua-cli release
+Open Source,Maintenance,2021/08/08,10:27 AM,10:36 AM,9,00:09:00,¥0.00/h,-,upgrade to tui 16
+Open Source,Maintenance,2021/08/08,10:45 AM,10:54 AM,9,00:09:00,¥0.00/h,-,Catch up on emails
+Open Source,Maintenance,2021/08/10,8:40 AM,8:42 AM,2,00:02:00,¥0.00/h,-, https://github.com/Byron/dua-cli/issues/100
+Open Source,Maintenance,2021/08/11,9:36 AM,9:48 AM,12,00:12:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/293
+Open Source,Maintenance,2021/08/13,8:58 PM,9:12 PM,14,00:14:00,¥0.00/h,-,https://github.com/orhun/git-cliff/issues/1
+Open Source,Maintenance,2021/08/14,9:29 AM,9:44 AM,15,00:15:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/101
+Open Source,Maintenance,2021/08/14,9:46 AM,9:51 AM,5,00:05:00,¥0.00/h,-,https://github.com/orhun/git-cliff/issues/1
+Open Source,Maintenance,2021/08/15,10:26 AM,10:37 AM,11,00:11:00,¥0.00/h,-,https://github.com/Byron/gitoxide/issues/157; fix build and installation
+Open Source,Maintenance,2021/08/15,3:14 PM,3:45 PM,31,00:31:00,¥0.00/h,-,https://github.com/Byron/gitoxide/issues/159
+Open Source,Maintenance,2021/08/16,7:50 AM,8:02 AM,12,00:12:00,¥0.00/h,-,https://github.com/the-lean-crate/cargo-diet/issues/7
+Open Source,Maintenance,2021/08/16,8:03 AM,8:08 AM,5,00:05:00,¥0.00/h,-,https://github.com/Byron/open-rs/pull/36
+Open Source,Maintenance,2021/08/16,7:26 PM,7:29 PM,3,00:03:00,¥0.00/h,-,https://github.com/proycon/analiticcl/pull/12
+Open Source,Maintenance,2021/08/16,7:46 PM,7:59 PM,13,00:13:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/102
+Open Source,Maintenance,2021/08/16,8:24 PM,8:50 PM,26,00:26:00,¥0.00/h,-,https://github.com/the-lean-crate/cargo-diet/issues/7
+Open Source,Maintenance,2021/08/16,9:10 PM,9:20 PM,10,00:10:00,¥0.00/h,-,Bring back cargo-diet binary relesaes
+Open Source,Maintenance,2021/08/18,9:03 AM,9:05 AM,2,00:02:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/discussions/1321
+Open Source,Maintenance,2021/08/20,7:40 AM,7:48 AM,8,00:08:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/101#issuecomment-902325919
+Open Source,Maintenance,2021/08/20,9:45 PM,9:47 PM,2,00:02:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/96#issuecomment-902373386
+Open Source,Maintenance,2021/08/22,3:18 PM,3:26 PM,8,00:08:00,¥0.00/h,-,https://github.com/Byron/dua-cli/pull/105
+Open Source,Maintenance,2021/08/22,3:26 PM,3:35 PM,9,00:09:00,¥0.00/h,-,https://github.com/Byron/dua-cli/pull/106
+Open Source,Maintenance,2021/08/25,7:45 AM,8:08 AM,23,00:23:00,¥0.00/h,-,"https://github.com/Byron/google-apis-rs/issues/294#issuecomment-904956751 , https://github.com/Byron/google-apis-rs/issues/295"
+Open Source,Maintenance,2021/08/26,8:58 AM,9:10 AM,12,00:12:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/296
+Open Source,Maintenance,2021/08/27,7:44 AM,7:52 AM,8,00:08:00,¥0.00/h,-,https://github.com/Byron/open-rs/issues/37
+Open Source,Maintenance,2021/08/28,9:31 AM,9:33 AM,2,00:02:00,¥0.00/h,-,https://github.com/the-lean-crate/cargo-diet/issues/8
+Open Source,Maintenance,2021/08/28,9:04 PM,9:06 PM,2,00:02:00,¥0.00/h,-,https://github.com/Byron/open-rs/issues/37
+Open Source,Maintenance,2021/08/28,9:06 PM,9:09 PM,3,00:03:00,¥0.00/h,-,https://github.com/the-lean-crate/cargo-diet/issues/8
+Open Source,Maintenance,2021/08/29,10:27 AM,10:35 AM,8,00:08:00,¥0.00/h,-,https://github.com/Byron/open-rs/issues/37#issuecomment-907719070
+Open Source,Maintenance,2021/08/31,7:32 AM,8:09 AM,37,00:37:00,¥0.00/h,-,google-apis-rs re-release
+Open Source,Maintenance,2021/09/02,9:42 PM,9:52 PM,10,00:10:00,¥0.00/h,-,https://youtrack.jetbrains.com/issue/JBR-3715
+Open Source,Maintenance,2021/09/03,5:39 PM,5:41 PM,2,00:02:00,¥0.00/h,-,intelij idea issue catchup
+Open Source,Maintenance,2021/09/06,8:31 AM,8:45 AM,14,00:14:00,¥0.00/h,-,cargo diet dependency update
+Open Source,Maintenance,2021/09/07,3:40 PM,3:47 PM,7,00:07:00,¥0.00/h,-,https://github.com/Byron/pulldown-cmark-to-cmark/pull/27
+Open Source,Maintenance,2021/09/08,7:42 AM,7:49 AM,7,00:07:00,¥0.00/h,-,https://github.com/ArturKovacs/trash-rs/issues/39#issuecomment-914704415
+Open Source,Maintenance,2021/09/09,8:52 AM,8:58 AM,6,00:06:00,¥0.00/h,-,Prepare to remove homebrew in favor of nix
+Open Source,Maintenance,2021/09/10,10:27 AM,11:44 AM,77,01:17:00,¥0.00/h,-,Get back in the saddle after Rust 1.55 hit
+Open Source,Maintenance,2021/09/13,7:27 AM,7:30 AM,3,00:03:00,¥0.00/h,-,https://github.com/afajl/mob/pull/6
+Open Source,Maintenance,2021/09/15,7:30 AM,7:35 AM,5,00:05:00,¥0.00/h,-,configure nix to build various cargo programs
+Open Source,Maintenance,2021/09/15,7:53 AM,7:59 AM,6,00:06:00,¥0.00/h,-,Criner progress bar stability
+Open Source,Maintenance,2021/09/18,9:20 AM,9:38 AM,18,00:18:00,¥0.00/h,-,https://github.com/gitpython-developers/GitPython/issues/1345 gitpython release; https://github.com/Byron/dua-cli/pull/107
+Open Source,Maintenance,2021/09/19,8:15 AM,8:23 AM,8,00:08:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/297; https://github.com/gitpython-developers/GitPython/issues/491#issuecomment-922381391
+Open Source,Maintenance,2021/09/19,8:58 AM,9:02 AM,4,00:04:00,¥0.00/h,-,https://github.com/subamanis/mezura/issues/1#issuecomment-922396307
+Open Source,Maintenance,2021/09/25,10:34 AM,10:45 AM,11,00:11:00,¥0.00/h,-,https://github.com/Byron/pulldown-cmark-to-cmark/pull/29
+Open Source,Maintenance,2021/09/28,7:01 AM,7:18 AM,17,00:17:00,¥0.00/h,-,"Fix criner, they squashed history into one commit."
+Open Source,Maintenance,2021/09/29,8:12 AM,8:18 AM,6,00:06:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/298#issuecomment-929716847
+Open Source,Maintenance,2021/09/30,10:17 AM,10:20 AM,3,00:03:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/pull/299#pullrequestreview-767336606
+Open Source,Maintenance,2021/10/01,10:17 PM,10:23 PM,6,00:06:00,¥0.00/h,-,https://github.com/Byron/dua-cli/discussions/109?converting=1
+Open Source,Maintenance,2021/10/03,7:47 PM,8:00 PM,13,00:13:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/300
+Open Source,Maintenance,2021/10/04,8:38 PM,8:47 PM,9,00:09:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/pull/299#issuecomment-933448830
+Open Source,Maintenance,2021/10/05,8:15 PM,8:21 PM,6,00:06:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/pull/299
+Open Source,Maintenance,2021/10/05,8:29 PM,8:30 PM,1,00:01:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/pull/299
+Open Source,Maintenance,2021/10/07,8:49 PM,8:59 PM,10,00:10:00,¥0.00/h,-,"https://github.com/Byron/treediff-rs/pull/8 - also try changelog generation which worked a little, but still has a few issues for instance with the version being duplicated… and missing the date."
+Open Source,Maintenance,2021/10/07,9:00 PM,9:08 PM,8,00:08:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/pull/299#issuecomment-937775284
+Open Source,Maintenance,2021/10/08,11:25 AM,11:31 AM,6,00:06:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/300#issuecomment-938309826
+Open Source,Maintenance,2021/10/10,8:05 AM,8:18 AM,13,00:13:00,¥0.00/h,-,Recreate access tokens for counting github stars and star-track
+Open Source,Maintenance,2021/10/21,4:43 PM,5:19 PM,36,00:36:00,¥0.00/h,-,https://github.com/rust-lang/cargo/pull/9991
+Open Source,Maintenance,2021/10/22,8:02 AM,8:09 AM,7,00:07:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/pull/301
+Open Source,Maintenance,2021/10/22,8:09 AM,8:22 AM,13,00:13:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/discussions/303
+Open Source,Maintenance,2021/10/23,8:43 AM,8:47 AM,4,00:04:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/discussions/303
+Open Source,Maintenance,2021/10/23,8:48 AM,9:02 AM,14,00:14:00,¥0.00/h,-,https://github.com/rust-lang/cargo/pull/9991
+Open Source,Maintenance,2021/10/25,7:20 AM,7:25 AM,5,00:05:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/110
+Open Source,Maintenance,2021/10/28,11:45 AM,11:58 AM,13,00:13:00,¥0.00/h,-,https://github.com/michaeleisel/zld/issues/85#issuecomment-953480893
+Open Source,Maintenance,2021/11/01,5:00 PM,5:06 PM,6,00:06:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/113; https://github.com/Byron/dua-cli/issues/112 
+Open Source,Maintenance,2021/11/01,5:39 PM,5:42 PM,3,00:03:00,¥0.00/h,-,https://github.com/Byron/dua-cli/issues/112#issuecomment-956080490
+Open Source,Maintenance,2021/11/02,7:40 AM,8:08 AM,28,00:28:00,¥0.00/h,-,https://github.com/Byron/prodash/issues/8
+Open Source,Maintenance,2021/11/02,8:09 AM,8:11 AM,2,00:02:00,¥0.00/h,-,cargo changelog for criner
+Open Source,Maintenance,2021/11/03,4:15 PM,4:25 PM,10,00:10:00,¥0.00/h,-,https://github.com/Byron/prodash/pull/9#issuecomment-958737436
+Open Source,Maintenance,2021/11/04,12:51 PM,12:56 PM,5,00:05:00,¥0.00/h,-,https://github.com/Byron/prodash/pull/9#issuecomment-960458989
+Open Source,Maintenance,2021/11/04,12:56 PM,12:58 PM,2,00:02:00,¥0.00/h,-,https://github.com/Byron/prodash/issues/10#issuecomment-960459725
+Open Source,Maintenance,2021/11/07,9:21 AM,9:54 AM,33,00:33:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/306 - but no fix came out of this precious time.
+Open Source,Maintenance,2021/11/09,7:40 AM,7:44 AM,4,00:04:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/192#issuecomment-963677518
+Open Source,Maintenance,2021/11/09,5:23 PM,5:28 PM,5,00:05:00,¥0.00/h,-,https://github.com/Byron/google-apis-rs/issues/192#issuecomment-963967382
+Open Source,Maintenance,2021/11/18,7:04 AM,7:42 AM,38,00:38:00,¥0.00/h,-,https://github.com/Byron/pulldown-cmark-to-cmark/releases/tag/v7.0.0
