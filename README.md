@@ -32,7 +32,11 @@ You can take a look at [my timesheets][timesheets] or support me [via GitHub Spo
 </a>
 
 <a href="https://github.com/Byron">
-    <img align="center" width="100%" src="./.metrics/reactions.svg" />
+    <img align="center" width="49%" src="./.metrics/reactions.svg" />
+</a>
+
+<a href="https://github.com/Byron">
+    <img align="center" width="49%" src="./.metrics/people.svg" />
 </a>
 
 <a href="https://github.com/Byron">

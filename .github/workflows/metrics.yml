@@ -10,6 +10,21 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
+      - name: 🧑‍🤝‍🧑 People plugin - Contributors and sponsors
+        uses: Byron/metrics@master
+        with:
+          filename: ./.metrics/people.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          template: repository
+          repo: metrics
+          plugin_people: yes
+          plugin_people_types: contributors, stargazers, watchers, sponsors
+          output_action: none
+          delay: 120
+          user: Byron
+          plugins_errors_fatal: yes
+
       - uses: Byron/metrics@latest
         with:
           filename: .metrics/achievements.svg
