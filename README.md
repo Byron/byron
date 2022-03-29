@@ -13,30 +13,30 @@ You can take a look at [my timesheets][timesheets] or support me [via GitHub Spo
 <details><summary>GitHub Metrics</summary>
   
 <a href="https://github.com/Byron">
-  <img align="center" width="49%" src="./.metrics/header.svg" />
+  <img vertical-align="top" width="50%" src="./.metrics/header.svg" />
 </a>
 <br/>
 <a href="https://github.com/Byron">
-  <img align="center" width="50%" src="./.metrics/repositories.svg" />
+  <img vertical-align="top" width="50%" src="./.metrics/repositories.svg" />
 </a>
 <a href="https://github.com/Byron">
-  <img align="center" width="49%" src="./.metrics/acti_comm.svg" />
-</a>
-
-<a href="https://github.com/Byron">
-  <img align="center" width="49%" src="./.metrics/iso_calender.svg" />
+  <img vertical-align="top" width="49%" src="./.metrics/acti_comm.svg" />
 </a>
 
 <a href="https://github.com/Byron">
-    <img align="center" width="49%" src="./.metrics/issue_pr_lang.svg" />
+  <img vertical-align="top" width="50%" src="./.metrics/iso_calender.svg" />
 </a>
 
 <a href="https://github.com/Byron">
-    <img vertical-align="top" width="49%" src="./.metrics/sponsors.svg" />
+    <img vertical-align="top" width="49%" src="./.metrics/issue_pr_lang.svg" />
 </a>
 
 <a href="https://github.com/Byron">
-    <img align="center" width="49%" src="./.metrics/achievements.svg" />
+    <img vertical-align="top" width="50%" src="./.metrics/sponsors.svg" />
+</a>
+
+<a href="https://github.com/Byron">
+    <img vertical-align="top" width="49%" src="./.metrics/achievements.svg" />
 </a>
 
 </details>
