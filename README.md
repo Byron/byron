@@ -12,6 +12,7 @@ You can take a look at [my timesheets][timesheets] or support me [via GitHub Spo
 
 <details><summary>GitHub Metrics</summary>
   
+<br>
 <a href="https://github.com/Byron">
   <img align="top" width="50%" src="./.metrics/header.svg" />
 </a>
