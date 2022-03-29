@@ -10,20 +10,13 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: 🧑‍🤝‍🧑 People plugin - Contributors and sponsors
-        uses: Byron/metrics@master
+      - name: Sponsors introduction
+        uses: Byron/metrics@latest
         with:
-          filename: ./.metrics/people.svg
+          filename: .metrics/sponsors.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          template: repository
-          repo: metrics
-          plugin_people: yes
-          plugin_people_types: contributors, stargazers, watchers, sponsors
-          output_action: none
-          delay: 120
-          user: Byron
-          plugins_errors_fatal: yes
+          plugin_sponsors: yes
 
       - uses: Byron/metrics@latest
         with:
@@ -41,14 +34,14 @@ jobs:
       - name: Comment reactions
         uses: Byron/metrics@latest
         with:
-          filename: ./.metrics/reactions.svg
+          filename: .metrics/reactions.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_reactions: yes
           plugin_reactions_limit: 100
           plugin_reactions_details: percentage
 
-      - name: ubuntu-latest
+      - name: header
         uses: Byron/metrics@latest
         with:
           filename: .metrics/header.svg

@@ -36,11 +36,11 @@ You can take a look at [my timesheets][timesheets] or support me [via GitHub Spo
 </a>
 
 <a href="https://github.com/Byron">
-    <img align="center" width="49%" src="./.metrics/people.svg" />
+    <img align="center" width="49%" src="./.metrics/sponsors.svg" />
 </a>
 
 <a href="https://github.com/Byron">
-    <img align="center" width="100%" src="./.metrics/achievements.svg" />
+    <img align="center" width="49%" src="./.metrics/achievements.svg" />
 </a>
 
 </details>
