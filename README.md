@@ -17,7 +17,7 @@ You can take a look at [my timesheets][timesheets] or support me [via GitHub Spo
 </a>
 <br/>
 <a href="https://github.com/Byron">
-  <img align="center" width="49%" src="./.metrics/repositories.svg" />
+  <img align="center" width="50%" src="./.metrics/repositories.svg" />
 </a>
 <a href="https://github.com/Byron">
   <img align="center" width="49%" src="./.metrics/acti_comm.svg" />
@@ -29,10 +29,6 @@ You can take a look at [my timesheets][timesheets] or support me [via GitHub Spo
 
 <a href="https://github.com/Byron">
     <img align="center" width="49%" src="./.metrics/issue_pr_lang.svg" />
-</a>
-
-<a href="https://github.com/Byron">
-    <img align="center" width="49%" src="./.metrics/reactions.svg" />
 </a>
 
 <a href="https://github.com/Byron">
