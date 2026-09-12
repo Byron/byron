@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  # Schedule updates (each hour)
+  # Schedule updates daily at 03:00 UTC
   schedule: [{cron: "0 3 * * *"}]
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
@@ -11,14 +11,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Sponsors introduction
-        uses: Byron/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           filename: .metrics/sponsors.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_sponsors: yes
 
-      - uses: Byron/metrics@latest
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           filename: .metrics/achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -32,7 +32,7 @@ jobs:
           plugin_achievements_limit: 0          # Display all unlocked achievements (no limit)
 
       - name: header
-        uses: Byron/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           filename: .metrics/header.svg
           # You'll need to setup a personal token in your secrets.
@@ -47,7 +47,7 @@ jobs:
           config_timezone: ${{ secrets.USER_TIMEZONE }}
 
       - name: lines
-        uses: Byron/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           filename: .metrics/lines-of-code.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -56,7 +56,7 @@ jobs:
           plugin_lines: yes
 
       - name: acti_comm
-        uses: Byron/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           filename: .metrics/acti_comm.svg
           # You'll need to setup a personal token in your secrets.
@@ -71,7 +71,7 @@ jobs:
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           
       - name: iso_calendar
-        uses: Byron/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           filename: .metrics/iso_calender.svg
           # You'll need to setup a personal token in your secrets.
@@ -88,7 +88,7 @@ jobs:
           plugin_isocalendar_duration: half-year
 
       - name: issue_pr_lang
-        uses: Byron/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           filename: .metrics/issue_pr_lang.svg
           # You'll need to setup a personal token in your secrets.
@@ -105,7 +105,7 @@ jobs:
           plugin_languages: yes
 
       - name: repositories
-        uses: Byron/metrics@latest
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           filename: .metrics/repositories.svg
           # You'll need to setup a personal token in your secrets.
