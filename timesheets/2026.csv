@@ -1384,3 +1384,332 @@ start,end,duration_seconds,duration,project,client,description,task,user,tags,du
 2026-09-25T04:44:00+02:00[Europe/Berlin],2026-09-25T05:24:47+02:00[Europe/Berlin],2447,00:40:47,gitoxide,Byron,mailmap-perf,https://github.com/GitoxideLabs/gitoxide/pull/3019,Sebastian Thiel,"distracted, refackiew",0.68
 2026-09-25T06:25:25+02:00[Europe/Berlin],2026-09-25T06:47:45+02:00[Europe/Berlin],1340,00:22:20,gitoxide,GitHub Sponsors,prep report outline,,Sebastian Thiel,distracted,0.37
 2026-09-25T07:28:25+02:00[Europe/Berlin],2026-09-25T08:47:15+02:00[Europe/Berlin],4730,01:18:50,gitoxide,GitHub Sponsors,outline shaping and draft done,,Sebastian Thiel,,1.31
+2026-09-25T09:14:52+02:00[Europe/Berlin],2026-09-25T10:44:46+02:00[Europe/Berlin],5394,01:29:54,gitoxide,GitHub Sponsors,timesheets and release; merge https://github.com/GitoxideLabs/gitoxide/pull/3020,,Sebastian Thiel,,1.50
+2026-09-25T18:54:04+02:00[Europe/Berlin],2026-09-25T18:57:28+02:00[Europe/Berlin],204,00:03:24,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3023,,Sebastian Thiel,refackiew,0.06
+2026-09-26T09:07:47+02:00[Europe/Berlin],2026-09-26T09:11:47+02:00[Europe/Berlin],240,00:04:00,maintenance,Byron,https://github.com/Byron/trash-rs/issues/140#issuecomment-5844166325,,Sebastian Thiel,,0.07
+2026-09-26T13:21:43+02:00[Europe/Berlin],2026-09-26T13:42:33+02:00[Europe/Berlin],1250,00:20:50,gitoxide,Byron,finish review of re-adding more error types for GB,error-modeling,Sebastian Thiel,,0.35
+2026-09-26T13:53:22+02:00[Europe/Berlin],2026-09-26T14:53:27+02:00[Europe/Berlin],3605,01:00:05,gitoxide,Byron,review error update and proceed to the last step: adding all improvements to the entire codebase all at once,error-modeling,Sebastian Thiel,,1.00
+2026-09-27T07:27:00+02:00[Europe/Berlin],2026-09-27T07:32:45+02:00[Europe/Berlin],345,00:05:45,starship-gitoxide,Byron,https://github.com/starship/starship/issues/6881#issuecomment-5852165842,,Sebastian Thiel,,0.10
+2026-09-27T07:32:57+02:00[Europe/Berlin],2026-09-27T07:44:24+02:00[Europe/Berlin],687,00:11:27,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2251,,Sebastian Thiel,refackiew,0.19
+2026-09-27T07:44:29+02:00[Europe/Berlin],2026-09-27T08:39:28+02:00[Europe/Berlin],3299,00:54:59,gitoxide,Byron,https://github.com/GitoxideLabs/cargo-smart-release/pull/150 ; also take care of macOS strangeness,,Sebastian Thiel,distracted,0.92
+2026-09-27T10:14:21+02:00[Europe/Berlin],2026-09-27T10:16:26+02:00[Europe/Berlin],125,00:02:05,gitoxide,Byron,"start new test-cleanup job, something I missed when reviewing the most recent PR",cargo-smart-release,Sebastian Thiel,,0.03
+2026-09-27T10:27:28+02:00[Europe/Berlin],2026-09-27T10:33:04+02:00[Europe/Berlin],336,00:05:36,gitoxide,Byron,https://github.com/GitoxideLabs/cargo-smart-release/pull/151,cargo-smart-release,Sebastian Thiel,refackiew,0.09
+2026-09-27T19:10:00+02:00[Europe/Berlin],2026-09-27T19:37:31+02:00[Europe/Berlin],1651,00:27:31,maintenance,Byron,"trash-rs; gitpython, various really",,Sebastian Thiel,,0.46
+2026-09-27T19:37:34+02:00[Europe/Berlin],2026-09-27T19:42:42+02:00[Europe/Berlin],308,00:05:08,maintenance,Byron,https://github.com/Byron/trash-rs/pull/154,,Sebastian Thiel,refackiew,0.09
+2026-09-27T21:02:03+02:00[Europe/Berlin],2026-09-27T21:10:57+02:00[Europe/Berlin],534,00:08:54,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3027,,Sebastian Thiel,refackiew,0.15
+2026-09-27T21:11:04+02:00[Europe/Berlin],2026-09-27T21:20:00+02:00[Europe/Berlin],536,00:08:56,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2253,,Sebastian Thiel,,0.15
+2026-09-27T21:20:00+02:00[Europe/Berlin],2026-09-27T21:38:02+02:00[Europe/Berlin],1082,00:18:02,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3026 first commit reviewed,,Sebastian Thiel,refackiew,0.30
+2026-09-28T04:20:51+02:00[Europe/Berlin],2026-09-28T04:23:59+02:00[Europe/Berlin],188,00:03:08,GitPython,Byron,https://github.com/gitpython-developers/GitPython/security/advisories/GHSA-fx3j-rwgx-fr94,,Sebastian Thiel,,0.05
+2026-09-28T04:27:30+02:00[Europe/Berlin],2026-09-28T05:34:30+02:00[Europe/Berlin],4020,01:07:00,gitoxide,Byron,status improvements continued,,Sebastian Thiel,"distracted, refackiew",1.12
+2026-09-28T05:59:00+02:00[Europe/Berlin],2026-09-28T06:02:27+02:00[Europe/Berlin],207,00:03:27,tix,Byron,better color parsing,,Sebastian Thiel,,0.06
+2026-09-28T06:02:34+02:00[Europe/Berlin],2026-09-28T06:14:58+02:00[Europe/Berlin],744,00:12:24,maintenance,Byron,https://github.com/Byron/pulldown-cmark-to-cmark/pull/111#issuecomment-5863222598,,Sebastian Thiel,refackiew,0.21
+2026-09-28T06:15:02+02:00[Europe/Berlin],2026-09-28T06:16:44+02:00[Europe/Berlin],102,00:01:42,GitPython,Byron,https://github.com/gitpython-developers/GitPython/issues/2254,,Sebastian Thiel,,0.03
+2026-09-28T07:51:09+02:00[Europe/Berlin],2026-09-28T08:01:36+02:00[Europe/Berlin],627,00:10:27,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2255,,Sebastian Thiel,refackiew,0.17
+2026-09-28T09:29:03+02:00[Europe/Berlin],2026-09-28T09:41:52+02:00[Europe/Berlin],769,00:12:49,GitPython,Byron,,,Sebastian Thiel,,0.21
+2026-09-28T09:42:05+02:00[Europe/Berlin],2026-09-28T09:47:03+02:00[Europe/Berlin],298,00:04:58,maintenance,Byron,get started on https://github.com/Byron/pulldown-cmark-to-cmark/pull/112,,Sebastian Thiel,refackiew,0.08
+2026-09-28T12:51:00+02:00[Europe/Berlin],2026-09-28T12:55:40+02:00[Europe/Berlin],280,00:04:40,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2256 - follow-up,,Sebastian Thiel,,0.08
+2026-09-28T12:55:47+02:00[Europe/Berlin],2026-09-28T13:21:07+02:00[Europe/Berlin],1520,00:25:20,maintenance,Byron,"https://github.com/Byron/pulldown-cmark-to-cmark/pull/112 - merged, and kick off of a rewrite.",,Sebastian Thiel,refackiew,0.42
+2026-09-28T13:21:14+02:00[Europe/Berlin],2026-09-28T13:25:41+02:00[Europe/Berlin],267,00:04:27,GitPython,Byron,finish https://github.com/gitpython-developers/GitPython/pull/2256,,Sebastian Thiel,,0.07
+2026-09-28T13:42:18+02:00[Europe/Berlin],2026-09-28T13:46:33+02:00[Europe/Berlin],255,00:04:15,maintenance,Byron,finish last release before the rewrite,,Sebastian Thiel,,0.07
+2026-09-28T13:47:00+02:00[Europe/Berlin],2026-09-28T13:51:10+02:00[Europe/Berlin],250,00:04:10,GitPython,Byron,finish binsha,,Sebastian Thiel,,0.07
+2026-09-28T14:16:45+02:00[Europe/Berlin],2026-09-28T14:27:28+02:00[Europe/Berlin],643,00:10:43,gitoxide,Byron,add/remove via CLI,,Sebastian Thiel,refackiew,0.18
+2026-09-28T16:12:15+02:00[Europe/Berlin],2026-09-28T16:21:36+02:00[Europe/Berlin],561,00:09:21,gitoxide,Byron,finish review of worktree del/add,worktree-add-remove,Sebastian Thiel,,0.16
+2026-09-28T19:48:13+02:00[Europe/Berlin],2026-09-28T19:55:58+02:00[Europe/Berlin],465,00:07:45,gitoxide,Byron,rebase and make more hopefully linecount reducing changes,error-modeling,Sebastian Thiel,,0.13
+2026-09-28T19:56:00+02:00[Europe/Berlin],2026-09-28T20:22:58+02:00[Europe/Berlin],1618,00:26:58,maintenance,Byron,finish https://github.com/Byron/pulldown-cmark-to-cmark/pull/113,,Sebastian Thiel,distracted,0.45
+2026-09-28T21:10:41+02:00[Europe/Berlin],2026-09-28T21:45:44+02:00[Europe/Berlin],2103,00:35:03,maintenance,Byron,finish https://github.com/Byron/pulldown-cmark-to-cmark/pull/113,,Sebastian Thiel,distracted,0.58
+2026-09-29T04:22:00+02:00[Europe/Berlin],2026-09-29T04:32:00+02:00[Europe/Berlin],600,00:10:00,maintenance,Byron,,,Sebastian Thiel,,0.17
+2026-09-29T04:32:06+02:00[Europe/Berlin],2026-09-29T04:43:03+02:00[Europe/Berlin],657,00:10:57,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/issues/3030#issuecomment-5882631341 ,,Sebastian Thiel,,0.18
+2026-09-29T04:43:16+02:00[Europe/Berlin],2026-09-29T05:10:39+02:00[Europe/Berlin],1643,00:27:23,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3029#issuecomment-5882780065,,Sebastian Thiel,refackiew,0.46
+2026-09-29T05:10:55+02:00[Europe/Berlin],2026-09-29T05:40:57+02:00[Europe/Berlin],1802,00:30:02,maintenance,Byron,"try to wrap new cmark release (but only merge first, with additional work pending)",,Sebastian Thiel,distracted,0.50
+2026-09-29T06:23:43+02:00[Europe/Berlin],2026-09-29T06:33:52+02:00[Europe/Berlin],609,00:10:09,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3031,,Sebastian Thiel,refackiew,0.17
+2026-09-29T07:37:49+02:00[Europe/Berlin],2026-09-29T07:52:33+02:00[Europe/Berlin],884,00:14:44,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3031,,Sebastian Thiel,refackiew,0.25
+2026-09-29T07:52:47+02:00[Europe/Berlin],2026-09-29T08:04:47+02:00[Europe/Berlin],720,00:12:00,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3022,error-modeling,Sebastian Thiel,interrupted,0.20
+2026-09-29T08:28:50+02:00[Europe/Berlin],2026-09-29T08:45:27+02:00[Europe/Berlin],997,00:16:37,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3022,error-modeling,Sebastian Thiel,refackiew,0.28
+2026-09-29T10:14:46+02:00[Europe/Berlin],2026-09-29T10:35:34+02:00[Europe/Berlin],1248,00:20:48,tix,Byron,better editing of entries,,Sebastian Thiel,distracted,0.35
+2026-09-29T10:46:00+02:00[Europe/Berlin],2026-09-29T11:23:17+02:00[Europe/Berlin],2237,00:37:17,maintenance,Byron,finish review of latest conformance/correctness improvements,pulldown-cmark-to-cmark,Sebastian Thiel,refackiew,0.62
+2026-09-29T13:25:10+02:00[Europe/Berlin],2026-09-29T14:43:58+02:00[Europe/Berlin],4728,01:18:48,gitoxide,Byron,maybe wrap the final error types breaking change,error-modeling,Sebastian Thiel,"distracted, interrupted",1.31
+2026-09-29T15:25:53+02:00[Europe/Berlin],2026-09-29T15:34:14+02:00[Europe/Berlin],501,00:08:21,maintenance,Byron,,pulldown-cmark-to-cmark,Sebastian Thiel,,0.14
+2026-09-29T15:35:54+02:00[Europe/Berlin],2026-09-29T16:13:10+02:00[Europe/Berlin],2236,00:37:16,gitoxide,Byron,get closer to finishing review ,error-modeling,Sebastian Thiel,,0.62
+2026-09-29T16:55:43+02:00[Europe/Berlin],2026-09-29T18:57:08+02:00[Europe/Berlin],7285,02:01:25,GitPython,Byron,,,Sebastian Thiel,,2.02
+2026-09-29T20:45:45+02:00[Europe/Berlin],2026-09-29T20:59:26+02:00[Europe/Berlin],821,00:13:41,GitPython,Byron,sec stuff,,Sebastian Thiel,,0.23
+2026-09-29T21:11:00+02:00[Europe/Berlin],2026-09-29T22:03:26+02:00[Europe/Berlin],3146,00:52:26,gitoxide,Byron,,error-modeling,Sebastian Thiel,,0.87
+2026-09-30T04:36:13+02:00[Europe/Berlin],2026-09-30T05:18:03+02:00[Europe/Berlin],2510,00:41:50,gitoxide,Byron,"maybe wrap it, just a couple of commits to go; and it's a wrap",error-modeling,Sebastian Thiel,,0.70
+2026-09-30T05:18:07+02:00[Europe/Berlin],2026-09-30T05:20:57+02:00[Europe/Berlin],170,00:02:50,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2258 to get started,,Sebastian Thiel,,0.05
+2026-09-30T05:21:07+02:00[Europe/Berlin],2026-09-30T05:37:45+02:00[Europe/Berlin],998,00:16:38,gitoxide,Byron,https://github.com/gitpython-developers/GitPython/pull/2258,,Sebastian Thiel,,0.28
+2026-09-30T06:16:25+02:00[Europe/Berlin],2026-09-30T06:28:39+02:00[Europe/Berlin],734,00:12:14,maintenance,Byron,mass-rebasing,,Sebastian Thiel,,0.20
+2026-09-30T07:38:57+02:00[Europe/Berlin],2026-09-30T07:41:27+02:00[Europe/Berlin],150,00:02:30,maintenance,Byron,qa and rebase admin,,Sebastian Thiel,,0.04
+2026-09-30T08:20:37+02:00[Europe/Berlin],2026-09-30T09:45:00+02:00[Europe/Berlin],5063,01:24:23,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2258,,Sebastian Thiel,refackiew,1.41
+2026-09-30T09:45:00+02:00[Europe/Berlin],2026-09-30T10:01:42+02:00[Europe/Berlin],1002,00:16:42,maintenance,Byron,https://github.com/Byron/dua-cli/pull/409,dua-cli,Sebastian Thiel,"distracted, refackiew",0.28
+2026-09-30T10:01:47+02:00[Europe/Berlin],2026-09-30T10:25:00+02:00[Europe/Berlin],1393,00:23:13,maintenance,Byron,https://github.com/Byron/dua-cli/pull/411,dua-cli,Sebastian Thiel,refackiew,0.39
+2026-09-30T10:25:00+02:00[Europe/Berlin],2026-09-30T10:34:17+02:00[Europe/Berlin],557,00:09:17,GitPython,Byron,try to finish https://github.com/gitpython-developers/GitPython/pull/2258; awaits release,,Sebastian Thiel,,0.15
+2026-09-30T10:53:48+02:00[Europe/Berlin],2026-09-30T11:21:55+02:00[Europe/Berlin],1687,00:28:07,GitPython,Byron,do release: https://github.com/gitpython-developers/GitPython/releases/tag/3.2.0,,Sebastian Thiel,,0.47
+2026-09-30T12:56:00+02:00[Europe/Berlin],2026-09-30T13:36:17+02:00[Europe/Berlin],2417,00:40:17,maintenance,Byron,https://github.com/Byron/dua-cli/pull/411; and new release,dua-cli,Sebastian Thiel,,0.67
+2026-09-30T14:51:38+02:00[Europe/Berlin],2026-09-30T15:02:21+02:00[Europe/Berlin],643,00:10:43,gitoxide,Byron,,security,Sebastian Thiel,,0.18
+2026-09-30T15:21:05+02:00[Europe/Berlin],2026-09-30T16:30:03+02:00[Europe/Berlin],4138,01:08:58,gitoxide,Byron,symlink related reviews,security,Sebastian Thiel,interrupted,1.15
+2026-09-30T16:30:04+02:00[Europe/Berlin],2026-09-30T17:30:54+02:00[Europe/Berlin],3650,01:00:50,GitPython,Byron,,,Sebastian Thiel,,1.01
+2026-09-30T18:00:41+02:00[Europe/Berlin],2026-09-30T19:04:19+02:00[Europe/Berlin],3818,01:03:38,GitPython,Byron,,,Sebastian Thiel,,1.06
+2026-10-01T04:20:11+02:00[Europe/Berlin],2026-10-01T04:24:18+02:00[Europe/Berlin],247,00:04:07,gitoxide,Byron,maybe get done with https://github.com/GitoxideLabs/gitoxide/pull/3032,security,Sebastian Thiel,,0.07
+2026-10-01T04:24:19+02:00[Europe/Berlin],2026-10-01T04:46:08+02:00[Europe/Berlin],1309,00:21:49,gitoxide,Byron,kick of review of https://github.com/GitoxideLabs/gitoxide/pull/3033,,Sebastian Thiel,refackiew,0.36
+2026-10-01T04:46:09+02:00[Europe/Berlin],2026-10-01T05:33:08+02:00[Europe/Berlin],2819,00:46:59,gitoxide,Byron,more gix-fs refactoring,security,Sebastian Thiel,interrupted,0.78
+2026-10-01T06:05:09+02:00[Europe/Berlin],2026-10-01T06:06:35+02:00[Europe/Berlin],86,00:01:26,GitPython,Byron,quick check of release,,Sebastian Thiel,,0.02
+2026-10-01T06:06:36+02:00[Europe/Berlin],2026-10-01T06:20:42+02:00[Europe/Berlin],846,00:14:06,gitoxide,Byron,cleanup forest port,,Sebastian Thiel,refackiew,0.24
+2026-10-01T08:56:37+02:00[Europe/Berlin],2026-10-01T09:24:19+02:00[Europe/Berlin],1662,00:27:42,gitoxide,Byron,continue CLI cleanup,,Sebastian Thiel,interrupted,0.46
+2026-10-01T09:41:00+02:00[Europe/Berlin],2026-10-01T10:22:22+02:00[Europe/Berlin],2482,00:41:22,gitoxide,Byron,continue with CLI cleanup,,Sebastian Thiel,,0.69
+2026-10-01T10:54:26+02:00[Europe/Berlin],2026-10-01T11:24:51+02:00[Europe/Berlin],1825,00:30:25,gitoxide,Byron,continue with CLI cleanup,,Sebastian Thiel,,0.51
+2026-10-01T13:04:56+02:00[Europe/Berlin],2026-10-01T13:25:16+02:00[Europe/Berlin],1220,00:20:20,gitoxide,Byron,continue with CLI cleanup,,Sebastian Thiel,refackiew,0.34
+2026-10-01T13:25:17+02:00[Europe/Berlin],2026-10-01T14:05:28+02:00[Europe/Berlin],2411,00:40:11,GitPython,Byron,start back-to-the-roots cleanup as means of surival,,Sebastian Thiel,,0.67
+2026-10-01T14:05:29+02:00[Europe/Berlin],2026-10-01T14:07:10+02:00[Europe/Berlin],101,00:01:41,GitPython,Byron,first look at https://github.com/gitpython-developers/GitPython/pull/2261/changes,,Sebastian Thiel,refackiew,0.03
+2026-10-01T14:40:54+02:00[Europe/Berlin],2026-10-01T15:15:00+02:00[Europe/Berlin],2046,00:34:06,gitoxide,Byron,PyGix kickoff,pygix,Sebastian Thiel,,0.57
+2026-10-01T15:15:00+02:00[Europe/Berlin],2026-10-01T15:36:13+02:00[Europe/Berlin],1273,00:21:13,GitPython,Byron,keep looking into gitoxide integration,pygix,Sebastian Thiel,,0.35
+2026-10-01T15:42:00+02:00[Europe/Berlin],2026-10-01T15:56:08+02:00[Europe/Berlin],848,00:14:08,gitoxide,Byron,continue with CLI cleanup,,Sebastian Thiel,refackiew,0.24
+2026-10-01T16:36:44+02:00[Europe/Berlin],2026-10-01T16:59:18+02:00[Europe/Berlin],1354,00:22:34,gitoxide,Byron,continue with CLI cleanup,,Sebastian Thiel,refackiew,0.38
+2026-10-01T16:59:19+02:00[Europe/Berlin],2026-10-01T20:00:00+02:00[Europe/Berlin],10841,03:00:41,GitPython,Byron,,,Sebastian Thiel,,3.01
+2026-10-01T20:58:58+02:00[Europe/Berlin],2026-10-01T21:17:47+02:00[Europe/Berlin],1129,00:18:49,GitPython,Byron,start full gitoxide integration,Git3,Sebastian Thiel,,0.31
+2026-10-01T21:17:48+02:00[Europe/Berlin],2026-10-01T21:36:50+02:00[Europe/Berlin],1142,00:19:02,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2264,,Sebastian Thiel,,0.32
+2026-10-01T21:36:59+02:00[Europe/Berlin],2026-10-01T21:51:19+02:00[Europe/Berlin],860,00:14:20,GitPython,Byron,"more cleanup, checks, finalisation of todays work",,Sebastian Thiel,,0.24
+2026-10-02T04:20:03+02:00[Europe/Berlin],2026-10-02T04:34:52+02:00[Europe/Berlin],889,00:14:49,GitPython,Byron,try to wrap https://github.com/gitpython-developers/GitPython/pull/2264,,Sebastian Thiel,,0.25
+2026-10-02T04:34:53+02:00[Europe/Berlin],2026-10-02T04:37:18+02:00[Europe/Berlin],145,00:02:25,GitPython,Byron,take a closer look,pygix,Sebastian Thiel,,0.04
+2026-10-02T05:10:37+02:00[Europe/Berlin],2026-10-02T05:24:15+02:00[Europe/Berlin],818,00:13:38,GitPython,Byron,more care https://github.com/gitpython-developers/GitPython/pull/2264#pullrequestreview-5387833343,,Sebastian Thiel,,0.23
+2026-10-02T05:24:16+02:00[Europe/Berlin],2026-10-02T05:31:09+02:00[Europe/Berlin],413,00:06:53,gitoxide,Byron,first look at https://github.com/GitoxideLabs/gitoxide/pull/3035; kick off review,,Sebastian Thiel,refackiew,0.11
+2026-10-02T06:08:12+02:00[Europe/Berlin],2026-10-02T06:35:04+02:00[Europe/Berlin],1612,00:26:52,gitoxide,Byron,,,Sebastian Thiel,refackiew,0.45
+2026-10-02T06:47:00+02:00[Europe/Berlin],2026-10-02T06:53:58+02:00[Europe/Berlin],418,00:06:58,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2267; get Windows fix going,,Sebastian Thiel,refackiew,0.12
+2026-10-02T08:33:34+02:00[Europe/Berlin],2026-10-02T08:40:10+02:00[Europe/Berlin],396,00:06:36,GitPython,Byron,wrap https://github.com/gitpython-developers/GitPython/pull/2267,,Sebastian Thiel,refackiew,0.11
+2026-10-02T09:44:05+02:00[Europe/Berlin],2026-10-02T11:54:16+02:00[Europe/Berlin],7811,02:10:11,gitoxide,Byron,"continue cli cleanup, two commits done",,Sebastian Thiel,refackiew,2.17
+2026-10-02T11:54:17+02:00[Europe/Berlin],2026-10-02T14:25:00+02:00[Europe/Berlin],9043,02:30:43,gitoxide,Byron,Contributor Lunch: Sam Reis!,,Sebastian Thiel,community,2.51
+2026-10-03T04:21:12+02:00[Europe/Berlin],2026-10-03T04:23:00+02:00[Europe/Berlin],108,00:01:48,maintenance,team rust-lang,kick off https://github.com/rust-lang/flate2-rs/issues/570,,Sebastian Thiel,,0.03
+2026-10-03T04:23:00+02:00[Europe/Berlin],2026-10-03T04:33:56+02:00[Europe/Berlin],656,00:10:56,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2268,,Sebastian Thiel,"distracted, refackiew",0.18
+2026-10-03T04:34:04+02:00[Europe/Berlin],2026-10-03T04:35:49+02:00[Europe/Berlin],105,00:01:45,maintenance,team rust-lang,https://github.com/rust-lang/flate2-rs/pull/571,,Sebastian Thiel,,0.03
+2026-10-03T04:40:50+02:00[Europe/Berlin],2026-10-03T06:15:16+02:00[Europe/Berlin],5666,01:34:26,gitoxide,Byron,continue on CLI and error handling cleanup,error-modeling,Sebastian Thiel,refackiew,1.57
+2026-10-03T10:00:35+02:00[Europe/Berlin],2026-10-03T11:38:06+02:00[Europe/Berlin],5851,01:37:31,gitoxide,Byron,continue on CLI and error handling cleanup,error-modeling,Sebastian Thiel,refackiew,1.63
+2026-10-03T12:55:53+02:00[Europe/Berlin],2026-10-03T14:02:18+02:00[Europe/Berlin],3985,01:06:25,gitoxide,Byron,continue on CLI and error handling cleanup,error-modeling,Sebastian Thiel,refackiew,1.11
+2026-10-03T15:10:11+02:00[Europe/Berlin],2026-10-03T18:03:43+02:00[Europe/Berlin],10412,02:53:32,gitoxide,Byron,"continue on CLI and error handling cleanup, nearly done",error-modeling,Sebastian Thiel,refackiew,2.89
+2026-10-03T21:07:49+02:00[Europe/Berlin],2026-10-03T21:09:22+02:00[Europe/Berlin],93,00:01:33,gitoxide,Byron,wrap 3033!!!,error-modeling,Sebastian Thiel,refackiew,0.03
+2026-10-04T05:51:13+02:00[Europe/Berlin],2026-10-04T06:14:31+02:00[Europe/Berlin],1398,00:23:18,rustty,Byron,better command prompt,,Sebastian Thiel,distracted,0.39
+2026-10-04T06:14:32+02:00[Europe/Berlin],2026-10-04T06:22:53+02:00[Europe/Berlin],501,00:08:21,gitoxide,Byron,try to get tix ready for merge,tix,Sebastian Thiel,,0.14
+2026-10-04T06:22:54+02:00[Europe/Berlin],2026-10-04T06:43:08+02:00[Europe/Berlin],1214,00:20:14,gitoxide,Byron,continue with https://github.com/GitoxideLabs/gitoxide/pull/3032,security,Sebastian Thiel,,0.34
+2026-10-04T08:57:04+02:00[Europe/Berlin],2026-10-04T09:00:36+02:00[Europe/Berlin],212,00:03:32,tix,Byron,see if it can pass CI,,Sebastian Thiel,,0.06
+2026-10-04T09:20:11+02:00[Europe/Berlin],2026-10-04T09:31:54+02:00[Europe/Berlin],703,00:11:43,tix,Byron,maybe get the baseline to merge,,Sebastian Thiel,,0.20
+2026-10-04T09:32:10+02:00[Europe/Berlin],2026-10-04T10:10:03+02:00[Europe/Berlin],2273,00:37:53,gitoxide,Byron,continue with https://github.com/GitoxideLabs/gitoxide/pull/3032,security,Sebastian Thiel,interrupted,0.63
+2026-10-04T10:45:42+02:00[Europe/Berlin],2026-10-04T11:00:00+02:00[Europe/Berlin],858,00:14:18,tix,Byron,bring back a new PR after merge,,Sebastian Thiel,,0.24
+2026-10-04T11:00:00+02:00[Europe/Berlin],2026-10-04T11:06:29+02:00[Europe/Berlin],389,00:06:29,gitoxide,Byron,continue review,security,Sebastian Thiel,refackiew,0.11
+2026-10-04T12:33:21+02:00[Europe/Berlin],2026-10-04T12:57:31+02:00[Europe/Berlin],1450,00:24:10,gitoxide,Byron,continue review,security,Sebastian Thiel,refackiew,0.40
+2026-10-04T13:03:10+02:00[Europe/Berlin],2026-10-04T13:15:51+02:00[Europe/Berlin],761,00:12:41,gitoxide,Byron,continue review,security,Sebastian Thiel,refackiew,0.21
+2026-10-04T14:06:07+02:00[Europe/Berlin],2026-10-04T14:26:11+02:00[Europe/Berlin],1204,00:20:04,gitoxide,Byron,continue review,security,Sebastian Thiel,"interrupted, refackiew",0.33
+2026-10-05T04:18:52+02:00[Europe/Berlin],2026-10-05T04:37:13+02:00[Europe/Berlin],1101,00:18:21,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3044#pullrequestreview-5409499126,,Sebastian Thiel,refackiew,0.31
+2026-10-05T04:37:24+02:00[Europe/Berlin],2026-10-05T04:39:03+02:00[Europe/Berlin],99,00:01:39,maintenance,team rust-lang,merge #571,,Sebastian Thiel,,0.03
+2026-10-05T04:39:05+02:00[Europe/Berlin],2026-10-05T04:47:57+02:00[Europe/Berlin],532,00:08:52,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2270#issuecomment-5987202288,,Sebastian Thiel,refackiew,0.15
+2026-10-05T04:47:58+02:00[Europe/Berlin],2026-10-05T04:59:37+02:00[Europe/Berlin],699,00:11:39,dua-cli,Byron,https://github.com/Byron/dua-cli/pull/412,,Sebastian Thiel,refackiew,0.19
+2026-10-05T04:59:38+02:00[Europe/Berlin],2026-10-05T05:13:23+02:00[Europe/Berlin],825,00:13:45,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2269,,Sebastian Thiel,"distracted, refackiew",0.23
+2026-10-05T05:14:00+02:00[Europe/Berlin],2026-10-05T05:28:58+02:00[Europe/Berlin],898,00:14:58,GitPython,Byron,re-instantiate pygix stuff - should avoid this and get it done in one go; branch cleanup,,Sebastian Thiel,,0.25
+2026-10-05T05:28:59+02:00[Europe/Berlin],2026-10-05T05:32:04+02:00[Europe/Berlin],185,00:03:05,gitoxide,Byron,kick off fixes for two issues,,Sebastian Thiel,,0.05
+2026-10-05T06:14:12+02:00[Europe/Berlin],2026-10-05T06:37:26+02:00[Europe/Berlin],1394,00:23:14,gitoxide,Byron,continue review of https://github.com/GitoxideLabs/gitoxide/pull/3032,security,Sebastian Thiel,,0.39
+2026-10-05T06:37:27+02:00[Europe/Berlin],2026-10-05T06:42:31+02:00[Europe/Berlin],304,00:05:04,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3045,,Sebastian Thiel,refackiew,0.08
+2026-10-05T07:48:41+02:00[Europe/Berlin],2026-10-05T08:01:57+02:00[Europe/Berlin],796,00:13:16,gitoxide,Byron,,security,Sebastian Thiel,refackiew,0.22
+2026-10-05T08:01:58+02:00[Europe/Berlin],2026-10-05T08:14:47+02:00[Europe/Berlin],769,00:12:49,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3047,,Sebastian Thiel,refackiew,0.21
+2026-10-05T08:14:48+02:00[Europe/Berlin],2026-10-05T08:30:44+02:00[Europe/Berlin],956,00:15:56,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3046,,Sebastian Thiel,refackiew,0.27
+2026-10-05T09:29:23+02:00[Europe/Berlin],2026-10-05T09:32:39+02:00[Europe/Berlin],196,00:03:16,gitoxide,Byron,finish https://github.com/GitoxideLabs/gitoxide/pull/3046,,Sebastian Thiel,,0.05
+2026-10-05T13:03:30+02:00[Europe/Berlin],2026-10-05T14:23:41+02:00[Europe/Berlin],4811,01:20:11,gitoxide,Byron,(also some task cleanup),security,Sebastian Thiel,refackiew,1.34
+2026-10-05T15:11:37+02:00[Europe/Berlin],2026-10-05T16:28:34+02:00[Europe/Berlin],4617,01:16:57,gitoxide,Byron,continue with https://github.com/GitoxideLabs/gitoxide/pull/3032,security,Sebastian Thiel,refackiew,1.28
+2026-10-05T19:12:51+02:00[Europe/Berlin],2026-10-05T19:35:57+02:00[Europe/Berlin],1386,00:23:06,gitoxide,Byron,continue with https://github.com/GitoxideLabs/gitoxide/pull/3032; also https://github.com/jj-vcs/jj/pull/10319#discussion_r4186882596; ,security,Sebastian Thiel,refackiew,0.39
+2026-10-06T04:18:24+02:00[Europe/Berlin],2026-10-06T05:19:57+02:00[Europe/Berlin],3693,01:01:33,gitoxide,Byron,continue with https://github.com/GitoxideLabs/gitoxide/pull/3032;,security,Sebastian Thiel,refackiew,1.03
+2026-10-06T06:01:29+02:00[Europe/Berlin],2026-10-06T06:27:57+02:00[Europe/Berlin],1588,00:26:28,gitoxide,Byron,continue with https://github.com/GitoxideLabs/gitoxide/pull/3032; also check JJ gix upgrade.,security,Sebastian Thiel,refackiew,0.44
+2026-10-06T08:23:55+02:00[Europe/Berlin],2026-10-06T08:35:34+02:00[Europe/Berlin],699,00:11:39,gitoxide,Byron,continue with https://github.com/GitoxideLabs/gitoxide/pull/3032; ,security,Sebastian Thiel,"interrupted, refackiew",0.19
+2026-10-06T09:25:35+02:00[Europe/Berlin],2026-10-06T10:16:45+02:00[Europe/Berlin],3070,00:51:10,GitPython,Byron,,,Sebastian Thiel,,0.85
+2026-10-06T10:35:54+02:00[Europe/Berlin],2026-10-06T11:31:25+02:00[Europe/Berlin],3331,00:55:31,gitoxide,Byron,continue with https://github.com/GitoxideLabs/gitoxide/pull/3032; also gitime and pygix,security,Sebastian Thiel,"distracted, refackiew",0.93
+2026-10-06T13:39:18+02:00[Europe/Berlin],2026-10-06T13:51:21+02:00[Europe/Berlin],723,00:12:03,GitPython,Byron,"prepare GixPython release - it might actually work, nice, all from CI",,Sebastian Thiel,,0.20
+2026-10-06T14:08:18+02:00[Europe/Berlin],2026-10-06T16:19:38+02:00[Europe/Berlin],7880,02:11:20,gitoxide,Byron,continue with https://github.com/GitoxideLabs/gitoxide/pull/3032; some gixpython on the side,security,Sebastian Thiel,"interrupted, refackiew",2.19
+2026-10-06T16:34:01+02:00[Europe/Berlin],2026-10-06T17:40:10+02:00[Europe/Berlin],3969,01:06:09,gitoxide,Byron,continue with https://github.com/GitoxideLabs/gitoxide/pull/3032; some gixpython on the side,security,Sebastian Thiel,refackiew,1.10
+2026-10-07T04:27:25+02:00[Europe/Berlin],2026-10-07T04:47:35+02:00[Europe/Berlin],1210,00:20:10,GitPython,Byron,,,Sebastian Thiel,,0.34
+2026-10-07T04:47:44+02:00[Europe/Berlin],2026-10-07T05:18:00+02:00[Europe/Berlin],1816,00:30:16,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2274 and cleanup,Git3,Sebastian Thiel,,0.50
+2026-10-07T06:14:55+02:00[Europe/Berlin],2026-10-07T06:41:01+02:00[Europe/Berlin],1566,00:26:06,gitoxide,Byron,continue with https://github.com/GitoxideLabs/gitoxide/pull/3032; some gixpython on the side,security,Sebastian Thiel,refackiew,0.44
+2026-10-07T09:25:36+02:00[Europe/Berlin],2026-10-07T09:26:38+02:00[Europe/Berlin],62,00:01:02,GitPython,Byron,https://github.com/gitpython-developers/GitPython/issues/2275#issuecomment-6033110403,,Sebastian Thiel,,0.02
+2026-10-07T09:36:50+02:00[Europe/Berlin],2026-10-07T10:11:58+02:00[Europe/Berlin],2108,00:35:08,gitoxide,Byron,continue with https://github.com/GitoxideLabs/gitoxide/pull/3032; some gixpython on the side,security,Sebastian Thiel,refackiew,0.59
+2026-10-07T10:23:47+02:00[Europe/Berlin],2026-10-07T10:24:50+02:00[Europe/Berlin],63,00:01:03,GitPython,Byron,kick off https://github.com/gitpython-developers/GitPython/issues/2276,,Sebastian Thiel,,0.02
+2026-10-07T10:24:55+02:00[Europe/Berlin],2026-10-07T11:28:50+02:00[Europe/Berlin],3835,01:03:55,gitoxide,Byron,continue with https://github.com/GitoxideLabs/gitoxide/pull/3032; some gixpython on the side,security,Sebastian Thiel,refackiew,1.07
+2026-10-07T15:09:42+02:00[Europe/Berlin],2026-10-07T15:39:28+02:00[Europe/Berlin],1786,00:29:46,gitoxide,Byron,continue with https://github.com/GitoxideLabs/gitoxide/pull/3032; also some GitPython stuff,security,Sebastian Thiel,"distracted, refackiew",0.50
+2026-10-07T19:05:41+02:00[Europe/Berlin],2026-10-07T19:34:35+02:00[Europe/Berlin],1734,00:28:54,gitoxide,Byron,continue with https://github.com/GitoxideLabs/gitoxide/pull/3032; also some GitPython stuff,security,Sebastian Thiel,refackiew,0.48
+2026-10-07T20:39:51+02:00[Europe/Berlin],2026-10-07T22:14:00+02:00[Europe/Berlin],5649,01:34:09,gitoxide,Byron,continue with https://github.com/GitoxideLabs/gitoxide/pull/3032;and some gixpython again,security,Sebastian Thiel,refackiew,1.57
+2026-10-08T04:26:02+02:00[Europe/Berlin],2026-10-08T05:28:11+02:00[Europe/Berlin],3729,01:02:09,gitoxide,Byron,continue with https://github.com/GitoxideLabs/gitoxide/pull/3032;and some gixpython again; some Rustty,security,Sebastian Thiel,refackiew,1.04
+2026-10-08T06:05:00+02:00[Europe/Berlin],2026-10-08T06:33:30+02:00[Europe/Berlin],1710,00:28:30,gitoxide,Byron,,,Sebastian Thiel,refackiew,0.48
+2026-10-08T07:38:11+02:00[Europe/Berlin],2026-10-08T08:01:54+02:00[Europe/Berlin],1423,00:23:43,gitoxide,Byron,"continue with https://github.com/GitoxideLabs/gitoxide/pull/3032, and actually finish the review. Just have to get it through CI",security,Sebastian Thiel,refackiew,0.40
+2026-10-08T08:01:55+02:00[Europe/Berlin],2026-10-08T08:23:35+02:00[Europe/Berlin],1300,00:21:40,gitoxide,Byron,Respond to the mailing list,,Sebastian Thiel,"community, distracted",0.36
+2026-10-08T08:46:17+02:00[Europe/Berlin],2026-10-08T08:51:22+02:00[Europe/Berlin],305,00:05:05,gitoxide,Byron,"try to get it through CI: https://github.com/GitoxideLabs/gitoxide/pull/3032,",security,Sebastian Thiel,refackiew,0.08
+2026-10-08T08:51:23+02:00[Europe/Berlin],2026-10-08T09:07:51+02:00[Europe/Berlin],988,00:16:28,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2277,,Sebastian Thiel,refackiew,0.27
+2026-10-08T09:07:55+02:00[Europe/Berlin],2026-10-08T09:23:43+02:00[Europe/Berlin],948,00:15:48,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2271,,Sebastian Thiel,refackiew,0.26
+2026-10-08T09:23:44+02:00[Europe/Berlin],2026-10-08T10:29:00+02:00[Europe/Berlin],3916,01:05:16,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3038#issuecomment-6055263898; https://github.com/GitoxideLabs/gitoxide/pull/3042#issuecomment-6055366451; https://github.com/GitoxideLabs/gitoxide/pull/3043#issuecomment-6055952363,,Sebastian Thiel,refackiew,1.09
+2026-10-08T10:29:00+02:00[Europe/Berlin],2026-10-08T11:18:09+02:00[Europe/Berlin],2949,00:49:09,rustty,Byron,try to update the Windows port; somewhat distracted,,Sebastian Thiel,refackiew,0.82
+2026-10-08T11:18:10+02:00[Europe/Berlin],2026-10-08T11:35:49+02:00[Europe/Berlin],1059,00:17:39,gitoxide,Byron,try new release,,Sebastian Thiel,,0.29
+2026-10-08T12:14:32+02:00[Europe/Berlin],2026-10-08T12:31:41+02:00[Europe/Berlin],1029,00:17:09,rustty,Byron,"windows build? update all, macOS and Win",,Sebastian Thiel,,0.29
+2026-10-09T04:20:33+02:00[Europe/Berlin],2026-10-09T04:39:25+02:00[Europe/Berlin],1132,00:18:52,rustty,Byron,more stream-deck tuning,,Sebastian Thiel,,0.31
+2026-10-09T05:18:40+02:00[Europe/Berlin],2026-10-09T05:40:51+02:00[Europe/Berlin],1331,00:22:11,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2278,,Sebastian Thiel,refackiew,0.37
+2026-10-09T07:51:59+02:00[Europe/Berlin],2026-10-09T07:54:48+02:00[Europe/Berlin],169,00:02:49,GitPython,Byron,"more cleanup, make it a breaking change after all.",Git3,Sebastian Thiel,,0.05
+2026-10-09T07:54:49+02:00[Europe/Berlin],2026-10-09T08:22:12+02:00[Europe/Berlin],1643,00:27:23,GitPython,Byron,,,Sebastian Thiel,,0.46
+2026-10-09T09:33:00+02:00[Europe/Berlin],2026-10-09T09:41:46+02:00[Europe/Berlin],526,00:08:46,gitoxide,Byron,get started with https://github.com/GitoxideLabs/gitoxide/pull/3037 and https://github.com/GitoxideLabs/gitoxide/pull/3036,,Sebastian Thiel,,0.15
+2026-10-09T13:21:37+02:00[Europe/Berlin],2026-10-09T13:30:38+02:00[Europe/Berlin],541,00:09:01,maintenance,Byron,https://github.com/Byron/crates-index-diff-rs/pull/58,,Sebastian Thiel,,0.15
+2026-10-09T14:17:12+02:00[Europe/Berlin],2026-10-09T14:30:33+02:00[Europe/Berlin],801,00:13:21,maintenance,Byron,https://github.com/Byron/crates-index-diff-rs/pull/59; also prompt the initial plan for the crates.io restoration project (maybe it's useless though),,Sebastian Thiel,,0.22
+2026-10-09T14:55:55+02:00[Europe/Berlin],2026-10-09T15:40:30+02:00[Europe/Berlin],2675,00:44:35,gitoxide,Byron,look at https://github.com/GitoxideLabs/gitoxide/pull/3037 and https://github.com/GitoxideLabs/gitoxide/pull/3036; https://github.com/GitoxideLabs/gitoxide/pull/3050#issuecomment-6081944409,,Sebastian Thiel,,0.74
+2026-10-10T04:18:14+02:00[Europe/Berlin],2026-10-10T04:33:34+02:00[Europe/Berlin],920,00:15:20,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2279;,,Sebastian Thiel,distracted,0.26
+2026-10-10T16:14:18+02:00[Europe/Berlin],2026-10-10T17:33:03+02:00[Europe/Berlin],4725,01:18:45,gitoxide,Byron,better replacement ref support; get https://github.com/GitoxideLabs/gitoxide/pull/3052 to merge,,Sebastian Thiel,"distracted, refackiew",1.31
+2026-10-10T19:04:19+02:00[Europe/Berlin],2026-10-10T19:08:36+02:00[Europe/Berlin],257,00:04:17,gitoxide,Byron,finalize https://github.com/GitoxideLabs/gitoxide/pull/3052 and get it merged,,Sebastian Thiel,refackiew,0.07
+2026-10-11T10:18:27+02:00[Europe/Berlin],2026-10-11T10:55:07+02:00[Europe/Berlin],2200,00:36:40,maintenance,Byron,kick-off bringing latest gix to major projects; ,,Sebastian Thiel,distracted,0.61
+2026-10-11T10:55:08+02:00[Europe/Berlin],2026-10-11T11:20:08+02:00[Europe/Berlin],1500,00:25:00,gitoxide,Byron,jj gix upgrade: https://github.com/jj-vcs/jj/pull/10364,gix-upgrade,Sebastian Thiel,distracted,0.42
+2026-10-11T13:37:57+02:00[Europe/Berlin],2026-10-11T13:49:00+02:00[Europe/Berlin],663,00:11:03,gitoxide,Byron,kitten protocol,https://github.com/GitoxideLabs/gitoxide/pull/3019,Sebastian Thiel,,0.18
+2026-10-11T13:49:21+02:00[Europe/Berlin],2026-10-11T13:53:18+02:00[Europe/Berlin],237,00:03:57,gitoxide,Byron,finish https://github.com/jj-vcs/jj/pull/10364;,gix-upgrade,Sebastian Thiel,,0.07
+2026-10-11T13:53:20+02:00[Europe/Berlin],2026-10-11T13:58:50+02:00[Europe/Berlin],330,00:05:30,gitoxide,Byron,https://github.com/rust-lang/cargo/pull/17578 first loook,gix-upgrade,Sebastian Thiel,"distracted, refackiew",0.09
+2026-10-11T14:14:57+02:00[Europe/Berlin],2026-10-11T14:38:12+02:00[Europe/Berlin],1395,00:23:15,gitoxide,Byron,"Try to get graphics for kitten protocol to work, fast enough",tix,Sebastian Thiel,,0.39
+2026-10-11T14:38:13+02:00[Europe/Berlin],2026-10-11T15:11:18+02:00[Europe/Berlin],1985,00:33:05,gitoxide,Byron,https://github.com/rust-lang/cargo/pull/17578 ,gix-upgrade,Sebastian Thiel,"distracted, interrupted",0.55
+2026-10-11T17:07:46+02:00[Europe/Berlin],2026-10-11T17:38:39+02:00[Europe/Berlin],1853,00:30:53,gitoxide,Byron,https://github.com/rust-lang/cargo/pull/17578 ,gix-upgrade,Sebastian Thiel,distracted,0.51
+2026-10-11T18:29:33+02:00[Europe/Berlin],2026-10-11T18:50:25+02:00[Europe/Berlin],1252,00:20:52,gitoxide,Byron,create PR for pygix ajustments; https://github.com/GitoxideLabs/gitoxide/pull/3054,,Sebastian Thiel,,0.35
+2026-10-12T04:22:05+02:00[Europe/Berlin],2026-10-12T04:25:21+02:00[Europe/Berlin],196,00:03:16,rustty,Byron,fix stream deck,,Sebastian Thiel,,0.05
+2026-10-12T05:55:00+02:00[Europe/Berlin],2026-10-12T06:15:00+02:00[Europe/Berlin],1200,00:20:00,gitoxide,Byron,more path-way tuning,tix,Sebastian Thiel,,0.33
+2026-10-12T06:15:00+02:00[Europe/Berlin],2026-10-12T06:43:56+02:00[Europe/Berlin],1736,00:28:56,GitPython,Byron,merge https://github.com/gitpython-developers/GitPython/pull/2280; continue on GixPython,,Sebastian Thiel,"distracted, refackiew",0.48
+2026-10-12T12:15:23+02:00[Europe/Berlin],2026-10-12T12:20:20+02:00[Europe/Berlin],297,00:04:57,rustty,Byron,performance of pixel graphics,,Sebastian Thiel,,0.08
+2026-10-12T14:43:17+02:00[Europe/Berlin],2026-10-12T14:55:05+02:00[Europe/Berlin],708,00:11:48,rustty,Byron,perf for tix,,Sebastian Thiel,,0.20
+2026-10-12T14:55:06+02:00[Europe/Berlin],2026-10-12T15:27:15+02:00[Europe/Berlin],1929,00:32:09,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3055,,Sebastian Thiel,refackiew,0.54
+2026-10-12T15:27:18+02:00[Europe/Berlin],2026-10-12T15:41:26+02:00[Europe/Berlin],848,00:14:08,maintenance,team rust-lang,https://github.com/rust-lang/libz-sys/pull/276,,Sebastian Thiel,distracted,0.24
+2026-10-12T21:13:01+02:00[Europe/Berlin],2026-10-12T21:21:51+02:00[Europe/Berlin],530,00:08:50,cargo-gitoxide,Byron,try to get update merged; https://github.com/rust-lang/cargo/pull/17578#issuecomment-6130151258,,Sebastian Thiel,,0.15
+2026-10-13T04:25:15+02:00[Europe/Berlin],2026-10-13T04:30:16+02:00[Europe/Berlin],301,00:05:01,maintenance,team rust-lang,https://github.com/rust-lang/libz-sys/pull/277,,Sebastian Thiel,distracted,0.08
+2026-10-13T04:30:18+02:00[Europe/Berlin],2026-10-13T04:53:47+02:00[Europe/Berlin],1409,00:23:29,dua-cli,Byron,https://github.com/Byron/dua-cli/pull/413; get it through CI,,Sebastian Thiel,refackiew,0.39
+2026-10-13T04:53:48+02:00[Europe/Berlin],2026-10-13T04:56:00+02:00[Europe/Berlin],132,00:02:12,GitPython,Byron,https://github.com/github/advisory-database/pull/10326#pullrequestreview-5498247086,,Sebastian Thiel,,0.04
+2026-10-13T04:56:01+02:00[Europe/Berlin],2026-10-13T06:09:36+02:00[Europe/Berlin],4415,01:13:35,maintenance,Byron,Try to review https://github.com/Byron/trash-rs/pull/152; get Linux back to work and fail https://github.com/Byron/trash-rs/pull/152#issuecomment-6138033038,,Sebastian Thiel,,1.23
+2026-10-13T06:30:47+02:00[Europe/Berlin],2026-10-13T06:44:41+02:00[Europe/Berlin],834,00:13:54,maintenance,Byron,,,Sebastian Thiel,,0.23
+2026-10-13T08:03:06+02:00[Europe/Berlin],2026-10-13T08:19:25+02:00[Europe/Berlin],979,00:16:19,maintenance,Byron,try to get Linux Codex to work,trash-rs,Sebastian Thiel,,0.27
+2026-10-13T09:15:24+02:00[Europe/Berlin],2026-10-13T09:57:20+02:00[Europe/Berlin],2516,00:41:56,maintenance,Byron,try to get Linux Codex to work; finish https://github.com/Byron/trash-rs/pull/152#issuecomment-6141011103,trash-rs,Sebastian Thiel,,0.70
+2026-10-13T10:08:06+02:00[Europe/Berlin],2026-10-13T10:11:57+02:00[Europe/Berlin],231,00:03:51,maintenance,Byron,"wrap portal support, in theory; https://github.com/Byron/trash-rs/pull/152#issuecomment-6141235360",trash-rs,Sebastian Thiel,,0.06
+2026-10-13T10:18:13+02:00[Europe/Berlin],2026-10-13T10:21:01+02:00[Europe/Berlin],168,00:02:48,maintenance,team rust-lang,https://github.com/rust-lang/libz-sys/pull/278,,Sebastian Thiel,,0.05
+2026-10-13T10:21:02+02:00[Europe/Berlin],2026-10-13T10:57:13+02:00[Europe/Berlin],2171,00:36:11,maintenance,team rust-lang,https://github.com/rust-lang/flate2-rs/pull/573#issuecomment-6141985826,,Sebastian Thiel,refackiew,0.60
+2026-10-13T12:43:09+02:00[Europe/Berlin],2026-10-13T13:00:42+02:00[Europe/Berlin],1053,00:17:33,gitoxide,Byron,finish https://github.com/GitoxideLabs/gitoxide/pull/3057,,Sebastian Thiel,,0.29
+2026-10-13T14:04:50+02:00[Europe/Berlin],2026-10-13T14:11:13+02:00[Europe/Berlin],383,00:06:23,gitoxide,Byron,"start research for 'unstable', a path to stability",gix 1.0,Sebastian Thiel,,0.11
+2026-10-13T15:18:51+02:00[Europe/Berlin],2026-10-13T15:40:03+02:00[Europe/Berlin],1272,00:21:12,gitoxide,Byron,kick off 'unstable' feature,gix 1.0,Sebastian Thiel,distracted,0.35
+2026-10-13T17:19:50+02:00[Europe/Berlin],2026-10-13T17:21:30+02:00[Europe/Berlin],100,00:01:40,rustty,Byron,some improvements around label sizes,,Sebastian Thiel,,0.03
+2026-10-13T19:54:52+02:00[Europe/Berlin],2026-10-13T21:56:26+02:00[Europe/Berlin],7294,02:01:34,gitoxide,Byron,first prompt for grix,,Sebastian Thiel,distracted,2.03
+2026-10-14T04:18:08+02:00[Europe/Berlin],2026-10-14T04:19:51+02:00[Europe/Berlin],103,00:01:43,maintenance,Byron,https://github.com/Byron/trash-rs/pull/152#issuecomment-6159435411,,Sebastian Thiel,,0.03
+2026-10-14T04:54:00+02:00[Europe/Berlin],2026-10-14T05:03:20+02:00[Europe/Berlin],560,00:09:20,maintenance,Byron,cleanup workspace,,Sebastian Thiel,,0.16
+2026-10-14T05:03:21+02:00[Europe/Berlin],2026-10-14T05:25:59+02:00[Europe/Berlin],1358,00:22:38,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3059#pullrequestreview-5512697110,,Sebastian Thiel,refackiew,0.38
+2026-10-14T05:50:51+02:00[Europe/Berlin],2026-10-14T06:01:52+02:00[Europe/Berlin],661,00:11:01,gitoxide,Byron,read up on summary after first pass; ,grix,Sebastian Thiel,,0.18
+2026-10-14T06:01:53+02:00[Europe/Berlin],2026-10-14T06:03:33+02:00[Europe/Berlin],100,00:01:40,maintenance,Byron,first look at https://github.com/Byron/trash-rs/pull/152; not ready though,trash-rs,Sebastian Thiel,,0.03
+2026-10-14T06:03:34+02:00[Europe/Berlin],2026-10-14T06:15:51+02:00[Europe/Berlin],737,00:12:17,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2281; also update gix-backend branch,,Sebastian Thiel,"distracted, refackiew",0.20
+2026-10-14T06:15:52+02:00[Europe/Berlin],2026-10-14T06:33:11+02:00[Europe/Berlin],1039,00:17:19,gitoxide,Byron,wrap https://github.com/GitoxideLabs/gitoxide/pull/3059,,Sebastian Thiel,,0.29
+2026-10-14T08:41:46+02:00[Europe/Berlin],2026-10-14T09:11:27+02:00[Europe/Berlin],1781,00:29:41,maintenance,Byron,https://github.com/Byron/trash-rs/pull/152#issuecomment-6162901229,trash-rs,Sebastian Thiel,"distracted, refackiew",0.49
+2026-10-14T09:11:28+02:00[Europe/Berlin],2026-10-14T11:43:41+02:00[Europe/Berlin],9133,02:32:13,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2284; also new release of GixPython and update of gix backend; ,,Sebastian Thiel,distracted,2.54
+2026-10-14T14:06:00+02:00[Europe/Berlin],2026-10-14T14:15:00+02:00[Europe/Berlin],540,00:09:00,gitoxide,Byron,try rounding corners more,tix,Sebastian Thiel,,0.15
+2026-10-14T14:15:00+02:00[Europe/Berlin],2026-10-14T14:23:49+02:00[Europe/Berlin],529,00:08:49,GitPython,Byron,new release and publish advisory https://github.com/gitpython-developers/GitPython/security/advisories/GHSA-83vg-56qc-22m7,,Sebastian Thiel,,0.15
+2026-10-14T14:37:30+02:00[Europe/Berlin],2026-10-14T14:44:55+02:00[Europe/Berlin],445,00:07:25,gitoxide,Byron,better line drawing,tix,Sebastian Thiel,,0.12
+2026-10-14T14:44:56+02:00[Europe/Berlin],2026-10-14T14:47:21+02:00[Europe/Berlin],145,00:02:25,gitoxide,Byron,,,Sebastian Thiel,"interrupted, refackiew",0.04
+2026-10-14T16:02:30+02:00[Europe/Berlin],2026-10-14T16:19:46+02:00[Europe/Berlin],1036,00:17:16,gitoxide,Byron,line performance; also talk to sam,tix,Sebastian Thiel,distracted,0.29
+2026-10-15T04:17:28+02:00[Europe/Berlin],2026-10-15T04:22:10+02:00[Europe/Berlin],282,00:04:42,maintenance,Byron,https://github.com/the-lean-crate/cargo-diet/pull/107,,Sebastian Thiel,,0.08
+2026-10-15T04:22:11+02:00[Europe/Berlin],2026-10-15T04:45:44+02:00[Europe/Berlin],1413,00:23:33,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3062#issuecomment-6183198685,,Sebastian Thiel,refackiew,0.39
+2026-10-15T04:54:08+02:00[Europe/Berlin],2026-10-15T05:05:50+02:00[Europe/Berlin],702,00:11:42,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2286 started review,,Sebastian Thiel,refackiew,0.20
+2026-10-15T05:05:56+02:00[Europe/Berlin],2026-10-15T05:16:45+02:00[Europe/Berlin],649,00:10:49,maintenance,team rust-lang,https://github.com/rust-lang/flate2-rs/pull/574#issuecomment-6183580797,,Sebastian Thiel,refackiew,0.18
+2026-10-15T05:16:50+02:00[Europe/Berlin],2026-10-15T05:26:26+02:00[Europe/Berlin],576,00:09:36,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2286  finish,,Sebastian Thiel,refackiew,0.16
+2026-10-15T07:33:03+02:00[Europe/Berlin],2026-10-15T07:38:49+02:00[Europe/Berlin],346,00:05:46,GitPython,Byron,"update gix-backend; also update Rustty/Ghostty, keep track of it more",,Sebastian Thiel,,0.10
+2026-10-15T07:58:09+02:00[Europe/Berlin],2026-10-15T08:18:57+02:00[Europe/Berlin],1248,00:20:48,tix,Byron,better line handling maybe?,,Sebastian Thiel,,0.35
+2026-10-15T08:30:44+02:00[Europe/Berlin],2026-10-15T09:01:28+02:00[Europe/Berlin],1844,00:30:44,tix,Byron,better line handling maybe?,,Sebastian Thiel,,0.51
+2026-10-15T10:41:33+02:00[Europe/Berlin],2026-10-15T11:00:44+02:00[Europe/Berlin],1151,00:19:11,rustty,Byron,update with Ghostty changes,,Sebastian Thiel,,0.32
+2026-10-15T11:58:00+02:00[Europe/Berlin],2026-10-15T12:13:14+02:00[Europe/Berlin],914,00:15:14,rustty,Byron,finish Ghostty update adoption,,Sebastian Thiel,,0.25
+2026-10-15T13:36:21+02:00[Europe/Berlin],2026-10-15T14:04:16+02:00[Europe/Berlin],1675,00:27:55,rustty,Byron,some mouse pointer tuning; also Rustty; also https://github.com/GitoxideLabs/gitoxide/issues/3063#issuecomment-6191587216,,Sebastian Thiel,,0.47
+2026-10-15T14:17:17+02:00[Europe/Berlin],2026-10-15T14:27:01+02:00[Europe/Berlin],584,00:09:44,gitoxide,Byron,zoom to view,tix,Sebastian Thiel,,0.16
+2026-10-15T15:44:40+02:00[Europe/Berlin],2026-10-15T15:59:47+02:00[Europe/Berlin],907,00:15:07,tix,Byron,better line drawing perf,,Sebastian Thiel,,0.25
+2026-10-15T16:08:26+02:00[Europe/Berlin],2026-10-15T16:10:46+02:00[Europe/Berlin],140,00:02:20,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3064,,Sebastian Thiel,,0.04
+2026-10-15T20:06:06+02:00[Europe/Berlin],2026-10-15T20:28:32+02:00[Europe/Berlin],1346,00:22:26,maintenance,Byron,https://github.com/Byron/dua-cli/issues/414,dua-cli,Sebastian Thiel,,0.37
+2026-10-15T21:01:39+02:00[Europe/Berlin],2026-10-15T21:08:45+02:00[Europe/Berlin],426,00:07:06,tix,Byron,perf ,,Sebastian Thiel,,0.12
+2026-10-16T04:27:30+02:00[Europe/Berlin],2026-10-16T05:29:31+02:00[Europe/Berlin],3721,01:02:01,cargo-gitoxide,Byron,Address review comments https://github.com/GitoxideLabs/gitoxide/pull/3064,,Sebastian Thiel,distracted,1.03
+2026-10-16T06:09:45+02:00[Europe/Berlin],2026-10-16T07:00:15+02:00[Europe/Berlin],3030,00:50:30,maintenance,team rust-lang,https://github.com/rust-lang/flate2-rs/pull/575; distracted with Windows builds as well,,Sebastian Thiel,"distracted, refackiew",0.84
+2026-10-16T07:00:22+02:00[Europe/Berlin],2026-10-16T07:06:32+02:00[Europe/Berlin],370,00:06:10,GitPython,Byron,,,Sebastian Thiel,refackiew,0.10
+2026-10-16T07:06:33+02:00[Europe/Berlin],2026-10-16T09:30:00+02:00[Europe/Berlin],8607,02:23:27,gitoxide,Byron,Breakfast with Christoph,,Sebastian Thiel,community,2.39
+2026-10-16T10:47:02+02:00[Europe/Berlin],2026-10-16T10:58:14+02:00[Europe/Berlin],672,00:11:12,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2288,,Sebastian Thiel,refackiew,0.19
+2026-10-16T10:58:15+02:00[Europe/Berlin],2026-10-16T11:21:07+02:00[Europe/Berlin],1372,00:22:52,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2289,,Sebastian Thiel,refackiew,0.38
+2026-10-16T11:21:07+02:00[Europe/Berlin],2026-10-16T11:32:36+02:00[Europe/Berlin],689,00:11:29,maintenance,team rust-lang,Kick off review feedback integration https://github.com/rust-lang/flate2-rs/pull/573#issuecomment-6212495127,,Sebastian Thiel,refackiew,0.19
+2026-10-16T11:32:42+02:00[Europe/Berlin],2026-10-16T11:42:31+02:00[Europe/Berlin],589,00:09:49,cargo-gitoxide,Byron,continue with https://github.com/rust-lang/cargo/pull/17578,,Sebastian Thiel,,0.16
+2026-10-16T11:42:32+02:00[Europe/Berlin],2026-10-16T13:27:03+02:00[Europe/Berlin],6271,01:44:31,gitoxide,Byron,meet with Sam Reis for Contributor lunch,,Sebastian Thiel,,1.74
+2026-10-16T13:27:06+02:00[Europe/Berlin],2026-10-16T13:45:43+02:00[Europe/Berlin],1117,00:18:37,maintenance,team rust-lang,,,Sebastian Thiel,refackiew,0.31
+2026-10-16T14:23:30+02:00[Europe/Berlin],2026-10-16T14:31:20+02:00[Europe/Berlin],470,00:07:50,tix,Byron,fixes,,Sebastian Thiel,,0.13
+2026-10-16T15:34:58+02:00[Europe/Berlin],2026-10-16T15:51:08+02:00[Europe/Berlin],970,00:16:10,gitoxide,Byron,see if Sam can have Claude,,Sebastian Thiel,distracted,0.27
+2026-10-16T19:57:26+02:00[Europe/Berlin],2026-10-16T20:08:05+02:00[Europe/Berlin],639,00:10:39,gitoxide,Byron,manage access,,Sebastian Thiel,community,0.18
+2026-10-16T20:08:11+02:00[Europe/Berlin],2026-10-16T20:29:38+02:00[Europe/Berlin],1287,00:21:27,maintenance,team rust-lang,Try to wrap https://github.com/rust-lang/flate2-rs/pull/573,,Sebastian Thiel,,0.36
+2026-10-16T20:29:44+02:00[Europe/Berlin],2026-10-16T20:39:31+02:00[Europe/Berlin],587,00:09:47,GitPython,Byron,finish https://github.com/gitpython-developers/GitPython/pull/2289,,Sebastian Thiel,refackiew,0.16
+2026-10-17T04:17:39+02:00[Europe/Berlin],2026-10-17T04:43:43+02:00[Europe/Berlin],1564,00:26:04,dua-cli,Byron,https://github.com/Byron/dua-cli/pull/415,,Sebastian Thiel,refackiew,0.43
+2026-10-17T04:43:44+02:00[Europe/Berlin],2026-10-17T04:57:01+02:00[Europe/Berlin],797,00:13:17,GitPython,Byron,finish https://github.com/gitpython-developers/GitPython/pull/2289 and https://github.com/gitpython-developers/GitPython/pull/2290,,Sebastian Thiel,refackiew,0.22
+2026-10-17T04:57:03+02:00[Europe/Berlin],2026-10-17T05:42:27+02:00[Europe/Berlin],2724,00:45:24,maintenance,team rust-lang,kick off https://github.com/rust-lang/flate2-rs/issues/576; merge https://github.com/rust-lang/flate2-rs/pull/565; merge https://github.com/rust-lang/flate2-rs/pull/566;  merged https://github.com/rust-lang/flate2-rs/pull/567; checkin on https://github.com/rust-lang/flate2-rs/pull/548,,Sebastian Thiel,refackiew,0.76
+2026-10-17T05:42:29+02:00[Europe/Berlin],2026-10-17T05:50:00+02:00[Europe/Berlin],451,00:07:31,maintenance,team rust-lang,merge https://github.com/rust-lang/flate2-rs/pull/564,,Sebastian Thiel,refackiew,0.13
+2026-10-17T05:50:00+02:00[Europe/Berlin],2026-10-17T06:11:15+02:00[Europe/Berlin],1275,00:21:15,cargo-gitoxide,Byron,kick off CI after rebase and some restructuring; https://github.com/rust-lang/cargo/pull/17578#pullrequestreview-5556018862,,Sebastian Thiel,"distracted, refackiew",0.35
+2026-10-17T06:11:16+02:00[Europe/Berlin],2026-10-17T06:18:36+02:00[Europe/Berlin],440,00:07:20,Google APIs,Byron,https://github.com/Byron/google-apis-rs/pull/581#issuecomment-6229539609,,Sebastian Thiel,,0.12
+2026-10-17T06:18:37+02:00[Europe/Berlin],2026-10-17T06:27:18+02:00[Europe/Berlin],521,00:08:41,GitPython,Byron,Hopefully finish https://github.com/gitpython-developers/GitPython/pull/2289,,Sebastian Thiel,,0.14
+2026-10-17T07:54:52+02:00[Europe/Berlin],2026-10-17T07:57:15+02:00[Europe/Berlin],143,00:02:23,maintenance,team rust-lang,https://github.com/rust-lang/flate2-rs/pull/578; https://github.com/rust-lang/flate2-rs/pull/579,,Sebastian Thiel,,0.04
+2026-10-17T08:21:39+02:00[Europe/Berlin],2026-10-17T08:28:50+02:00[Europe/Berlin],431,00:07:11,gitoxide,Byron,bring older branches uptodate,,Sebastian Thiel,,0.12
+2026-10-17T09:00:16+02:00[Europe/Berlin],2026-10-17T10:32:35+02:00[Europe/Berlin],5539,01:32:19,gitoxide,Byron,try to get through https://github.com/GitoxideLabs/gitoxide/pull/3037,,Sebastian Thiel,refackiew,1.54
+2026-10-17T10:54:10+02:00[Europe/Berlin],2026-10-17T11:39:32+02:00[Europe/Berlin],2722,00:45:22,gitoxide,Byron,try to get through https://github.com/GitoxideLabs/gitoxide/pull/3037,,Sebastian Thiel,"interrupted, refackiew",0.76
+2026-10-17T12:19:21+02:00[Europe/Berlin],2026-10-17T13:08:10+02:00[Europe/Berlin],2929,00:48:49,gitoxide,Byron,try to get through https://github.com/GitoxideLabs/gitoxide/pull/3037,,Sebastian Thiel,"distracted, refackiew",0.81
+2026-10-17T14:25:46+02:00[Europe/Berlin],2026-10-17T14:49:14+02:00[Europe/Berlin],1408,00:23:28,gitoxide,Byron,with Sam about Sirocco; ,,Sebastian Thiel,"distracted, refackiew",0.39
+2026-10-17T14:49:15+02:00[Europe/Berlin],2026-10-17T15:50:36+02:00[Europe/Berlin],3681,01:01:21,gitoxide,Byron,try to wrap https://github.com/GitoxideLabs/gitoxide/pull/3037; everything is reviewed,,Sebastian Thiel,refackiew,1.02
+2026-10-17T15:50:36+02:00[Europe/Berlin],2026-10-17T16:13:00+02:00[Europe/Berlin],1344,00:22:24,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3066 - first steps,,Sebastian Thiel,refackiew,0.37
+2026-10-17T18:56:53+02:00[Europe/Berlin],2026-10-17T19:03:04+02:00[Europe/Berlin],371,00:06:11,gitoxide,Byron,wrap https://github.com/GitoxideLabs/gitoxide/pull/3037,,Sebastian Thiel,"distracted, refackiew",0.10
+2026-10-17T19:03:05+02:00[Europe/Berlin],2026-10-17T19:18:57+02:00[Europe/Berlin],952,00:15:52,rustty,Byron,outliner,,Sebastian Thiel,,0.26
+2026-10-18T08:30:30+02:00[Europe/Berlin],2026-10-18T08:48:29+02:00[Europe/Berlin],1079,00:17:59,rustty,Byron,bring in latest version; make more fixes,,Sebastian Thiel,,0.30
+2026-10-18T08:48:30+02:00[Europe/Berlin],2026-10-18T10:31:41+02:00[Europe/Berlin],6191,01:43:11,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3066,,Sebastian Thiel,"distracted, interrupted, refackiew",1.72
+2026-10-18T10:46:15+02:00[Europe/Berlin],2026-10-18T11:36:51+02:00[Europe/Berlin],3036,00:50:36,gitoxide,Byron,wrap https://github.com/GitoxideLabs/gitoxide/pull/3066?,,Sebastian Thiel,refackiew,0.84
+2026-10-18T13:33:14+02:00[Europe/Berlin],2026-10-18T13:36:19+02:00[Europe/Berlin],185,00:03:05,gitoxide,Byron,wrap https://github.com/GitoxideLabs/gitoxide/pull/3066,,Sebastian Thiel,refackiew,0.05
+2026-10-18T13:36:21+02:00[Europe/Berlin],2026-10-18T13:40:55+02:00[Europe/Berlin],274,00:04:34,rustty,Byron,get the latest version,,Sebastian Thiel,,0.08
+2026-10-18T14:06:46+02:00[Europe/Berlin],2026-10-18T14:16:21+02:00[Europe/Berlin],575,00:09:35,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2292#issuecomment-6249800340,,Sebastian Thiel,refackiew,0.16
+2026-10-18T14:16:22+02:00[Europe/Berlin],2026-10-18T14:23:14+02:00[Europe/Berlin],412,00:06:52,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2291,,Sebastian Thiel,review PR,0.11
+2026-10-18T14:23:22+02:00[Europe/Berlin],2026-10-18T14:37:46+02:00[Europe/Berlin],864,00:14:24,maintenance,team rust-lang,https://github.com/rust-lang/flate2-rs/pull/582#issuecomment-6249990610,flate2,Sebastian Thiel,refackiew,0.24
+2026-10-18T14:57:22+02:00[Europe/Berlin],2026-10-18T15:00:40+02:00[Europe/Berlin],198,00:03:18,rustty,Byron,better streamdeck integration,,Sebastian Thiel,,0.06
+2026-10-18T15:44:55+02:00[Europe/Berlin],2026-10-18T16:02:28+02:00[Europe/Berlin],1053,00:17:33,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3064,,Sebastian Thiel,"community, interrupted, refackiew",0.29
+2026-10-18T16:17:25+02:00[Europe/Berlin],2026-10-18T16:25:31+02:00[Europe/Berlin],486,00:08:06,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3064,,Sebastian Thiel,refackiew,0.14
+2026-10-18T16:33:18+02:00[Europe/Berlin],2026-10-18T17:23:09+02:00[Europe/Berlin],2991,00:49:51,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3064,,Sebastian Thiel,refackiew,0.83
+2026-10-18T19:10:00+02:00[Europe/Berlin],2026-10-18T19:44:21+02:00[Europe/Berlin],2061,00:34:21,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3064,,Sebastian Thiel,"interrupted, refackiew",0.57
+2026-10-18T20:38:27+02:00[Europe/Berlin],2026-10-18T22:45:00+02:00[Europe/Berlin],7593,02:06:33,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3064; also deal with https://github.com/GitoxideLabs/gitoxide/security/advisories/GHSA-q54r-jf2p-rfr2; nearly done with various-improvements,,Sebastian Thiel,"distracted, refackiew",2.11
+2026-10-19T04:19:06+02:00[Europe/Berlin],2026-10-19T05:26:33+02:00[Europe/Berlin],4047,01:07:27,gitoxide,Byron,wrap https://github.com/GitoxideLabs/gitoxide/pull/3064? also try to change deployment to get more tokens; try to get custom codex to work on the windows VM via SSH.,,Sebastian Thiel,,1.12
+2026-10-19T05:26:33+02:00[Europe/Berlin],2026-10-19T05:44:10+02:00[Europe/Berlin],1057,00:17:37,gitoxide,Byron,try to kick off https://github.com/GitoxideLabs/gitoxide/security/advisories/GHSA-xw69-xv93-5fjv and review https://github.com/GitoxideLabs/gitoxide/pull/3069,,Sebastian Thiel,,0.29
+2026-10-19T07:31:00+02:00[Europe/Berlin],2026-10-19T08:06:47+02:00[Europe/Berlin],2147,00:35:47,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3068,,Sebastian Thiel,refackiew,0.60
+2026-10-19T08:25:07+02:00[Europe/Berlin],2026-10-19T09:08:05+02:00[Europe/Berlin],2578,00:42:58,gitoxide,Byron,with Eliah on Discord,,Sebastian Thiel,community,0.72
+2026-10-19T09:08:06+02:00[Europe/Berlin],2026-10-19T09:10:21+02:00[Europe/Berlin],135,00:02:15,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3065#issuecomment-6261733334,,Sebastian Thiel,,0.04
+2026-10-19T09:10:22+02:00[Europe/Berlin],2026-10-19T11:07:23+02:00[Europe/Berlin],7021,01:57:01,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3070; https://github.com/GitoxideLabs/gitoxide/pull/3071 started,,Sebastian Thiel,"distracted, refackiew",1.95
+2026-10-19T11:13:03+02:00[Europe/Berlin],2026-10-19T11:36:01+02:00[Europe/Berlin],1378,00:22:58,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3071,,Sebastian Thiel,refackiew,0.38
+2026-10-19T12:04:34+02:00[Europe/Berlin],2026-10-19T12:19:04+02:00[Europe/Berlin],870,00:14:30,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3071 second commit nearly done,,Sebastian Thiel,refackiew,0.24
+2026-10-19T13:13:00+02:00[Europe/Berlin],2026-10-19T13:35:34+02:00[Europe/Berlin],1354,00:22:34,maintenance,Byron,windows-input fixes for crossterm; also chat with Eliah on Discord,,Sebastian Thiel,,0.38
+2026-10-19T14:29:45+02:00[Europe/Berlin],2026-10-19T16:22:16+02:00[Europe/Berlin],6751,01:52:31,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3069; also look at Rustty zellij integration and remote persistence; https://github.com/GitoxideLabs/gitoxide/pull/3074,,Sebastian Thiel,"distracted, refackiew",1.88
+2026-10-19T17:26:48+02:00[Europe/Berlin],2026-10-19T17:31:22+02:00[Europe/Berlin],274,00:04:34,rustty,Byron,see if tmuxx can be a thing,,Sebastian Thiel,,0.08
+2026-10-19T18:39:21+02:00[Europe/Berlin],2026-10-19T18:52:54+02:00[Europe/Berlin],813,00:13:33,rustty,Byron,look into getting tmux started,,Sebastian Thiel,,0.23
+2026-10-19T21:52:23+02:00[Europe/Berlin],2026-10-19T21:59:24+02:00[Europe/Berlin],421,00:07:01,gitoxide,Byron,get started on https://github.com/GitoxideLabs/gitoxide/issues/3076,,Sebastian Thiel,refackiew,0.12
+2026-10-20T04:19:01+02:00[Europe/Berlin],2026-10-20T04:35:22+02:00[Europe/Berlin],981,00:16:21,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3077,,Sebastian Thiel,refackiew,0.27
+2026-10-20T04:35:23+02:00[Europe/Berlin],2026-10-20T05:46:29+02:00[Europe/Berlin],4266,01:11:06,rustty,Byron,wrap tmuxx and continue Rustty integration,,Sebastian Thiel,,1.19
+2026-10-20T06:40:06+02:00[Europe/Berlin],2026-10-20T07:03:06+02:00[Europe/Berlin],1380,00:23:00,rustty,Byron,more tmux planning,,Sebastian Thiel,interrupted,0.38
+2026-10-20T07:51:45+02:00[Europe/Berlin],2026-10-20T08:17:05+02:00[Europe/Berlin],1520,00:25:20,rustty,Byron,tmux - reintegratee linux; kick-off tmuxx adjustments,,Sebastian Thiel,,0.42
+2026-10-20T09:08:57+02:00[Europe/Berlin],2026-10-20T09:13:37+02:00[Europe/Berlin],280,00:04:40,rustty,Byron,get Windows version on track,,Sebastian Thiel,,0.08
+2026-10-20T09:28:02+02:00[Europe/Berlin],2026-10-20T09:41:40+02:00[Europe/Berlin],818,00:13:38,rustty,Byron,try new tmux-enabled version,,Sebastian Thiel,,0.23
+2026-10-20T09:52:14+02:00[Europe/Berlin],2026-10-20T10:12:54+02:00[Europe/Berlin],1240,00:20:40,rustty,Byron,try tmuxx,,Sebastian Thiel,,0.34
+2026-10-20T10:12:55+02:00[Europe/Berlin],2026-10-20T10:32:00+02:00[Europe/Berlin],1145,00:19:05,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3075,,Sebastian Thiel,refackiew,0.32
+2026-10-20T10:52:37+02:00[Europe/Berlin],2026-10-20T11:09:04+02:00[Europe/Berlin],987,00:16:27,rustty,Byron,try tmuxx more,,Sebastian Thiel,,0.27
+2026-10-20T11:09:05+02:00[Europe/Berlin],2026-10-20T11:46:57+02:00[Europe/Berlin],2272,00:37:52,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3065,,Sebastian Thiel,"interrupted, refackiew",0.63
+2026-10-20T14:03:12+02:00[Europe/Berlin],2026-10-20T16:21:16+02:00[Europe/Berlin],8284,02:18:04,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3065#pullrequestreview-5586394053,,Sebastian Thiel,refackiew,2.30
+2026-10-20T16:21:17+02:00[Europe/Berlin],2026-10-20T17:31:43+02:00[Europe/Berlin],4226,01:10:26,rustty,Byron,"try tmux more, but needs more work, maybe soon it works on Windows",,Sebastian Thiel,,1.17
+2026-10-20T20:12:17+02:00[Europe/Berlin],2026-10-20T20:23:10+02:00[Europe/Berlin],653,00:10:53,rustty,Byron,try tmux again,,Sebastian Thiel,,0.18
+2026-10-21T04:20:35+02:00[Europe/Berlin],2026-10-21T04:37:55+02:00[Europe/Berlin],1040,00:17:20,rustty,Byron,,,Sebastian Thiel,,0.29
+2026-10-21T05:13:40+02:00[Europe/Berlin],2026-10-21T06:01:45+02:00[Europe/Berlin],2885,00:48:05,rustty,Byron,more tmux adjustments ,,Sebastian Thiel,,0.80
+2026-10-21T06:56:18+02:00[Europe/Berlin],2026-10-21T07:04:31+02:00[Europe/Berlin],493,00:08:13,rustty,Byron,,,Sebastian Thiel,,0.14
+2026-10-21T07:28:00+02:00[Europe/Berlin],2026-10-21T07:36:00+02:00[Europe/Berlin],480,00:08:00,rustty,Byron,more tmux fixes,,Sebastian Thiel,,0.13
+2026-10-21T07:36:00+02:00[Europe/Berlin],2026-10-21T08:33:44+02:00[Europe/Berlin],3464,00:57:44,rustty,Byron,"also tix fixes, more tmux improvements",,Sebastian Thiel,,0.96
+2026-10-21T08:33:45+02:00[Europe/Berlin],2026-10-21T09:03:03+02:00[Europe/Berlin],1758,00:29:18,gitoxide,Byron,"check performance claims, agent review",,Sebastian Thiel,"interrupted, refackiew",0.49
+2026-10-21T09:42:00+02:00[Europe/Berlin],2026-10-21T09:52:53+02:00[Europe/Berlin],653,00:10:53,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3080,,Sebastian Thiel,refackiew,0.18
+2026-10-21T10:40:04+02:00[Europe/Berlin],2026-10-21T11:24:15+02:00[Europe/Berlin],2651,00:44:11,rustty,Byron,"test tmux for Rustty more, on linux this time; and it all works! Also try fish with bash integration;",,Sebastian Thiel,distracted,0.74
+2026-10-21T13:28:32+02:00[Europe/Berlin],2026-10-21T13:50:49+02:00[Europe/Berlin],1337,00:22:17,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2295,,Sebastian Thiel,"distracted, refackiew",0.37
+2026-10-21T13:50:56+02:00[Europe/Berlin],2026-10-21T14:05:36+02:00[Europe/Berlin],880,00:14:40,GitPython,Byron,basically finish https://github.com/gitpython-developers/GitPython/pull/2297,,Sebastian Thiel,refackiew,0.24
+2026-10-21T14:16:58+02:00[Europe/Berlin],2026-10-21T14:30:03+02:00[Europe/Berlin],785,00:13:05,rustty,Byron,try to wrap fish-bash,,Sebastian Thiel,,0.22
+2026-10-21T14:30:04+02:00[Europe/Berlin],2026-10-21T14:50:00+02:00[Europe/Berlin],1196,00:19:56,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2298,,Sebastian Thiel,"distracted, refackiew",0.33
+2026-10-21T14:50:00+02:00[Europe/Berlin],2026-10-21T15:11:19+02:00[Europe/Berlin],1279,00:21:19,rustty,Byron,make fish/rash good,,Sebastian Thiel,,0.36
+2026-10-21T15:11:20+02:00[Europe/Berlin],2026-10-21T15:38:04+02:00[Europe/Berlin],1604,00:26:44,GitPython,Byron,https://github.com/gitpython-developers/GitPython/pull/2299,,Sebastian Thiel,"distracted, refackiew",0.45
+2026-10-21T15:38:05+02:00[Europe/Berlin],2026-10-21T15:50:00+02:00[Europe/Berlin],715,00:11:55,maintenance,Byron,https://github.com/Byron/open-rs/issues/134,,Sebastian Thiel,"distracted, refackiew",0.20
+2026-10-21T15:50:00+02:00[Europe/Berlin],2026-10-21T18:00:47+02:00[Europe/Berlin],7847,02:10:47,rustty,Byron,more tmux and fish on windows,,Sebastian Thiel,,2.18
+2026-10-21T19:20:16+02:00[Europe/Berlin],2026-10-21T19:53:00+02:00[Europe/Berlin],1964,00:32:44,maintenance,Byron,https://github.com/Byron/open-rs/issues/134,,Sebastian Thiel,"interrupted, refackiew",0.55
+2026-10-21T21:07:19+02:00[Europe/Berlin],2026-10-21T22:07:00+02:00[Europe/Berlin],3581,00:59:41,rustty,Byron,one more tmux upgrade,,Sebastian Thiel,,0.99
+2026-10-22T04:26:01+02:00[Europe/Berlin],2026-10-22T04:35:56+02:00[Europe/Berlin],595,00:09:55,GitPython,Byron,,,Sebastian Thiel,community,0.17
+2026-10-22T04:35:57+02:00[Europe/Berlin],2026-10-22T04:45:30+02:00[Europe/Berlin],573,00:09:33,maintenance,Byron,merge dep updates; https://github.com/the-lean-crate/cargo-diet/pull/108; https://github.com/the-lean-crate/cargo-diet/pull/109,,Sebastian Thiel,,0.16
+2026-10-22T04:45:31+02:00[Europe/Berlin],2026-10-22T05:28:22+02:00[Europe/Berlin],2571,00:42:51,gitoxide,Byron,https://github.com/GitoxideLabs/gitoxide/pull/3082#issuecomment-6331907656,,Sebastian Thiel,refackiew,0.71
+2026-10-22T05:28:22+02:00[Europe/Berlin],2026-10-22T05:52:53+02:00[Europe/Berlin],1471,00:24:31,maintenance,Byron,finalise https://github.com/Byron/open-rs/pull/135; https://github.com/Byron/open-rs/issues/134#issuecomment-6332258743,,Sebastian Thiel,review PR,0.41
+2026-10-22T08:56:21+02:00[Europe/Berlin],2026-10-22T09:45:08+02:00[Europe/Berlin],2927,00:48:47,rustty,Byron,some more testing,,Sebastian Thiel,,0.81
+2026-10-22T09:45:17+02:00[Europe/Berlin],2026-10-22T10:31:49+02:00[Europe/Berlin],2792,00:46:32,gitoxide,GitHub Sponsors,prep monthly report (but did mostly Rustty); basic outline,,Sebastian Thiel,distracted,0.78
+2026-10-22T11:17:00+02:00[Europe/Berlin],2026-10-22T11:18:18+02:00[Europe/Berlin],78,00:01:18,rustty,Byron,fish tweaks,,Sebastian Thiel,,0.02
+2026-10-22T11:18:24+02:00[Europe/Berlin],2026-10-22T11:24:54+02:00[Europe/Berlin],390,00:06:30,gitoxide,GitHub Sponsors,write report,,Sebastian Thiel,,0.11
+2026-10-22T11:25:00+02:00[Europe/Berlin],2026-10-22T11:25:21+02:00[Europe/Berlin],21,00:00:21,rustty,Byron,more tuning; also gitime,,Sebastian Thiel,,0.01
+2026-10-22T12:55:45+02:00[Europe/Berlin],2026-10-22T13:59:23+02:00[Europe/Berlin],3818,01:03:38,rustty,Byron,prep for more public release; and kick-off restarting without lossing sessions; also GitTime work; better state handling,,Sebastian Thiel,,1.06
