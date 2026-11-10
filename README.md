@@ -1,7 +1,8 @@
 Hi 👋,
 
-I am an open source developer who is in love with Rust and apparently quite obsessed with Git.
+I am a German freelancer and open source developer who is in love with Rust and apparently quite obsessed with Git.
 Probably that's why I am maintaining [GitPython][gitpython] and making [gitoxide][gitoxide], a Rust implementation of Git 🎉.
+I also provide commercial support for any of my projects - reach out by e-mail to get in touch.
 
 You can take a look at [my timesheets][timesheets] or support me [via GitHub Sponsors][sponsoring].
 
